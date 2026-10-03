@@ -4,3 +4,4 @@
 .obsidian/cache
 # Full textbook chapters (copyrighted) stay local only
 Textbooks/
+.obsidian/plugins/
