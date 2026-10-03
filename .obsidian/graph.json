@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Dental Study Material/_Topic Hubs\"",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
+    },
+    {
+      "query": "path:\"Dental Study Material/Module 1\"",
+      "color": {
+        "a": 1,
+        "rgb": 3066993
+      }
+    },
+    {
+      "query": "path:\"Dental Study Material/Module 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 15158332
+      }
+    },
+    {
+      "query": "path:\"Dental Study Material/Module 3\"",
+      "color": {
+        "a": 1,
+        "rgb": 3447003
+      }
+    },
+    {
+      "query": "path:\"Textbooks/Conservative Dentistry\"",
+      "color": {
+        "a": 1,
+        "rgb": 8577194
+      }
+    },
+    {
+      "query": "path:\"Textbooks/Endodontics\"",
+      "color": {
+        "a": 1,
+        "rgb": 15832202
+      }
+    },
+    {
+      "query": "path:\"Textbooks/Dental Materials\"",
+      "color": {
+        "a": 1,
+        "rgb": 8765929
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 120,
+  "scale": 0.16730178065762893,
+  "close": true
+}
