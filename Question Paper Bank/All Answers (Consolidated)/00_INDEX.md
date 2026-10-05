@@ -1,0 +1,79 @@
+# MDS Answers — Consolidated Index
+
+All exam-answer topics generated so far, in one place.
+
+## Conservative Dentistry
+### Post and Core
+- [Q1. Restoration of endodontically treated teeth / Post and core (comprehensive essay).](Conservative%20Dentistry/Post%20and%20Core/Q01_Restoration_Endo_Treated_Teeth_100m.md)
+- [Q2. Ferrule effect.](Conservative%20Dentistry/Post%20and%20Core/Q02_Ferrule_Effect_10m.md)
+- [Q3. Biomechanics of post-retained restorations — stress analysis, retention and resistance form.](Conservative%20Dentistry/Post%20and%20Core/Q03_Biomechanics_StressAnalysis_25m.md)
+- [Q4. Classification of posts, indications, and factors determining post selection.](Conservative%20Dentistry/Post%20and%20Core/Q04_Classification_Selection_20m.md)
+- [Q5. Fiber-reinforced composite (FRC)/esthetic posts versus cast metal posts, including light-transmitting posts.](Conservative%20Dentistry/Post%20and%20Core/Q05_FiberPosts_vs_CastPosts_10m.md)
+- [Q6. Restorability assessment of endodontically treated teeth, and crown lengthening.](Conservative%20Dentistry/Post%20and%20Core/Q06_Restorability_CrownLengthening_25m.md)
+- [Q7. Endocrowns.](Conservative%20Dentistry/Post%20and%20Core/Q07_Endocrowns_10m.md)
+
+
+## Dental Materials
+### Glass Ionomer Cement
+- [P1. Glass ionomer cement compared with composite resin (15 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P1%20GIC%20vs%20composite%20(predicted).md)
+- [P2. Conventional glass ionomer cement compared with resin-modified glass ionomer cement (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P2%20Conventional%20vs%20RMGIC%20(predicted).md)
+- [P3. Glass ionomer cement as a luting agent (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P3%20GIC%20as%20luting%20cement%20(predicted).md)
+- [P4. Glass ionomer cement as a liner and base (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P4%20GIC%20liner%20and%20base%20(predicted).md)
+- [P5. Atraumatic restorative treatment and high-viscosity glass ionomer cement (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P5%20ART%20and%20high-viscosity%20GIC%20(predicted).md)
+- [P6. Mechanism of fluoride release and recharge from glass ionomer cement (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P6%20Fluoride%20release%20mechanism%20(predicted).md)
+- [P7. Bioactive and ion-releasing restorative materials, and glass hybrid systems (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P7%20Bioactive%20and%20glass%20hybrid%20(predicted).md)
+- [P8. Compomers (polyacid-modified composites) and giomers (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P8%20Compomer%20and%20giomer%20(predicted).md)
+- [P9. Glass ionomer cement in paediatric dentistry: restorations, sealants and cermets (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Glass%20Ionomer%20Cement/P9%20Paediatric%20uses%20and%20cermet%20(predicted).md)
+- [Q1. Past, present and future of Glass ionomer cement (100 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q01%20Past%20Present%20Future%20of%20GIC.md)
+- [Q2. Role of glass ionomer cement in restorative dentistry (25 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q02%20Role%20of%20GIC%20in%20restorative%20dentistry.md)
+- [Q3. Recent advances and developments in glass ionomer cement (25 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q03%20Recent%20advances%20in%20GIC.md)
+- [Q4. Adhesion of glass ionomer cement to tooth structure (25 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q04%20Adhesion%20of%20GIC%20to%20tooth.md)
+- [Q5. Classification, composition, manufacture, properties, manipulation, uses and cavity preparation of glass ionomer cement (20 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q05%20Classification%20composition%20properties%20manipulation.md)
+- [Q6. Glass ionomer cements from 1971 to 2006: development and evolution (20 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q06%20GIC%201971%20to%202006.md)
+- [Q7. Uses of the types of glass ionomer cement, and the bi-layered (sandwich) restoration (20 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q07%20Uses%20of%20GIC%20types%20and%20bi-layered%20restoration.md)
+- [Q8. Recent developments in glass ionomer cement and their biocompatibility (20 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q08%20Recent%20developments%20and%20biocompatibility.md)
+- [Q9. Minimal intervention dentistry: ideal restorative materials and the role of the types of glass ionomer cement (20 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q09%20Minimal%20intervention%20dentistry%20and%20GIC.md)
+- [Q10. Setting reaction of glass ionomer cements, and properties of polyalkenoate cements (10 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q10%20Setting%20reaction%20and%20properties.md)
+- [Q11. Light-cured and resin-modified glass ionomer cement (10 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q11%20Light-cured%20and%20resin-modified%20GIC.md)
+- [Q11b. Tri-cure glass ionomer cement (10 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q11b%20Tri-cure%20GIC.md)
+- [Q12. Glass ionomer restorations (10 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q12%20Glass%20ionomer%20restorations.md)
+- [Q13. Alkasite-based restorative materials (10 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q13%20Alkasite%20materials.md)
+- [Q14. Sandwich technique(s) with glass ionomer cement (5 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q14%20Sandwich%20technique.md)
+- [Q15. Cavosurface treatment for glass ionomer restorations (5 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q15%20Cavosurface%20treatment.md)
+- [Q16. Fluoride release from restorative materials (5 marks)](Dental%20Materials/Glass%20Ionomer%20Cement/Q16%20Fluoride%20release.md)
+
+### Impression Materials
+- [Q1. "Impression procedures in restoration dentistry."](Dental%20Materials/Impression%20Materials/Q01_Impression_Procedures_100m.md)
+- [Q2. "Discuss critically about Elastomers as impression material for cast restorations."](Dental%20Materials/Impression%20Materials/Q02_Elastomers_25m.md)
+- [Q3. "Classify the impression materials. How will you take impression in multiple inlays?"](Dental%20Materials/Impression%20Materials/Q03_Classification_MultipleInlay_20m.md)
+- [Q4. "Impression procedures in conservative dentistry." (Recent Advances)](Dental%20Materials/Impression%20Materials/Q04_RecentAdvances_DigitalImpressions_25m.md)
+- [Q5. "Disinfection of impression materials."](Dental%20Materials/Impression%20Materials/Q05_Disinfection_5m.md)
+
+
+## Endodontics
+### Calcium Silicate Cements
+- [Q1. "Critical analysis of MTA versus Biodentine."](Endodontics/Calcium%20Silicate%20Cements/Q01_MTA_vs_Biodentine_100m.md)
+- [Q2. Bioceramic / calcium-silicate-based root canal sealers.](Endodontics/Calcium%20Silicate%20Cements/Q02_Bioceramic_Sealers_25m.md)
+- [Q3. Calcium-silicate repair materials — perforation repair, retrograde/root-end filling.](Endodontics/Calcium%20Silicate%20Cements/Q03_RepairMaterials_10m.md)
+- [Q4. Dentin matrix stabilization.](Endodontics/Calcium%20Silicate%20Cements/Q04_DentinMatrixStabilization_10m.md)
+- [Q5. Bioactive glass.](Endodontics/Calcium%20Silicate%20Cements/Q05_BioactiveGlass_10m.md)
+
+### Intracanal Medicaments
+- [Q01 Intracanal medicaments - classification and merits-demerits](Endodontics/Intracanal%20Medicaments/Q01%20Intracanal%20medicaments%20-%20classification%20and%20merits-demerits.md)
+- [Q02 Significance of medicaments and irrigants](Endodontics/Intracanal%20Medicaments/Q02%20Significance%20of%20medicaments%20and%20irrigants.md)
+- [Q03 Recent advances in intracanal medicaments](Endodontics/Intracanal%20Medicaments/Q03%20Recent%20advances%20in%20intracanal%20medicaments.md)
+- [Q04 Analgesics and management of hot tooth](Endodontics/Intracanal%20Medicaments/Q04%20Analgesics%20and%20management%20of%20hot%20tooth.md)
+- [Q05 Role of calcium hydroxide](Endodontics/Intracanal%20Medicaments/Q05%20Role%20of%20calcium%20hydroxide.md)
+- [Q06 Drug therapy in endodontics](Endodontics/Intracanal%20Medicaments/Q06%20Drug%20therapy%20in%20endodontics.md)
+- [Q07 Antibiotics and analgesics in root canal treatment](Endodontics/Intracanal%20Medicaments/Q07%20Antibiotics%20and%20analgesics%20in%20root%20canal%20treatment.md)
+- [Q08 Corticosteroids in endodontics](Endodontics/Intracanal%20Medicaments/Q08%20Corticosteroids%20in%20endodontics.md)
+- [Q09 Triple antibiotic paste](Endodontics/Intracanal%20Medicaments/Q09%20Triple%20antibiotic%20paste.md)
+
+### Root Canal Irrigation
+- [Q1. "Disinfection in the field of endodontics."](Endodontics/Root%20Canal%20Irrigation/Q01_Disinfection_Endodontics_100m.md)
+- [Q2. Sodium hypochlorite as a root canal irrigant — mechanism, properties, and management of the "sodium hypochlorite accident."](Endodontics/Root%20Canal%20Irrigation/Q02_NaOCl_Accident_10m.md)
+- [Q3. "Chlorhexidine as an irrigant."](Endodontics/Root%20Canal%20Irrigation/Q03_Chlorhexidine_7m.md)
+- [Q4. Chelating agents in endodontics (EDTA) and MTAD.](Endodontics/Root%20Canal%20Irrigation/Q04_ChelatingAgents_MTAD_10m.md)
+- [Q5. Irrigation techniques and devices in endodontics (agitation, apical negative pressure, physics of cavitation/acoustic streaming).](Endodontics/Root%20Canal%20Irrigation/Q05_Techniques_Devices_20m.md)
+- [Q6. Recent advances in root canal irrigants and irrigation devices.](Endodontics/Root%20Canal%20Irrigation/Q06_RecentAdvances_Detailed.md)
+
