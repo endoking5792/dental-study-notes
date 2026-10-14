@@ -13,6 +13,26 @@ All exam-answer topics generated so far, in one place.
 - [Q7. Endocrowns.](Conservative%20Dentistry/Post%20and%20Core/Q07_Endocrowns_10m.md)
 - [Q8. Common causes of post failure.](Conservative%20Dentistry/Post%20and%20Core/Q08_Post_Failure_Causes_10m.md)
 
+### Ceramic and Indirect Restorations
+- [Q1. "Ceramics in restorative dentistry." (100 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q01_Ceramics_in_Restorative_Dentistry_100m.md)
+- [Q2. "Dental ceramics – recent advances and technical considerations." (75 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q02_Dental_Ceramics_Recent_Advances_and_Technical_Considerations_75m.md)
+- [Q3. "Ceramics and recent advances in various esthetic crown restorations." / "Advancements in anterior aesthetic restorative materials." (50 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q03_Esthetic_Crowns_and_Anterior_Esthetic_Materials_50m.md)
+- [Q4. "Laminate veneers." (75 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q04_Laminate_Veneers_75m.md)
+- [Q5. "Discuss case selection and treatment planning for ceramic veneers. Add a note on cementation protocols." (25 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q05_Case_Selection_and_Cementation_of_Ceramic_Veneers_25m.md)
+- [Q6. "Tooth preparation for ceramic veneers." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q06_Tooth_Preparation_for_Ceramic_Veneers_10m.md)
+- [Q7. "Repair of veneers." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q07_Repair_of_Veneers_10m.md)
+- [Q8. "Tooth preparation kits for veneers." (5 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q08_Tooth_Preparation_Kits_for_Veneers_5m.md)
+- [Q9. "Ceramic inlays." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q09_Ceramic_Inlays_10m.md)
+- [Q10. "List indirect tooth coloured restorations. Write about the tooth preparation and impression making procedures for a ceramic onlay." (20 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q10_Indirect_Tooth_Coloured_Restorations_and_Ceramic_Onlay_20m.md)
+- [Q11. "Cementation protocols for all-ceramic restorations." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q11_Cementation_Protocols_for_All_Ceramic_Restorations_10m.md)
+- [Q12. "Methods of strengthening dental ceramics." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q12_Methods_of_Strengthening_Dental_Ceramics_10m.md)
+- [Q13. "Dicor and In-Ceram." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q13_Dicor_and_In_Ceram_10m.md)
+- [Q14. "Aluminous porcelain." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q14_Aluminous_Porcelain_10m.md)
+- [Q15. "CAD-CAM in restorative dentistry." (50 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q15_CAD_CAM_in_Restorative_Dentistry_50m.md)
+- [Q16. "Justify the role of indirect tooth coloured restorations v/s direct tooth coloured restorations in restorative dentistry." (20 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q16_Indirect_versus_Direct_Tooth_Coloured_Restorations_20m.md)
+- [Q17. "Posterior indirect restorations." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q17_Posterior_Indirect_Restorations_10m.md)
+- [Q18. "Discuss about the alloys used in metal ceramic restorations." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q18_Alloys_Used_in_Metal_Ceramic_Restorations_10m.md)
+- [Q19. "Provisional restorations." (10 marks)](Conservative%20Dentistry/Ceramic%20and%20Indirect%20Restorations/Q19_Provisional_Restorations_10m.md)
 ### Composite Resin
 - [Q1. Evaluate posterior composites critically — give a detailed account of the evolution of posterior composites. (100 marks)](Conservative%20Dentistry/Composite%20Resin/Q01_Evolution_of_Posterior_Composites_100m.md)
 - [Q2. Past, present and future of Composite resin. (100 marks)](Conservative%20Dentistry/Composite%20Resin/Q02_Past_Present_Future_of_Composite_Resin_100m.md)
@@ -107,6 +127,22 @@ All exam-answer topics generated so far, in one place.
 - [DM-Q9. Condensable composites. (5 marks)](Dental%20Materials/Composite%20Resin/DM_Q09_Condensable_Composites_5m.md)
 
 
+### Ceramics
+- [P1. Zirconia in dentistry: types, properties and clinical use (10 marks)](Dental%20Materials/Ceramics/P1_Zirconia_in_Dentistry_predicted.md)
+- [P2. Lithium disilicate glass-ceramics (10 marks)](Dental%20Materials/Ceramics/P2_Lithium_Disilicate_and_Glass_Ceramics_predicted.md)
+- [P3. Resin-bonding protocols for dental ceramics: HF, silane, air abrasion, MDP (10 marks)](Dental%20Materials/Ceramics/P3_Resin_Bonding_Protocols_for_Ceramics_predicted.md)
+- [P4. Low-temperature degradation (ageing) of zirconia (10 marks)](Dental%20Materials/Ceramics/P4_Low_Temperature_Degradation_of_Zirconia_predicted.md)
+- [P5. Resin-matrix ceramics, polymer-infiltrated ceramic networks and 3D-printed ceramics (10 marks)](Dental%20Materials/Ceramics/P5_Resin_Matrix_Ceramics_and_3D_Printed_Ceramics_predicted.md)
+- [Q1. "Discuss the panorama of ceramics available to the modern ceramist and practising dentist." (25 marks)](Dental%20Materials/Ceramics/Q01_Panorama_of_Ceramics_25m.md)
+- [Q2. "Evaluate ceramic as a restorative material." (15 marks)](Dental%20Materials/Ceramics/Q02_Evaluate_Ceramic_as_Restorative_Material_15m.md)
+- [Q3. "Recent advances in dental porcelain." (10 marks)](Dental%20Materials/Ceramics/Q03_Recent_Advances_in_Dental_Porcelain_10m.md)
+- [Q4. "Castable ceramics." (10 marks)](Dental%20Materials/Ceramics/Q04_Castable_Ceramics_10m.md)
+- [Q5. "Metal fused ceramics." (10 marks)](Dental%20Materials/Ceramics/Q05_Metal_Fused_Ceramics_10m.md)
+- [Q6. "Shade selection in ceramics." (10 marks)](Dental%20Materials/Ceramics/Q06_Shade_Selection_in_Ceramics_10m.md)
+- [Q7. "Various types of veneers in Conservative Dentistry." (15 marks)](Dental%20Materials/Ceramics/Q07_Types_of_Veneers_15m.md)
+- [Q8. "Base metal alloys used in bonded porcelain restoration." (10 marks)](Dental%20Materials/Ceramics/Q08_Base_Metal_Alloys_for_Bonded_Porcelain_10m.md)
+- [Q9. "Use of computer-aided designing and computer-aided machining in dentistry." (10 marks)](Dental%20Materials/Ceramics/Q09_CAD_CAM_in_Dentistry_10m.md)
+
 ## Endodontics
 ### Calcium Silicate Cements
 - [Q1. "Critical analysis of MTA versus Biodentine."](Endodontics/Calcium%20Silicate%20Cements/Q01_MTA_vs_Biodentine_100m.md)
@@ -143,3 +179,6 @@ All exam-answer topics generated so far, in one place.
 - [RA-Q3. Recent Advances in Posterior Composites. (25 marks)](Recent%20Advances/Composite%20Resin/RA_Q03_Recent_Advances_in_Posterior_Composites_25m.md)
 - [RA-Q4. Fibre reinforced restorations. (25 marks)](Recent%20Advances/Composite%20Resin/RA_Q04_Fibre_Reinforced_Restorations_25m.md)
 
+### Ceramics
+- [Q1. "Evaluate metallic and non-metallic inlays and onlays." (25 marks)](Recent%20Advances/Ceramics/Q01_Metallic_and_Non_Metallic_Inlays_and_Onlays_25m.md)
+- [Q2. "Critically evaluate modern ceramics as restorative materials." (25 marks)](Recent%20Advances/Ceramics/Q02_Modern_Ceramics_as_Restorative_Materials_25m.md)
