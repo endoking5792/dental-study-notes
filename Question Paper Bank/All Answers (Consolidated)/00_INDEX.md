@@ -49,6 +49,20 @@ All exam-answer topics generated so far, in one place.
 - [Q4. "Impression procedures in conservative dentistry." (Recent Advances)](Dental%20Materials/Impression%20Materials/Q04_RecentAdvances_DigitalImpressions_25m.md)
 - [Q5. "Disinfection of impression materials."](Dental%20Materials/Impression%20Materials/Q05_Disinfection_5m.md)
 
+### Amalgam
+- [Q1. Discuss the recent controversies in use of dental amalgam as a restorative material. (100 marks)](Dental%20Materials/Amalgam/Q01_Recent_Controversies_Amalgam_100m.md)
+- [Q2. Mercury Toxicity – A Myth or Reality. (75 marks)](Dental%20Materials/Amalgam/Q02_Mercury_Toxicity_Myth_or_Reality_75m.md)
+- [Q3. Discuss about Creep and Corrosion in Amalgam. (10 marks)](Dental%20Materials/Amalgam/Q03_Creep_and_Corrosion_10m.md)
+- [Q4. Discuss the various phases formed in dental amalgam. (10 marks)](Dental%20Materials/Amalgam/Q04_Phases_of_Amalgam_10m.md)
+- [Q5. Bonded Amalgam restorations. (10 marks)](Dental%20Materials/Amalgam/Q05_Bonded_Amalgam_Restorations_10m.md)
+- [Q6. Pin retained amalgam restorations. (10 marks)](Dental%20Materials/Amalgam/Q06_Pin_Retained_Amalgam_10m.md)
+- [Q7. Matrices for amalgam restorations. (10 marks)](Dental%20Materials/Amalgam/Q07_Matrices_for_Amalgam_10m.md)
+- [Q8. Discuss forces acting on a Class II restoration with silver amalgam and cast gold. Mention remedial measures for a better class II amalgam/cast gold alloy restoration. (25 marks)](Dental%20Materials/Amalgam/Q08_Forces_on_ClassII_and_ClassV_Biomechanics_25m.md)
+- [Q9. Failures of Amalgam restoration. (10 marks)](Dental%20Materials/Amalgam/Q09_Amalgam_Failures_10m.md)
+- [Q10. Discuss merits and demerits of composites and amalgam as posterior restorative material. (20 marks)](Dental%20Materials/Amalgam/Q10_Composite_vs_Amalgam_Posterior_20m.md)
+- [Q11. Dimensional stability of silver Amalgam. (10 marks)](Dental%20Materials/Amalgam/Q11_Dimensional_Stability_10m.md)
+- [Q12. Causes and management of postoperative pain following an amalgam restoration. (10 marks, audit-identified addition)](Dental%20Materials/Amalgam/Q12_Postoperative_Pain_Amalgam_10m.md)
+
 
 ## Endodontics
 ### Calcium Silicate Cements
@@ -57,6 +71,7 @@ All exam-answer topics generated so far, in one place.
 - [Q3. Calcium-silicate repair materials — perforation repair, retrograde/root-end filling.](Endodontics/Calcium%20Silicate%20Cements/Q03_RepairMaterials_10m.md)
 - [Q4. Dentin matrix stabilization.](Endodontics/Calcium%20Silicate%20Cements/Q04_DentinMatrixStabilization_10m.md)
 - [Q5. Bioactive glass.](Endodontics/Calcium%20Silicate%20Cements/Q05_BioactiveGlass_10m.md)
+- [Q6. Explain the various therapeutic strategies for successful dentine repair and regeneration in vital pulp therapy.](Endodontics/Calcium%20Silicate%20Cements/Q06_DentineRepairRegeneration_VPT_10m.md)
 
 ### Intracanal Medicaments
 - [Q01 Intracanal medicaments - classification and merits-demerits](Endodontics/Intracanal%20Medicaments/Q01%20Intracanal%20medicaments%20-%20classification%20and%20merits-demerits.md)
