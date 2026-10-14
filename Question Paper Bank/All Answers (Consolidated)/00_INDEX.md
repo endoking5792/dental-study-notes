@@ -11,6 +11,7 @@ All exam-answer topics generated so far, in one place.
 - [Q5. Fiber-reinforced composite (FRC)/esthetic posts versus cast metal posts, including light-transmitting posts.](Conservative%20Dentistry/Post%20and%20Core/Q05_FiberPosts_vs_CastPosts_10m.md)
 - [Q6. Restorability assessment of endodontically treated teeth, and crown lengthening.](Conservative%20Dentistry/Post%20and%20Core/Q06_Restorability_CrownLengthening_25m.md)
 - [Q7. Endocrowns.](Conservative%20Dentistry/Post%20and%20Core/Q07_Endocrowns_10m.md)
+- [Q8. Common causes of post failure.](Conservative%20Dentistry/Post%20and%20Core/Q08_Post_Failure_Causes_10m.md)
 
 
 ## Dental Materials
