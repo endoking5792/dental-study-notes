@@ -95,6 +95,17 @@ All exam-answer topics generated so far, in one place.
 - [Q11. Dimensional stability of silver Amalgam. (10 marks)](Dental%20Materials/Amalgam/Q11_Dimensional_Stability_10m.md)
 - [Q12. Causes and management of postoperative pain following an amalgam restoration. (10 marks, audit-identified addition)](Dental%20Materials/Amalgam/Q12_Postoperative_Pain_Amalgam_10m.md)
 
+### Composite Resin
+- [DM-Q1. Describe the various types of fillers used in composite resins and their effects on the properties of the set resin. (25 marks)](Dental%20Materials/Composite%20Resin/DM_Q01_Fillers_Effect_on_Properties_25m.md)
+- [DM-Q2. Discuss the newer advances in Composite resins. (20 marks)](Dental%20Materials/Composite%20Resin/DM_Q02_Newer_Advances_in_Composite_Resins_20m.md)
+- [DM-Q3. Poly acid modified composite resins. (10 marks)](Dental%20Materials/Composite%20Resin/DM_Q03_Poly_Acid_Modified_Composite_Resins_10m.md)
+- [DM-Q4. Hybrid composites. (10 marks)](Dental%20Materials/Composite%20Resin/DM_Q04_Hybrid_Composites_10m.md)
+- [DM-Q5. Composite Inlay. (10 marks)](Dental%20Materials/Composite%20Resin/DM_Q05_Composite_Inlay_10m.md)
+- [DM-Q6. Nanofillers in resin composite materials. (10 marks)](Dental%20Materials/Composite%20Resin/DM_Q06_Nanofillers_in_Resin_Composite_10m.md)
+- [DM-Q7. Flowable composite. (5 marks)](Dental%20Materials/Composite%20Resin/DM_Q07_Flowable_Composite_5m.md)
+- [DM-Q8. Newer composite materials. (5 marks)](Dental%20Materials/Composite%20Resin/DM_Q08_Newer_Composite_Materials_5m.md)
+- [DM-Q9. Condensable composites. (5 marks)](Dental%20Materials/Composite%20Resin/DM_Q09_Condensable_Composites_5m.md)
+
 
 ## Endodontics
 ### Calcium Silicate Cements
@@ -123,4 +134,12 @@ All exam-answer topics generated so far, in one place.
 - [Q4. Chelating agents in endodontics (EDTA) and MTAD.](Endodontics/Root%20Canal%20Irrigation/Q04_ChelatingAgents_MTAD_10m.md)
 - [Q5. Irrigation techniques and devices in endodontics (agitation, apical negative pressure, physics of cavitation/acoustic streaming).](Endodontics/Root%20Canal%20Irrigation/Q05_Techniques_Devices_20m.md)
 - [Q6. Recent advances in root canal irrigants and irrigation devices.](Endodontics/Root%20Canal%20Irrigation/Q06_RecentAdvances_Detailed.md)
+
+
+## Recent Advances
+### Composite Resin
+- [RA-Q1. Recent developments in composite resin. (25 marks)](Recent%20Advances/Composite%20Resin/RA_Q01_Recent_Developments_in_Composite_Resin_25m.md)
+- [RA-Q2. Write in detail about various methods of build ups, sculpting, finishing and polishing of class IV composite restoration. (25 marks)](Recent%20Advances/Composite%20Resin/RA_Q02_Class_IV_Buildups_Sculpting_Finishing_Polishing_25m.md)
+- [RA-Q3. Recent Advances in Posterior Composites. (25 marks)](Recent%20Advances/Composite%20Resin/RA_Q03_Recent_Advances_in_Posterior_Composites_25m.md)
+- [RA-Q4. Fibre reinforced restorations. (25 marks)](Recent%20Advances/Composite%20Resin/RA_Q04_Fibre_Reinforced_Restorations_25m.md)
 
