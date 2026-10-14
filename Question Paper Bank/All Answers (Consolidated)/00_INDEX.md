@@ -13,6 +13,37 @@ All exam-answer topics generated so far, in one place.
 - [Q7. Endocrowns.](Conservative%20Dentistry/Post%20and%20Core/Q07_Endocrowns_10m.md)
 - [Q8. Common causes of post failure.](Conservative%20Dentistry/Post%20and%20Core/Q08_Post_Failure_Causes_10m.md)
 
+### Composite Resin
+- [Q1. Evaluate posterior composites critically — give a detailed account of the evolution of posterior composites. (100 marks)](Conservative%20Dentistry/Composite%20Resin/Q01_Evolution_of_Posterior_Composites_100m.md)
+- [Q2. Past, present and future of Composite resin. (100 marks)](Conservative%20Dentistry/Composite%20Resin/Q02_Past_Present_Future_of_Composite_Resin_100m.md)
+- [Q3. Composite resins as posterior restorative materials. (75 marks)](Conservative%20Dentistry/Composite%20Resin/Q03_Composite_as_Posterior_Restorative_Material_75m.md)
+- [Q4. Recent advances in composite resins. (75 marks)](Conservative%20Dentistry/Composite%20Resin/Q04_Recent_Advances_in_Composite_Resins_75m.md)
+- [Q5. Discuss critically the posterior composite restorations. (25 marks)](Conservative%20Dentistry/Composite%20Resin/Q05_Critically_Analyse_Posterior_Composite_25m.md)
+- [Q6. Management of polymerization shrinkage in resin composite restoration. (25 marks)](Conservative%20Dentistry/Composite%20Resin/Q06_Polymerization_Shrinkage_Management_25m.md)
+- [Q7. Discuss in detail about Finishing and Polishing of various restorations. (25 marks)](Conservative%20Dentistry/Composite%20Resin/Q07_Finishing_and_Polishing_of_Restorations_25m.md)
+- [Q8. Discuss indications, contraindications, tooth preparations and techniques for direct and indirect composite veneers. Add a note on recent advances in veneers. (25 marks)](Conservative%20Dentistry/Composite%20Resin/Q08_Composite_Veneers_25m.md)
+- [Q9. Define and classify composites. Discuss in detail about various methods used in restoring the incisal angle of anterior teeth using the composite resin. (25 marks)](Conservative%20Dentistry/Composite%20Resin/Q09_Define_Classify_Composites_and_Incisal_Angle_Restoration_25m.md)
+- [Q10. Discuss in detail the cavity preparation and restorative techniques for class II direct composite restorations. (25 marks)](Conservative%20Dentistry/Composite%20Resin/Q10_Class_II_Cavity_Prep_and_Restorative_Technique_25m.md)
+- [Q11. Discuss merits and demerits of composites and amalgam as posterior restorative material. (20 marks)](Conservative%20Dentistry/Composite%20Resin/Q11_Composite_vs_Amalgam_Merits_Demerits_20m.md)
+- [Q12. Explain micro-leakage around composite restorations. What are the methods adopted to reduce it? (20 marks)](Conservative%20Dentistry/Composite%20Resin/Q12_Microleakage_Around_Composite_Restorations_20m.md)
+- [Q13. Write in detail about tooth preparation to receive a class IV composite restoration. Add a note on layering technique, shade selection and finishing of the restoration. (20 marks)](Conservative%20Dentistry/Composite%20Resin/Q13_Class_IV_Tooth_Prep_Layering_Shade_Finishing_20m.md)
+- [Q14. Fillers in Composite Resin. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q14_Fillers_in_Composite_Resin_10m.md)
+- [Q15. Flowable composites. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q15_Flowable_Composites_10m.md)
+- [Q16. Bulk fill composites. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q16_Bulk_Fill_Composites_10m.md)
+- [Q17. Packable composites. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q17_Packable_Composites_10m.md)
+- [Q18. Contacts and contours in composite restoration. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q18_Contacts_and_Contours_10m.md)
+- [Q19. Nanocomposites. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q19_Nanocomposites_10m.md)
+- [Q20. Nanoleakage in composites. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q20_Nanoleakage_in_Composites_10m.md)
+- [Q21. Fibre re-enforced composites. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q21_Fibre_Reinforced_Composites_10m.md)
+- [Q22. Light curing devices for composite resin. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q22_Light_Curing_Devices_10m.md)
+- [Q23. Discuss about indirect composites / Compare direct vs indirect composite restorations. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q23_Direct_vs_Indirect_Composites_10m.md)
+- [Q24. Advantages and disadvantages of resin composite. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q24_Advantages_Disadvantages_of_Resin_Composite_10m.md)
+- [Q25. Failures of Composite restorations. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q25_Failures_of_Composite_Restorations_10m.md)
+- [Q26. What is the impact of residual monomers released from composites on pulpal and systemic health? Critically appraise the evidence. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q26_Residual_Monomers_Pulpal_Systemic_Health_10m.md)
+- [Q27. Matrices for composite restorations. (5 marks)](Conservative%20Dentistry/Composite%20Resin/Q27_Matrices_for_Composite_Restorations_5m.md)
+- [Q28. Write in detail about caries control restorations. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q28_Caries_Control_Restorations_10m.md)
+- [Q29. Surface treatment for prepared teeth and restorations. (10 marks)](Conservative%20Dentistry/Composite%20Resin/Q29_Surface_Treatment_for_Prepared_Teeth_and_Restorations_10m.md)
+
 
 ## Dental Materials
 ### Glass Ionomer Cement
