@@ -72,6 +72,13 @@
 - [Q1. Smart materials. (10m)](Conservative Dentistry/Smart Materials/Q01_Smart_Materials_10m.md)
 - [Q2. Smart materials in Conservative Dentistry. (100m)](Conservative Dentistry/Smart Materials/Q02_Smart_Materials_in_Conservative_Dentistry_100m.md)
 
+### Dental Burs
+- ["Dental burs — mechanics of cutting." / "Dental burs."](Conservative%20Dentistry/Dental%20Burs/Q1_dental_burs_mechanics_of_cutting.md)
+- ["Cross section of bur designs and various types of burs used for restorative procedures"](Conservative%20Dentistry/Dental%20Burs/Q2_cross_section_of_bur_designs.md)
+- ["Fissurotomy burs and polymer burs"](Conservative%20Dentistry/Dental%20Burs/Q3_fissurotomy_and_polymer_burs.md)
+- ["Describe the Design, function of Tungsten carbide burs v/s diamond burs."](Conservative%20Dentistry/Dental%20Burs/Q4_tungsten_carbide_vs_diamond_burs.md)
+- ["Discuss speeds in dentistry. Explain Bur Design in detail."](Conservative%20Dentistry/Dental%20Burs/Q7_speeds_in_dentistry_and_bur_design.md)
+
 ## Dental Materials
 
 ### Amalgam
@@ -154,6 +161,10 @@
 - [Q3. "Classify the impression materials. How will you take impression in multiple inlays?"](Dental Materials/Impression Materials/Q03_Classification_MultipleInlay_20m.md)
 - [Q4. "Impression procedures in conservative dentistry." (Recent Advances)](Dental Materials/Impression Materials/Q04_RecentAdvances_DigitalImpressions_25m.md)
 - [Q5. "Disinfection of impression materials."](Dental Materials/Impression Materials/Q05_Disinfection_5m.md)
+
+### Dental Burs
+- ["Types of Rake angles of Bur."](Dental%20Materials/Dental%20Burs/Q5_types_of_rake_angles_of_bur.md)
+- ["Design characteristics of a dental bur."](Dental%20Materials/Dental%20Burs/Q6_design_characteristics_of_a_dental_bur.md)
 
 ## Endodontics
 
