@@ -70,6 +70,7 @@
 ### Smart Materials
 
 - [Q1. Smart materials. (10m)](Conservative Dentistry/Smart Materials/Q01_Smart_Materials_10m.md)
+- [Q2. Smart materials in Conservative Dentistry. (100m)](Conservative Dentistry/Smart Materials/Q02_Smart_Materials_in_Conservative_Dentistry_100m.md)
 
 ## Dental Materials
 
@@ -185,6 +186,10 @@
 - [Q4. Chelating agents in endodontics (EDTA) and MTAD.](Endodontics/Root Canal Irrigation/Q04_ChelatingAgents_MTAD_10m.md)
 - [Q5. Irrigation techniques and devices in endodontics (agitation, apical negative pressure, physics of cavitation/acoustic streaming).](Endodontics/Root Canal Irrigation/Q05_Techniques_Devices_20m.md)
 - [Q6. Recent advances in root canal irrigants and irrigation devices.](Endodontics/Root Canal Irrigation/Q06_RecentAdvances_Detailed.md)
+
+### Smart Materials
+
+- [Q1. Smart materials in Endodontics. (100m)](Endodontics/Smart Materials/Q01_Smart_Materials_in_Endodontics_100m.md)
 
 ## Recent Advances
 

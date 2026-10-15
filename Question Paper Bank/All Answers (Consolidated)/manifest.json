@@ -399,6 +399,13 @@
     "path": "Conservative Dentistry/Smart Materials/Q01_Smart_Materials_10m.md"
   },
   {
+    "subject": "Conservative Dentistry",
+    "topic": "Smart Materials",
+    "title": "Q2. Smart materials in Conservative Dentistry.",
+    "marks": "100",
+    "path": "Conservative Dentistry/Smart Materials/Q02_Smart_Materials_in_Conservative_Dentistry_100m.md"
+  },
+  {
     "subject": "Dental Materials",
     "topic": "Amalgam",
     "title": "Q1. Discuss the recent controversies in use of dental amalgam as a restorative material.",
@@ -1006,6 +1013,13 @@
     "title": "Q6. Recent advances in root canal irrigants and irrigation devices.",
     "marks": null,
     "path": "Endodontics/Root Canal Irrigation/Q06_RecentAdvances_Detailed.md"
+  },
+  {
+    "subject": "Endodontics",
+    "topic": "Smart Materials",
+    "title": "Q1. Smart materials in Endodontics.",
+    "marks": "100",
+    "path": "Endodontics/Smart Materials/Q01_Smart_Materials_in_Endodontics_100m.md"
   },
   {
     "subject": "Recent Advances",
