@@ -78,6 +78,7 @@
 - ["Fissurotomy burs and polymer burs"](Conservative%20Dentistry/Dental%20Burs/Q3_fissurotomy_and_polymer_burs.md)
 - ["Describe the Design, function of Tungsten carbide burs v/s diamond burs."](Conservative%20Dentistry/Dental%20Burs/Q4_tungsten_carbide_vs_diamond_burs.md)
 - ["Discuss speeds in dentistry. Explain Bur Design in detail."](Conservative%20Dentistry/Dental%20Burs/Q7_speeds_in_dentistry_and_bur_design.md)
+- ["Discuss the factors affecting cutting efficiency of dental diamond burs, with reference to recent research." (predicted)](Conservative%20Dentistry/Dental%20Burs/Q8_cutting_efficiency_research_predicted_10m.md)
 
 ## Dental Materials
 
