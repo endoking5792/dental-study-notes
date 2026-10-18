@@ -3,6 +3,7 @@
 **Marks: 20 (Long Essay), as recorded in the Dental Materials repository (DM 20)**
 **Repeats absorbed:** "What are the clinical implications of micro leakage in restorative dentistry?" (Jun 2018, Manipal PI; listed without marks in the Conservative Dentistry repository; "Micro leakage — What are the clinical implications?" 5m Oct 2003, which reads as an older, shorter version of the same question, noted but not merged, see Wording Flag).
 **Status:** DRAFT, revised 2026-10-18. Textbook-sourced, with a PubMed and Drive check on the dye-method and in-vitro claims (Bajabaa 2021; Dutra 2023).
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **WORDING FLAG:** The Conservative Dentistry repository lists this question with no marks, the Dental Materials repository lists it at 20 marks with the second part "Write on the methods to assess micro leakage". The repository note also says two Jun 2018 scans (June_2018.pdf and June_20182.pdf) share identical opening text. Confirm the marks and the second sentence against the paper before final.
 
@@ -34,6 +35,8 @@ Microleakage is the clinically undetectable passage of bacteria, bacterial produ
 ### Methods to assess microleakage
 Sikri notes that most methods are in vitro. In vitro tests imitate the oral environment (for example by thermocycling), but they cannot reproduce the dynamic pulpo-dentinal complex or the effect of plaque (Sikri, 2020, p.444).
 
+A critical review (Taylor and Lynch, 1992, full text) groups the methods as air pressure, bacteria, radioisotopes, electrochemistry, chemical tracers and dye penetration, and finds wide variation in methodology (PDF p.1). Isotopes give finer detail than dyes, because isotope molecules (about 40 nm) are smaller than dye particles (about 120 nm), citing Going (PDF p.2). Autoradiographs and dye sections are scored subjectively, and some workers score only 'high' or 'low' leakage [LIT, full text].
+
 **Group 1: Penetration methods.**
 - *Dye penetration* is one of the oldest and most common methods. Methylene blue, India ink, crystal violet, fluorescein, rhodamine B, basic fuchsin and others are used. Teeth are immersed, sectioned and scored by depth. Validity is questioned: dye particle size and concentration change penetration times (5 minutes to 1 hour between dyes), dyes bind to carious dentin and can exaggerate gaps, trapped air is hard to remove, some dyes are not colour-stable (aniline blue fades in calcium hydroxide), and scoring is subjective (Sikri, 2020, p.445).
 - *Chemical tracers*: two colourless reagents form an opaque silver precipitate (silver nitrate and developer); both must penetrate, which limits the method like dyes (Sikri, 2020, p.445).
@@ -58,7 +61,7 @@ Sikri notes that most methods are in vitro. In vitro tests imitate the oral envi
 - LIMITATION: the chapter gives no comparative data against other methods. Camps & Pashley (2003), cited in the textbook bibliography, is the next source to read before stating this as a conclusion.
 
 **Claim B: "Lab leakage results predict clinical leakage."** The chapter says in-vitro tests cannot reproduce the dynamic pulpo-dentinal complex or plaque effects (Sikri, 2020, p.444).
-- EVIDENCE: a stated limitation (Sikri, 2020, p.444). Bajabaa et al (2021, full text) say in-vitro results are "a theoretical maximum level of leakage, which may be higher than what is expected in vivo" [LIT].
+- EVIDENCE: a stated limitation (Sikri, 2020, p.444). Bajabaa et al (2021, full text) say in-vitro results are "a theoretical maximum level of leakage, which may be higher than what is expected in vivo" [LIT]. Peutzfeldt et al (2024, full text) found in-vitro bond and gap data correlate only weakly with clinical outcomes [LIT].
 - INTERPRETATION: lab leakage ranks materials and techniques; it does not give a clinical failure rate.
 - LIMITATION: needs clinical follow-up data before any clinical claim.
 
@@ -121,7 +124,9 @@ None written. Not forced.
 - Bajabaa S, Balbaid S, Taleb M, Islam L, Elharazeen S, Alagha E. Microleakage evaluation in Class V cavities restored with five different resin composites: in vitro dye leakage study. Clin Cosmet Investig Dent. 2021;13:405–411. doi:10.2147/CCIDE.S331426. [LIT, full text]
 - Cayo-Rojas CF, Hernández-Caba KK, Aliaga-Mariñas AS, Ladera-Castañeda MI, Cervantes-Ganoza LA. Microleakage in class II restorations of two bulk fill resin composites and a conventional nanohybrid resin composite: an in vitro study at 10,000 thermocycles. BMC Oral Health. 2021;21:619. doi:10.1186/s12903-021-01942-0. [LIT, full text]
 - Dutra NMS, Baroudi K, Silva ASF, Laxe LAC, Concilio LRS, Tribst JPM, Salvio LA. Effect of the combination of restorative material and the etching protocol in enamel microleakage in Class II cavities after thermocycling. BioMed Res Int. 2023;2023:1354738. doi:10.1155/2023/1354738. [LIT, full text]
+- Peutzfeldt A, Hug T, Wierichs RJ. Bond strength and marginal adaptation of resin composites and correlations with clinical results. Dent Mater. 2024;40:966–975. doi:10.1016/j.dental.2024.05.004. [LIT, full text]
 - Pinto MV, Pires S, Marto CM, Amaro I, Coelho A, Sousa J, et al. Microleakage study of a bulk fill over an uncured adhesive system. J Compos Sci. 2023;7:40. doi:10.3390/jcs7010040. [LIT, full text]
+- Taylor MJ, Lynch E. Microleakage. J Dent. 1992;20:3–10. [LIT, full text]
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage". Chapter authors are not named in the extracted text.
 
 **SOURCE LOCATORS (file | PDF marker | printed page | verbatim phrase)**

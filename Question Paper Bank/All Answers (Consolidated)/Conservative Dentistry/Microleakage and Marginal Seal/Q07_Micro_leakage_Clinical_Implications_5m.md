@@ -4,6 +4,7 @@
 **Repeats absorbed:** none. Related longer version is Q4 (Jun 2018, 20m).
 **WORDING FLAG:** The repository marks this wording as "reconstructed". Oct 2003, PI 01-07. Confirm the wording against the original paper before final.
 **Status:** DRAFT, textbook-sourced (Sikri, 2020, Ch.22).
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **QUESTION (as recorded):** Micro leakage — What are the clinical implications?
 
@@ -25,6 +26,7 @@ Microleakage is the clinically undetectable passage of bacteria, fluids and ions
 3. **Pulpal pathology.** Bacteria and their products reach the pulp through dentinal tubules (Sikri, 2020, p.435–436).
 4. **Marginal discoloration** that is hard to remove and often needs replacement (Sikri, 2020, p.436).
 5. **Breakdown of luting cements** (Sikri, 2020, p.436).
+6. Kidd (1976, review) also lists tooth discoloration under amalgams, hypersensitivity of restored teeth, pulpal damage and hastened breakdown of some filling materials (PDF p.1) [LIT, full text].
 
 **Writing time estimate:** about 8 minutes at 22 words/min.
 
@@ -47,6 +49,7 @@ None written. Not forced.
 
 ## SOURCE LIST
 **REFERENCES (alphabetical)**
+- Kidd EAM. Microleakage: a review. J Dent. 1976;4(5):199–206. [LIT, full text]
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage".
 
 **SOURCE LOCATORS (file | PDF marker | printed page | verbatim phrase)**

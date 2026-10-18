@@ -3,6 +3,7 @@
 **Marks: 10 (Short Essay)**
 **Repeats absorbed:** "Methodologies to detect Microleakage." (10m, Oct 2011, PII 07-16); "Methodologies to detect microleakage of restorative materials." (10m, Oct 2014, PII 07-16). Same question, two sittings; answered once at 10 marks.
 **Status:** DRAFT, textbook-sourced (Sikri, 2020, Ch.22). No critical synthesis at 10 marks.
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **QUESTION (verbatim, Oct 2014 wording):** Methodologies to detect microleakage of restorative materials.
 *(Oct 2011 wording: "Methodologies to detect Microleakage.")*
@@ -43,6 +44,8 @@ Most microleakage tests are in vitro. They imitate the oral environment, for exa
 
 **5. Other methods.** Artificial caries, pain perception, reverse diffusion, 3D/CBCT analysis (Sikri, 2020, p.447–448).
 
+**Methodological review.** Taylor and Lynch (1992, full text) note that electrochemical testing destroys tooth substance and that autoradiographic results are compromised by subjective scoring (full text). They also document wide methodological variation across dye studies (PDF p.5). Kidd (1976, full text) lists artificial caries and scanning electron microscopy among established methods (PDF p.1).
+
 **6. Interpretation.** No single method suits every question. Penetration methods show whether leakage occurs; pressure and fluid methods measure flow; microscopy shows structure. In vitro results rank materials but do not replace clinical follow-up (Sikri, 2020, p.444).
 
 **Writing time estimate:** about 17 minutes at 22 words/min.
@@ -70,6 +73,8 @@ None written. Not forced.
 
 ## SOURCE LIST
 **REFERENCES (alphabetical)**
+- Kidd EAM. Microleakage: a review. J Dent. 1976;4(5):199–206. [LIT, full text]
+- Taylor MJ, Lynch E. Microleakage. J Dent. 1992;20:3–10. [LIT, full text]
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage".
 
 **SOURCE LOCATORS (file | PDF marker | printed page | verbatim phrase)**

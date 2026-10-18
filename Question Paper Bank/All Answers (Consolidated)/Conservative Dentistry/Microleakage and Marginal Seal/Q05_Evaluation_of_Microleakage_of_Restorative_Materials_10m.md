@@ -3,6 +3,7 @@
 **Marks: 10 (Short Essay)**
 **Repeats absorbed:** none (single sitting, Jun 2022, PI 21-25)
 **Status:** DRAFT, textbook-sourced (Sikri, 2020, Ch.22). Literature retrieval not run; this is a 10-mark answer so no critical synthesis is required unless the question says "critically".
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **QUESTION (verbatim):** Evaluation of microleakage of restorative materials.
 
@@ -42,7 +43,7 @@ Microleakage is the clinically undetectable passage of bacteria, fluids, molecul
 - *Gold:* burnishes into the margin; cohesive foil seals better than mat or powdered gold (Sikri, 2020, p.443).
 - *Cast:* 10–160 µm gaps; luting cement needed (Sikri, 2020, p.444).
 
-**3. Interpretation.** Amalgam and gold show the most stable seal over time; composite depends most on the bonding protocol; glass-ionomer depends on moisture control. Evaluation must look at both the material properties and the operator.
+**3. Interpretation.** Amalgam and gold show the most stable seal over time; composite depends most on the bonding protocol; glass-ionomer depends on moisture control. Evaluation must look at both the material properties and the operator. Methods differ widely between studies (Taylor and Lynch, 1992, full text), and in-vitro bond and gap data correlate only weakly with clinical outcomes (Peutzfeldt et al, 2024, full text).
 
 **Writing time estimate:** about 17 minutes at 22 words/min.
 
@@ -70,6 +71,8 @@ None written. Not forced.
 
 ## SOURCE LIST
 **REFERENCES (alphabetical)**
+- Peutzfeldt A, Hug T, Wierichs RJ. Bond strength and marginal adaptation of resin composites and correlations with clinical results. Dent Mater. 2024;40:966–975. doi:10.1016/j.dental.2024.05.004. [LIT, full text]
+- Taylor MJ, Lynch E. Microleakage. J Dent. 1992;20:3–10. [LIT, full text]
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage".
 
 **SOURCE LOCATORS (file | PDF marker | printed page | verbatim phrase)**

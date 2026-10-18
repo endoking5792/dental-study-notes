@@ -3,6 +3,7 @@
 **Marks: 20 (Long Essay)**
 **Repeats absorbed:** "Discuss marginal integrity of restorative materials and its prevention" (Nov 1993, DM 90-00, Dental Materials repository, marks not recorded in the repository); "Discuss the marginal integrity of restorative materials" (Oct/Nov 2014, RG PII RS-3).
 **Status:** DRAFT, revised 2026-10-18. Textbook-sourced (Sikri Ch.22; Summitt's Ch.18). The comparative claims about liners and composite type were checked against PubMed and the Drive papers; see Q1 for those sources.
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **QUESTION (verbatim, 2014 wording):** Discuss the marginal integrity of restorative materials
 
@@ -35,7 +36,7 @@ Gap size (10–50 µm; even 10 µm admits oral organisms), host defence (dentina
 ### Material by material
 - **Amalgam.** A freshly condensed restoration leaves a 10–15 µm gap. It "self-seals" as tin oxide and chloride corrosion products fill the interface, and high-copper alloys corrode more slowly, so they leak for longer (Sikri, 2020, p.438). Amalgam's net dimensional change is small (±0.2% by volume), and ADA Specification No. 1 allows 20 µm/cm (Sikri, 2020, p.438). Spherical alloys leak more than lathe-cut or admixed alloys, and creep below 3% is considered acceptable (Sikri, 2020, p.438–439).
 - **Glass-ionomer.** Chemical adhesion through carboxyl–calcium bonds, CTE close to tooth, fluoride release. Its drawbacks are moisture sensitivity for the first 24 hours and desiccation crazing. Resin-modified GIC has sometimes leaked more than chemically cured GIC, because light-cured setting shrinks faster (Sikri, 2020, p.439–440).
-- **Composite.** Shrinkage (1.67–5.68% volumetric) and CTE mismatch break the dentin bond first. Enamel bonding gives near-nil leakage. See Q1 for the full composite analysis (Sikri, 2020, p.440–443).
+- **Composite.** Shrinkage (1.67–5.68% volumetric) and CTE mismatch break the dentin bond first. Enamel bonding gives near-nil leakage. See Q1 for the full composite analysis (Sikri, 2020, p.440–443). Peutzfeldt et al (2024, full text) found dentin bond strength and marginal gap differed significantly between adhesive–composite combinations, with weak clinical correlation (Q1, Claim E). Kidd (1976, full text) reported that an early composite formed a good initial seal that leaked more after temperature cycling (Kidd, 1976, full text).
 - **Gold.** Cohesive and malleable, so it burnishes into the margin. Mat and powdered golds are porous; cohesive foil should cover them (Sikri, 2020, p.443).
 - **Cast restorations.** Gaps of 10–160 µm are reported, so a luting cement must seal the interface. Gaps over 0.1 mm should not be burnished. Remake the casting instead (Sikri, 2020, p.444).
 - **Porcelain.** Bonded with resin cement after acid etching and silanation. The silane bond weakens by hydrolysis within a year. Leakage is most likely at the cement lute and the inlay–tooth interface (Sikri, 2020, p.444).
@@ -53,7 +54,7 @@ Good adhesion (etch and bond, or a fluid intermediate layer to fill irregulariti
 - LIMITATION: the Pashley figure is secondhand; the primary study is not read. Keep it [RECALL]-tagged until verified.
 
 **Claim B: "Amalgam becomes self-sealing with time."** The textbook says the gap closes as corrosion products accumulate, and that high-copper alloys leak for longer (Sikri, 2020, p.438).
-- EVIDENCE: a mechanism, with no quantified time course.
+- EVIDENCE: a mechanism (textbook), plus Kidd (1976, review, full text): freshly packed amalgam leaks, and the leakage falls as fillings age; cavity varnish or liners reduce initial leakage (PDF pp.1, 5) [LIT]. No quantified time course is given.
 - INTERPRETATION: plausible and consistent with clinical teaching on amalgam margins.
 - LIMITATION: labelled [Likely]. A time course needs a primary longitudinal source.
 
@@ -122,6 +123,8 @@ None written. Not forced.
 ## SOURCE LIST
 
 **REFERENCES (alphabetical)**
+- Kidd EAM. Microleakage: a review. J Dent. 1976;4(5):199–206. [LIT, full text]
+- Peutzfeldt A, Hug T, Wierichs RJ. Bond strength and marginal adaptation of resin composites and correlations with clinical results. Dent Mater. 2024;40:966–975. doi:10.1016/j.dental.2024.05.004. [LIT, full text]
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage". Chapter authors are not named in the extracted text.
 
 **SOURCE LOCATORS (file | PDF marker | printed page | verbatim phrase)**

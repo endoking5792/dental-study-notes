@@ -3,6 +3,7 @@
 **Marks: 20 (Long Essay)**
 **Repeats absorbed:** none recorded for this exact wording (Nov 2012, RG PII RS-2).
 **Status:** DRAFT, revised 2026-10-18. Textbook sources now cover cast restorations, crowns, Class V, Class II composite and the Sturdevant's material. Literature covers bevels and finish lines in Class V and inlays. Ceramic-crown finish-line evidence comes from the textbook only.
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **QUESTION (verbatim):** Discuss marginal integrity, circumferential tie and finish lines for various types of restorations.
 
@@ -46,6 +47,7 @@ For ceramic crowns, Summitt's gives the most detailed finish-line data. In the m
 - **Class II composite:** Summitt's places 0.5 mm bevels at about 45° on facial and lingual proximal margins that meet the tooth at a right angle, and cites research that bevels significantly reduce leakage (Summitt's, PDF p.594). Gingival bevels only where enamel is well above the CEJ. Within about 1 mm of the CEJ, bonding is no better than bonding to dentin (Summitt's, PDF p.594). An inverse (internal) bevel at the gingival margin significantly reduces microleakage against a butt margin, and is preferred to a gingival margin on or near the CEJ (Summitt's, PDF p.595). Occlusal bevels are not indicated (Summitt's, PDF p.595; Sturdevant's, PDF p.591).
 - **Sturdevant's** agrees: no occlusal bevels, bevels on proximal facial and lingual margins only when extra retention is needed, and usually none on the gingival margin (Sturdevant's, PDF pp.591–592). Sturdevant's also says that extending the enamel cavosurface bevel improves the peripheral enamel seal (PDF p.259).
 - **Sikri** calls the bevel's role in composite controversial (Sikri, 2020, p.441).
+- **Marginal gap and clinical outcome (Peutzfeldt et al, 2024, full text):** marginal gap in enamel and the number of paramarginal fractures correlated with clinical outcomes of Class II restorations, weakly. The study did not test bevels or finish-line design, so it supports the marginal-gap point, not the bevel rules.
 
 ### Restorations by type
 - **Cast gold inlay:** short bevel on the enamel wall; secondary flare proximally; burnish the margin. Gaps over 0.1 mm mean remaking (Sikri, 2020, pp.287–288, 444).
@@ -134,6 +136,7 @@ None written. Not forced.
 - Ameri H, Ghavamnasiri M, Abdoli E. Effects of load cycling on the microleakage of beveled and nonbeveled margins in class V resin-based composite restorations. J Contemp Dent Pract. 2010;11(5):25–32. PMID 20978721. [LIT, abstract]
 - Bagheri M, Ghavamnasiri M. Effect of cavosurface margin configuration of Class V cavity preparations on microleakage of composite resin restorations. J Contemp Dent Pract. 2008;9(2):122–129. PMID 18264534. [LIT, abstract]
 - Hilton TJ, Ferracane JL, Broome JM, eds. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Quintessence; 2013. Chapters 11, 15, 18. Edition and year verified from the PDF's front matter.
+- Peutzfeldt A, Hug T, Wierichs RJ. Bond strength and marginal adaptation of resin composites and correlations with clinical results. Dent Mater. 2024;40:966–975. doi:10.1016/j.dental.2024.05.004. [LIT, full text]
 - Peixoto RTR, Poletto LTA, Lanza MD, Buono VTL. The influence of occlusal finish line configuration on microleakage of indirect composite inlays. J Adhes Dent. 2002;4(2):145–150. PMID 12236643. [LIT, abstract]
 - Roberson TM, Heymann HO, Swift EJ, eds. Sturdevant's Art and Science of Operative Dentistry. 5th ed. St Louis: Mosby; 2006. Chapters 5, 13. Edition and year verified from the PDF title page; editor list partly verified.
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapters 16 and 22.

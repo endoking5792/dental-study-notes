@@ -3,6 +3,7 @@
 **Marks: 20 (Long Essay)**
 **Repeats absorbed:** none (single sitting, May 2009, RG PII RS-old)
 **Status:** DRAFT, revised 2026-10-18 with literature retrieved via PubMed and the Drive papers. Three comparative claims now carry a primary-study check; one is still contested.
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **QUESTION (verbatim):** Explain micro-leakage around composite restorations. What are the methods adopted to reduce it
 
@@ -54,14 +55,19 @@ Microleakage is "the clinically undetectable passage of bacteria and bacterial p
 - NEW EVIDENCE (read in full 2026-10-18): Cayo-Rojas et al (2021, full text, 10,000 thermocycles, silver nitrate) found no significant difference between two bulk-fill composites and a nanohybrid in Class II, occlusal or cervical (P = 0.149 and 0.180) [LIT]. Martínez-Sabio et al (2023, full text, Polymers) found the opposite direction: conventional composite leaked least, then a bioactive material, then the two bulk-fills, at 24 h, 4 weeks and 8 weeks (P < 0.05) [LIT]. Chakraborty et al (2022, full text, core build-up) found bulk-fill worst (mean 2.85) against nanohybrid ormocer (1.12) and nanofill (1.79) [LIT]. Pinto et al (2023, full text) reported no significant difference between cured and uncured adhesive groups, yet concluded a "positive effect" of uncured adhesive; the stated conclusion is stronger than their P values support [LIT]. Pisuttiwong (2017, unpublished Chulalongkorn thesis, grey literature, full text) reported both bulk-fill products leaking less than Filtek Z350 at an enamel-preserved gingival wall [unpublished].
 - INTERPRETATION (revised): the bulk-fill comparison is now split. Some studies find no difference, some find bulk-fill worse, one thesis finds it better. Composite type is not a settled cause of leakage differences.
 - INTERPRETATION: composite choice probably has a smaller effect on leakage than the textbook's microfill claim implies, though small samples limit the conclusion.
-- LIMITATION: several papers state conclusions more strongly than their statistics support. Bajabaa's abstract claims nanohybrids leak less, but their own P values are non-significant. Jesudass's conclusion has the same problem. Dutra's discussion calls the regular bulk-fill "inferior", which its own statistics do not show. These are flagged, not repeated as findings.
+- LIMITATION: several papers state conclusions more strongly than their statistics support. Bajabaa's abstract claims nanohybrids leak less, but their own P values are non-significant. Jesudass's conclusion has the same problem. Dutra's discussion calls the regular bulk-fill "inferior", which its own statistics do not show. These are flagged, not repeated as findings. Taylor and Lynch (1992, full text) describe wide methodological variation across microleakage studies, which limits direct comparison of values between papers (PDF p.1).
 
 **Claim D: "Bevels reduce composite leakage."** Textbook: controversial (Sikri, 2020, p.441). Summitt's: bevels significantly reduce leakage (PDF p.594). Primary: Ameri et al (2010, abstract) found no benefit from an enamel bevel on a loaded Class V composite, and the non-beveled cavities leaked less (P = 0.001). Bagheri & Ghavamnasiri (2008, abstract) found no bevel effect for either hybrid or microfilled composite [LIT]. Peixoto et al (2002, abstract) found bevel and chamfer reduced leakage at the mandibular buccal inlay margin, relative to a butt joint [LIT].
 - EVIDENCE: two Class V composite studies show no benefit; the inlay study shows benefit in one margin position only.
 - INTERPRETATION: a bevel does not reliably reduce composite leakage in the studies read. Its effect may depend on margin position and loading.
 - LIMITATION: abstracts only for three of these papers.
 
-**Disagreement preserved:** the textbook presents the dentin-etching question and the bevel question as unresolved, and the primary data agree with that. Claims B, C and D conflict between sources, and none is resolved here.
+**Claim E (new, 2026-10-18): in-vitro leakage vs clinical outcome.** Peutzfeldt et al (2024, full text) compared eight adhesive–composite combinations. Dentin bond strength and marginal gap differed significantly between material groups, and 6-month water storage worsened results. Against a retrospective multicentre clinical data set (10,695 restorations), the in-vitro bond and gap results correlated only weakly; marginal gap in enamel and paramarginal fractures correlated with clinical outcomes of Class II restorations, again weakly [LIT, full text, doi:10.1016/j.dental.2024.05.004].
+- EVIDENCE: laboratory bond and gap results predict clinical outcome only weakly.
+- INTERPRETATION: material rankings from leakage studies are hypotheses to test clinically, not clinical failure rates.
+- LIMITATION: this study measured bond strength and replica-gap, not dye leakage.
+
+**Disagreement preserved:** the textbook presents the dentin-etching question and the bevel question as unresolved, and the primary data agree with that. Claims B, C and D conflict between sources, and none is resolved here. Claim E shows that laboratory leakage rankings do not reliably predict clinical outcome.
 
 ---
 
@@ -131,6 +137,7 @@ None written. Not forced.
 - Kasraei S, Azarsina M, Majidi S. In vitro comparison of microleakage of posterior resin composites with and without liner using two-step etch-and-rinse and self-etch dentin adhesive systems. Oper Dent. 2011;36(2):213–221. doi:10.2341/10-215-L. [LIT, abstract]
 - Loguercio AD, Reis A, Mazzocco KC, Dias AL, Busato ALS, Singer JdM, Rosa P. Microleakage in class II composite resin restorations: total bonding and open sandwich technique. J Adhes Dent. 2002;4(2):137–144. PMID 12236642. [LIT, abstract]
 - Moazzami SM, Sarabi N, Hajizadeh H, Majidinia S, Li Y, Meharry MR, Shahrokh H. Efficacy of four lining materials in sandwich technique to reduce microleakage in class II composite resin restorations. Oper Dent. 2013 (epub; print 2014);39(3):256–263. doi:10.2341/11-495-L. [LIT, abstract]
+- Peutzfeldt A, Hug T, Wierichs RJ. Bond strength and marginal adaptation of resin composites and correlations with clinical results. Dent Mater. 2024;40:966–975. doi:10.1016/j.dental.2024.05.004. [LIT, full text]
 - Peixoto RTR, Poletto LTA, Lanza MD, Buono VTL. The influence of occlusal finish line configuration on microleakage of indirect composite inlays. J Adhes Dent. 2002;4(2):145–150. PMID 12236643. [LIT, abstract]
 - Prati C. Early marginal microleakage in Class II resin composite restorations. Dent Mater. 1989;5:392–398. [LIT, full text, Drive PDF; no DOI retrieved]
 - Chuang SF, Jin YT, Lin TS, Chang CH, García-Godoy F. Effects of lining materials on microleakage and internal voids of Class II resin-based composite restorations. Am J Dent. 2003;16(2):84–90. PMID 12797564. [LIT, abstract]
@@ -138,6 +145,7 @@ None written. Not forced.
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage".
 - Hilton TJ, Ferracane JL, Broome JM, eds. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Quintessence; 2013. Chapter 11, "Direct Posterior Esthetic Restorations". Edition and year verified from the PDF's front matter.
 - Roberson TM, Heymann HO, Swift EJ, eds. Sturdevant's Art and Science of Operative Dentistry. 5th ed. St Louis: Mosby; 2006. Chapter 13, "Class I, II, and VI Direct Composite and Other Tooth-Colored Restorations". Edition and year verified from the PDF title page; editor list partly verified.
+- Taylor MJ, Lynch E. Microleakage. J Dent. 1992;20:3–10. [LIT, full text]
 - Uno S, Finger WJ, Fritz UB. Effect of cavity design on microleakage of resin-modified glass ionomer restorations. Am J Dent. 1997;10(1):32–35. PMID 9545918. [LIT, abstract; not cited in body]
 - Wibowo G, Stockton L. Microleakage of Class II composite restorations. Am J Dent. 2001;14(3):177–185. PMID 11572297. [LIT, abstract]
 - Cayo-Rojas CF, Hernández-Caba KK, Aliaga-Mariñas AS, Ladera-Castañeda MI, Cervantes-Ganoza LA. Microleakage in class II restorations of two bulk fill resin composites and a conventional nanohybrid resin composite: an in vitro study at 10,000 thermocycles. BMC Oral Health. 2021;21:619. doi:10.1186/s12903-021-01942-0. [LIT, full text]

@@ -4,6 +4,7 @@
 **Repeats absorbed:** none. Cross-subject item from the Endodontics repository (Oct 1999, PIII 90-00).
 **Subject note:** this is an Endodontics-repository question. The Conservative Dentistry repository topic "Microleakage & Marginal Seal" lists it only as a cross-subject item. Filed here, with a copy to be placed in the Endodontics topic if you want the folder split by subject.
 **Status:** DRAFT. Endodontic-specific textbook support for dye methods is thinner than for the general method; the dye-method passage is taken from Sikri (2020), and the endodontic findings from Ingle's and Cohen's.
+**Audit 2026-10-18:** updated with ten articles from the Downloads/Microleakage folder; new material is marked where it is added.
 
 **QUESTION (as recorded):** Dye leakage studies.
 
@@ -31,8 +32,11 @@
 - Dye and bacterial leakage studies showed MTA leaking significantly less than amalgam and Super EBA as a root-end filling (Rotstein and Ingle, 2019, PDF p.818).
 - Gutta-percha is described as a poor sealant according to radioisotope and dye studies (Weine, 2004, Ch.7; page not verified).
 - All obturation materials and techniques leak to some degree (Berman et al, 2021, PDF p.1069).
+- Dye leakage after coronal exposure (Swanson and Madison, 1987, Part I): gutta-percha and sealer-filled anterior teeth exposed to artificial saliva for 3 to 56 days leaked 79 to 85% of the root length. Unexposed controls did not leak, and the time periods did not differ significantly (PDF p.1) [LIT, full text].
+- Sealer dye data (Madison et al, 1987, Part II): mean dye penetration was 33% (Sealapex), 49% (Roth's sealer) and 80% (AH26) of root length. AH26 leaked significantly more (p < 0.02) (PDF pp.1–2) [LIT, full text].
+- In vivo (Madison and Wilcox, 1988, Part III, monkeys): dye penetrated the canals in all groups, with no significant difference among the sealers. This contrasts with the in-vitro ranking of sealers (PDF p.1) [LIT, full text].
 
-**Interpretation.** Dye studies rank materials and techniques by penetration. They show that a leakage path exists, but the depth scored depends on the dye and the protocol, so results are compared only within one protocol.
+**Interpretation.** Dye studies rank materials and techniques by penetration. Taylor and Lynch (1992, full text) list the dyes used across studies and report wide methodological variation (PDF p.5). They show that a leakage path exists, but the depth scored depends on the dye and the protocol, so results are compared only within one protocol.
 
 **Writing time estimate:** about 9 minutes at 22 words/min.
 
@@ -60,8 +64,12 @@ None written. Not forced.
 ## SOURCE LIST
 **REFERENCES (alphabetical)**
 - Berman LH, Hargreaves KM, Cohen S, eds. Cohen's Pathways of the Pulp. 12th ed. 2021. Chapter 9, "Obturation of the cleaned and shaped root canal system".
+- Madison S, Swanson K, Chiles SA. An evaluation of coronal microleakage in endodontically treated teeth. Part II. Sealer types. J Endod. 1987;13(3):109–. [LIT, full text]
+- Madison S, Wilcox LR. An evaluation of coronal microleakage in endodontically treated teeth. Part III. In vivo study. J Endod. 1988;14(9):455–. [LIT, full text]
 - Rotstein I, Ingle JI, eds. Ingle's Endodontics 7. 7th ed. 2019. Chapter 22, "Obturation of the Radicular Spaces"; Chapter 28, "Management of Teeth with Immature Apices". Publisher not verified in this session.
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage".
+- Swanson K, Madison S. An evaluation of coronal microleakage in endodontically treated teeth. Part I. Time periods. J Endod. 1987;13(2):56–. [LIT, full text]
+- Taylor MJ, Lynch E. Microleakage. J Dent. 1992;20:3–10. [LIT, full text]
 - Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Chapter 7, "Canal Filling with Semisolid Materials".
 
 **SOURCE LOCATORS (file | page marker | verbatim phrase)**
@@ -71,3 +79,6 @@ None written. Not forced.
 - `22_Chapter_22_Obturation_of_the_Radicular_Spaces.md` (Ingle's) | PDF p.627 | "cold lateral condensation may show more volumetric leakage"
 - `28_Chapter_28_Management_of_Teeth_with_Immature_Apices.md` (Ingle's) | PDF p.818 | "Dye leakage and bacterial leakage studies have demonstrated"
 - `07_CHAPTER_7_Canal_Filling_with_Semisolid_Materials.md` (Weine's) | page not verified | "gutta-percha is a poor sealant, according to radioisotope and dye studies"
+- `swanson1987.pdf` (Swanson and Madison, 1987) | PDF p.1 | "all experimental teeth exposed to saliva showed leakage ranging from 79 to 85%"
+- `madison1987.pdf` (Madison et al, 1987) | PDF p.1 | "the AH26 group demonstrated significantly more coronal microleakage"
+- `madison1988.pdf` (Madison and Wilcox, 1988) | PDF p.1 | "with no significant differences among the groups"
