@@ -133,9 +133,9 @@ None written. Not forced.
 **REFERENCES (alphabetical)**
 - Ameri H, Ghavamnasiri M, Abdoli E. Effects of load cycling on the microleakage of beveled and nonbeveled margins in class V resin-based composite restorations. J Contemp Dent Pract. 2010;11(5):25–32. PMID 20978721. [LIT, abstract]
 - Bagheri M, Ghavamnasiri M. Effect of cavosurface margin configuration of Class V cavity preparations on microleakage of composite resin restorations. J Contemp Dent Pract. 2008;9(2):122–129. PMID 18264534. [LIT, abstract]
-- Hilton TJ, Ferracane JL, Broome JM, eds. Summitt's Fundamentals of Operative Dentistry. Chapters 11, 15, 18. Edition and year not verified in this session.
+- Hilton TJ, Ferracane JL, Broome JM, eds. Summitt's Fundamentals of Operative Dentistry: A Contemporary Approach. 4th ed. Quintessence; 2013. Chapters 11, 15, 18. Edition and year verified from the PDF's front matter.
 - Peixoto RTR, Poletto LTA, Lanza MD, Buono VTL. The influence of occlusal finish line configuration on microleakage of indirect composite inlays. J Adhes Dent. 2002;4(2):145–150. PMID 12236643. [LIT, abstract]
-- Roberson TM, Heymann HO, Swift EJ, eds. Sturdevant's Art and Science of Operative Dentistry. 5th ed. Chapters 5, 13. Publication details not verified.
+- Roberson TM, Heymann HO, Swift EJ, eds. Sturdevant's Art and Science of Operative Dentistry. 5th ed. St Louis: Mosby; 2006. Chapters 5, 13. Edition and year verified from the PDF title page; editor list partly verified.
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapters 16 and 22.
 - Uno S, Finger WJ, Fritz UB. Effect of cavity design on microleakage of resin-modified glass ionomer restorations. Am J Dent. 1997;10(1):32–35. PMID 9545918. [LIT, abstract]
 

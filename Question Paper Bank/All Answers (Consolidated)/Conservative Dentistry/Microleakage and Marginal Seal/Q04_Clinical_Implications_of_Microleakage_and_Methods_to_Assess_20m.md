@@ -15,7 +15,7 @@
 2. Query "methods to detect microleakage": Sikri Ch.22 pp.444–448 (penetration, air pressure, fluid filtration, electrochemical, microscopy, miscellaneous) [SRC].
 3. Query "nanoleakage" + "SEM/TEM/CLSEM/CDI": Sikri Ch.22 pp.448–449 [SRC].
 4. Query "dye" + "penetration" + "reliability" across the chapterwise folder: Sikri p.445 and Summitt's Ch.6 (not read) [pending].
-5. Live literature, [LIT] according to PubMed and the Drive papers. Bajabaa et al (2021, full text, Drive PDF) describe dye penetration as "the most frequently used method for detecting microleakage" and note that methylene blue may overestimate leakage. They also state that in-vitro results "should be regarded as a theoretical maximum level of leakage". Dutra et al (2023, full text) used methylene blue with ImageJ scoring. Camps & Pashley (2003), the reliability paper cited in Sikri's bibliography, was not retrieved [pending].
+5. Live literature, [LIT] according to PubMed and the Drive papers. Bajabaa et al (2021, full text, Drive PDF) describe dye penetration as "the most frequently used method for detecting microleakage" and note that methylene blue may overestimate leakage. They also state that in-vitro results "should be regarded as a theoretical maximum level of leakage". Dutra et al (2023, full text) used methylene blue with ImageJ scoring. Cayo-Rojas et al (2021, full text) used 1 M silver nitrate (ISO/TS 11405 scoring), arguing silver ions diffuse better than methylene blue and are easier to read under a stereomicroscope [LIT]. Pinto et al (2023, full text) used 99mTc-pertechnetate with gamma-camera counts, arguing it is quantitative and non-destructive, unlike dye scoring [LIT]. Camps & Pashley (2003), the reliability paper cited in Sikri's bibliography, was not retrieved [pending].
 6. Printed page numbers from running headers; PDF markers are 18 higher than printed.
 
 ---
@@ -119,7 +119,9 @@ None written. Not forced.
 
 **REFERENCES (alphabetical)**
 - Bajabaa S, Balbaid S, Taleb M, Islam L, Elharazeen S, Alagha E. Microleakage evaluation in Class V cavities restored with five different resin composites: in vitro dye leakage study. Clin Cosmet Investig Dent. 2021;13:405–411. doi:10.2147/CCIDE.S331426. [LIT, full text]
+- Cayo-Rojas CF, Hernández-Caba KK, Aliaga-Mariñas AS, Ladera-Castañeda MI, Cervantes-Ganoza LA. Microleakage in class II restorations of two bulk fill resin composites and a conventional nanohybrid resin composite: an in vitro study at 10,000 thermocycles. BMC Oral Health. 2021;21:619. doi:10.1186/s12903-021-01942-0. [LIT, full text]
 - Dutra NMS, Baroudi K, Silva ASF, Laxe LAC, Concilio LRS, Tribst JPM, Salvio LA. Effect of the combination of restorative material and the etching protocol in enamel microleakage in Class II cavities after thermocycling. BioMed Res Int. 2023;2023:1354738. doi:10.1155/2023/1354738. [LIT, full text]
+- Pinto MV, Pires S, Marto CM, Amaro I, Coelho A, Sousa J, et al. Microleakage study of a bulk fill over an uncured adhesive system. J Compos Sci. 2023;7:40. doi:10.3390/jcs7010040. [LIT, full text]
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage". Chapter authors are not named in the extracted text.
 
 **SOURCE LOCATORS (file | PDF marker | printed page | verbatim phrase)**
