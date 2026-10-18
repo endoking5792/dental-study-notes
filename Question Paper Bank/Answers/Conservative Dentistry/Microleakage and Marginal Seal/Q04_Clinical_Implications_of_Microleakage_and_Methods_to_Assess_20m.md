@@ -2,7 +2,7 @@
 
 **Marks: 20 (Long Essay), as recorded in the Dental Materials repository (DM 20)**
 **Repeats absorbed:** "What are the clinical implications of micro leakage in restorative dentistry?" (Jun 2018, Manipal PI; listed without marks in the Conservative Dentistry repository; "Micro leakage — What are the clinical implications?" 5m Oct 2003, which reads as an older, shorter version of the same question, noted but not merged, see Wording Flag).
-**Status:** DRAFT, textbook-sourced. Literature retrieval not yet run.
+**Status:** DRAFT, revised 2026-10-18. Textbook-sourced, with a PubMed and Drive check on the dye-method and in-vitro claims (Bajabaa 2021; Dutra 2023).
 
 **WORDING FLAG:** The Conservative Dentistry repository lists this question with no marks, the Dental Materials repository lists it at 20 marks with the second part "Write on the methods to assess micro leakage". The repository note also says two Jun 2018 scans (June_2018.pdf and June_20182.pdf) share identical opening text. Confirm the marks and the second sentence against the paper before final.
 
@@ -15,7 +15,7 @@
 2. Query "methods to detect microleakage": Sikri Ch.22 pp.444–448 (penetration, air pressure, fluid filtration, electrochemical, microscopy, miscellaneous) [SRC].
 3. Query "nanoleakage" + "SEM/TEM/CLSEM/CDI": Sikri Ch.22 pp.448–449 [SRC].
 4. Query "dye" + "penetration" + "reliability" across the chapterwise folder: Sikri p.445 and Summitt's Ch.6 (not read) [pending].
-5. Live literature search: **not run**. The validity claims about dye penetration and in-vitro testing need primary sources. The Drive folder has microleakage-method papers (e.g. "Alani & Toh"-type reviews are in the textbook bibliography; "Reliability of the dye penetration studies" by Camps & Pashley, cited in Sikri's bibliography, is not yet retrieved) [pending].
+5. Live literature, [LIT] according to PubMed and the Drive papers. Bajabaa et al (2021, full text, Drive PDF) describe dye penetration as "the most frequently used method for detecting microleakage" and note that methylene blue may overestimate leakage. They also state that in-vitro results "should be regarded as a theoretical maximum level of leakage". Dutra et al (2023, full text) used methylene blue with ImageJ scoring. Camps & Pashley (2003), the reliability paper cited in Sikri's bibliography, was not retrieved [pending].
 6. Printed page numbers from running headers; PDF markers are 18 higher than printed.
 
 ---
@@ -58,7 +58,7 @@ Sikri notes that most methods are in vitro. In vitro tests imitate the oral envi
 - LIMITATION: the chapter gives no comparative data against other methods. Camps & Pashley (2003), cited in the textbook bibliography, is the next source to read before stating this as a conclusion.
 
 **Claim B: "Lab leakage results predict clinical leakage."** The chapter says in-vitro tests cannot reproduce the dynamic pulpo-dentinal complex or plaque effects (Sikri, 2020, p.444).
-- EVIDENCE: a stated limitation, no data.
+- EVIDENCE: a stated limitation (Sikri, 2020, p.444). Bajabaa et al (2021, full text) say in-vitro results are "a theoretical maximum level of leakage, which may be higher than what is expected in vivo" [LIT].
 - INTERPRETATION: lab leakage ranks materials and techniques; it does not give a clinical failure rate.
 - LIMITATION: needs clinical follow-up data before any clinical claim.
 
@@ -118,6 +118,8 @@ None written. Not forced.
 ## SOURCE LIST
 
 **REFERENCES (alphabetical)**
+- Bajabaa S, Balbaid S, Taleb M, Islam L, Elharazeen S, Alagha E. Microleakage evaluation in Class V cavities restored with five different resin composites: in vitro dye leakage study. Clin Cosmet Investig Dent. 2021;13:405–411. doi:10.2147/CCIDE.S331426. [LIT, full text]
+- Dutra NMS, Baroudi K, Silva ASF, Laxe LAC, Concilio LRS, Tribst JPM, Salvio LA. Effect of the combination of restorative material and the etching protocol in enamel microleakage in Class II cavities after thermocycling. BioMed Res Int. 2023;2023:1354738. doi:10.1155/2023/1354738. [LIT, full text]
 - Sikri VK, ed. Textbook of Conservative and Restorative Dentistry. New Delhi: CBS Publishers & Distributors; 2020. eBook. Chapter 22, "Microleakage". Chapter authors are not named in the extracted text.
 
 **SOURCE LOCATORS (file | PDF marker | printed page | verbatim phrase)**

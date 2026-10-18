@@ -2,18 +2,18 @@
 
 **Marks: 20 (Long Essay)**
 **Repeats absorbed:** "Discuss marginal integrity of restorative materials and its prevention" (Nov 1993, DM 90-00, Dental Materials repository, marks not recorded in the repository); "Discuss the marginal integrity of restorative materials" (Oct/Nov 2014, RG PII RS-3).
-**Status:** DRAFT. Textbook-sourced. Literature retrieval not yet run.
+**Status:** DRAFT, revised 2026-10-18. Textbook-sourced (Sikri Ch.22; Summitt's Ch.18). The comparative claims about liners and composite type were checked against PubMed and the Drive papers; see Q1 for those sources.
 
 **QUESTION (verbatim, 2014 wording):** Discuss the marginal integrity of restorative materials
 
 ---
 
 ## RETRIEVAL REPORT
-1. Query "marginal integrity" across the chapterwise folder: Sikri's Ch.22 "Microleakage" is the only chapter that treats marginal integrity as its own theme [SRC]. Grep also returned hits in Summitt's Ch.11 and Ch.18, Sturdevant's Ch.04, Ch.05 and Ch.14, and Modern Operative Dentistry's Ch.13 and Ch.15, which are NOT yet read for this question [pending].
+1. Query "marginal integrity" across the chapterwise folder: Sikri's Ch.22 "Microleakage" is the only chapter that treats marginal integrity as its own theme [SRC]. Summitt's Ch.18 "Anterior Ceramic Crowns" was read (PDF pp.956–957): closed margins are unattainable and 100 µm is the smallest detectable ledge [SRC]. Grep also returned hits in Sturdevant's Ch.04, Ch.05 and Ch.14 and Modern Operative Dentistry's Ch.13 and Ch.15, which are NOT yet read for this question [pending].
 2. Query "gap" + "restoration" + "adaptation" across the same folder: Sikri Ch.22 pp.435–444 [SRC].
 3. Query "smear layer" + "leakage": Sikri Ch.22 p.437 [SRC].
 4. Query "self-sealing" + "amalgam": Sikri Ch.22 pp.438–439 [SRC].
-5. Live literature search: **not run**. The question is discursive, but several claims are comparative or numerical (gap sizes, RMGI vs chemical cure, smear-layer permeability) and need primary checking before they are quoted [pending].
+5. Live literature search, [LIT] according to PubMed: run for the liner and composite-type claims (see Q1, Claims B and C). Not run for amalgam corrosion timing, the RMGI-vs-chemical-GIC claim or smear-layer permeability. These stay textbook-only, and the Pashley figure is still secondhand [pending].
 6. Printed page numbers from running headers; PDF markers are 18 higher than printed.
 
 ---
@@ -21,7 +21,7 @@
 ## STUDY MODE
 
 ### What marginal integrity means
-Marginal integrity is the continuity of the seal between a restorative material and the tooth at the cavosurface and internal margins. It is the clinical counterpart of microleakage: a material with good marginal integrity presents a gap too narrow for bacteria, fluids or ions to cross (Sikri, 2020, p.435). No restorative material bonds chemically to tooth structure to form a perfect seal under thermal and mechanical cycling, so every restoration carries a residual gap, at least about 10 µm even with liners or adhesives (Sikri, 2020, p.435).
+Marginal integrity is the continuity of the seal between a restorative material and the tooth at the cavosurface and internal margins. It is the clinical counterpart of microleakage: a material with good marginal integrity presents a gap too narrow for bacteria, fluids or ions to cross (Sikri, 2020, p.435). No restorative material bonds chemically to tooth structure to form a perfect seal under thermal and mechanical cycling, so every restoration carries a residual gap, at least about 10 µm even with liners or adhesives (Sikri, 2020, p.435). Summitt's makes the same point in clinical terms: a completely closed margin is unattainable, so the aim is a margin the patient can clean and maintain, and 100 µm is the smallest ledge a clinician can detect (Summitt's, PDF p.956).
 
 ### Why the gap forms: three material properties
 Sikri names three properties that control gap formation (Sikri, 2020, p.436). Other properties (creep, elasticity, fatigue, solubility) contribute less.

@@ -80,6 +80,19 @@
 - ["Discuss speeds in dentistry. Explain Bur Design in detail."](Conservative%20Dentistry/Dental%20Burs/Q7_speeds_in_dentistry_and_bur_design.md)
 - ["Discuss the factors affecting cutting efficiency of dental diamond burs, with reference to recent research." (predicted)](Conservative%20Dentistry/Dental%20Burs/Q8_cutting_efficiency_research_predicted_10m.md)
 
+### Microleakage and Marginal Seal
+
+- [P1. Nanoleakage: concept, mechanism and assessment (PREDICTED)](Conservative Dentistry/Microleakage and Marginal Seal/P1_Nanoleakage_Concept_Mechanism_and_Assessment_10m_PREDICTED.md)
+- [P2. Marginal integrity of glass-ionomer restorations and moisture control (PREDICTED)](Conservative Dentistry/Microleakage and Marginal Seal/P2_Glass_Ionomer_Marginal_Integrity_and_Moisture_Control_10m_PREDICTED.md)
+- [Q1. Micro-leakage around composite restorations and methods to reduce it](Conservative Dentistry/Microleakage and Marginal Seal/Q01_Microleakage_Around_Composite_Restorations_and_Methods_to_Reduce_20m.md)
+- [Q2. Marginal integrity of restorative materials](Conservative Dentistry/Microleakage and Marginal Seal/Q02_Marginal_Integrity_of_Restorative_Materials_20m.md)
+- [Q3. Marginal integrity, circumferential tie and finish lines](Conservative Dentistry/Microleakage and Marginal Seal/Q03_Marginal_Integrity_Circumferential_Tie_and_Finish_Lines_20m.md)
+- [Q4. Clinical implications of micro-leakage and methods to assess it](Conservative Dentistry/Microleakage and Marginal Seal/Q04_Clinical_Implications_of_Microleakage_and_Methods_to_Assess_20m.md)
+- [Q5. Evaluation of microleakage of restorative materials](Conservative Dentistry/Microleakage and Marginal Seal/Q05_Evaluation_of_Microleakage_of_Restorative_Materials_10m.md)
+- [Q6. Methodologies to detect microleakage of restorative materials](Conservative Dentistry/Microleakage and Marginal Seal/Q06_Methodologies_to_Detect_Microleakage_10m.md)
+- [Q7. Micro-leakage: clinical implications](Conservative Dentistry/Microleakage and Marginal Seal/Q07_Micro_leakage_Clinical_Implications_5m.md)
+
+
 ## Dental Materials
 
 ### Amalgam
@@ -202,6 +215,12 @@
 ### Smart Materials
 
 - [Q1. Smart materials in Endodontics. (100m)](Endodontics/Smart Materials/Q01_Smart_Materials_in_Endodontics_100m.md)
+
+### Microleakage and Marginal Seal
+
+- [Q8. Dye leakage studies](Endodontics/Microleakage and Marginal Seal/Q08_Dye_Leakage_Studies_10m.md)
+- [Q9. Microleakage and its clinical significance](Endodontics/Microleakage and Marginal Seal/Q09_Microleakage_and_its_Clinical_Significance_5m.md)
+
 
 ## Recent Advances
 
