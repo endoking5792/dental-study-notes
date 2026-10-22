@@ -1348,12 +1348,6 @@ See also: Traumatic Dental Injuries
 
 “Describe in detail about single sitting root canal treatment.” (15m, Essay) — Mar 2007 (PIII 01-07)
 
-“Conservative attitudes in Endodontics.” (10m) — Apr 2012/Oct 2013 (PIII 07-15) ⚠ dup
-
-“Rationale of endodontics.” (10m, Short Note) — Apr 1995 (PIII 90-00); “Rationale of Endodontics.” (10m, Short Note) — Apr 2000 (PIII 90-00)
-
-“Justify how Endodontics is ‘Key-Stone’ to modern dentistry.” — Nov 1993 (PIII 90-00)
-
 “Discuss critically the relevance of multiple visits in modern endodontic practice.” (20m, Long Essay) — Nov 2013 (RG PIII RS-2)
 
 “Critically discuss single visit Endodontics.” (20m, Long Essay) — May 2013 (RG PIII RS-3)
@@ -1369,6 +1363,16 @@ See also: Traumatic Dental Injuries
 “Single Visit Endodontics.” (75m, Single Essay) — Mar 2017 (ABS PIV)
 
 “Discuss critically about single visit endodontics” (10m, Short Note) — 15-03-2022 (ABS PII)
+
+## 21A. PHILOSOPHY, RATIONALE & CONTROVERSIES IN ENDODONTICS (moved from §21, 2026-10-22)
+
+“Conservative attitudes in Endodontics.” (10m) — Apr 2012/Oct 2013 (PIII 07-15) ⚠ dup
+
+“Rationale of endodontics.” (10m, Short Note) — Apr 1995 (PIII 90-00); “Rationale of Endodontics.” (10m, Short Note) — Apr 2000 (PIII 90-00)
+
+“Justify how Endodontics is ‘Key-Stone’ to modern dentistry.” — Nov 1993 (PIII 90-00)
+
+“Discuss the controversies in endodontics.” (20m, Jun2016-Manipal)
 
 ## 22. REGENERATIVE ENDODONTICS & REVASCULARIZATION ★★★ (21 sittings)
 
@@ -1934,7 +1938,7 @@ Endodontic Microbiology & Biofilms — “Newer methods of detecting Endodontic 
 
 Endodontic Failures, Retreatment & Prognosis — “Endodontic failures and retreatment.” (50m, Oct2022, TN MGR Paper III) · “Retreatment in endodontics.” (7m, Apr2012-Manipal) · “Management of endodontic failures.” (single-essay 75m, Jun2017, Manipal Paper IV) · “Discuss ‘Success’ and ‘failures’ in Endodontics.” (single-essay 100m, Jul2005, Manipal Paper IV)
 
-Treatment Protocols: Single-Visit vs Multi-Visit — “Single visit root canal treatment.” (25m, Oct2024-Manipal) · “What is Single Visit Endodontics? Write on the success and failures of Single Visit Endodontic treatment.” (20m, Jun2018-Manipal) · “Myths about single visit endodontics.” (7m, Jun2021-Manipal) · “Discuss the controversies in endodontics.” (20m, Jun2016-Manipal)
+Treatment Protocols: Single-Visit vs Multi-Visit — “Single visit root canal treatment.” (25m, Oct2024-Manipal) · “What is Single Visit Endodontics? Write on the success and failures of Single Visit Endodontic treatment.” (20m, Jun2018-Manipal) · “Myths about single visit endodontics.” (7m, Jun2021-Manipal)
 
 Regenerative Endodontics & Revascularization — “Regenerative Endodontics.” (50m, Jun2022 and Oct2023, TN MGR Paper III); (7m, Apr2011-Manipal)
 
