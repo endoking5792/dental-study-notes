@@ -1,50 +1,42 @@
-# "Discuss the causality dilemma of Endo Perio Lesions."
+# "Discuss the causality dilemma of Endo Perio Lesions." (canonical answer)
 
 **Marks:** 25m, Long Essay
 **Sitting:** Oct/Nov 2024 (NU PII). No repeats. "Discuss" asks for the positions on each side and an interpretation; this answer is built around the source disagreements already flagged in Q01.
 
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 897 words, about 41 minutes at 22 words a minute (Section 7 range 850-1000 words for 25 marks). The separate Study Mode / Exam Mode draft of this question is kept unchanged in the repository.
 
 <!--LOC: c_chicken, c_temporal, g_which, c_coalesce, c_temptation, c_causal, c_rare, c_riskf, h_20wk, h_20pc, h_depth, wa_05, wa_trifling, wa_2509, wa_911, wa_negligible, wa_noperio, wa_reversible, gu_seldom, gu_few, gu_unknown, i_controv, h_conflict, c_70, wa_little, wa_4pc, wa_3pc, h_87, c_main, i_neuro, c_fibrosis, gu_limited, i_similar, h_pcr, he_micro, he_noprofile, gu_spiro, i_spiro, he_history, he_notrelevant, he_groups, he_table, he_limited, gu_none, gu_def, i_basis, h_retro, gu_retro, wa_rare, g_simon, g_duration, i_kirk, h_1000, c_6033, c_monkey, gu_identical, g_regardless, i_mainly-->
+
 <!--REF: Glickman2021, Rotstein2019, Gopikrishna2021, Rotstein2017, Gulabivala2014, Walton2002, Herrera2018-->
 
-## Retrieval Report
-No new searches. The positions are taken from Cohen's Ch.25, Ingle's Ch.36, Harty's Ch.13, Grossman's Ch.20, Gulabivala and Ng Ch.12, Walton and Torabinejad Ch.26 and Herrera et al 2018 (full text). The word "dilemma" in the question matches Cohen's "chicken or egg" controversy.
-
-## STUDY MODE
+## 1. Introduction
 
 **What the dilemma is.** Cohen's states it directly: interpretations vary as to which came first, the proverbial "chicken or egg" (Glickman and Iacono, 2021) [SRC]. It has three layers. The first is diagnostic: a primary periodontal lesion with secondary endodontic involvement differs from a primary endodontic lesion with secondary periodontal involvement only by the temporal sequence (Glickman and Iacono, 2021) [SRC], and once the two lesions coalesce they may be clinically indistinguishable (Glickman and Iacono, 2021) [SRC]; Grossman's defines the true combined lesion as one where it is not possible to say which started first (Gopikrishna, 2021) [SRC]. The second is biological: does either disease actually cause the other, and how much? The third is conceptual: should a classification be built on a question that usually cannot be answered?
+
+#### ✎ Exam core
+
+The pulp and periodontium communicate through the apical foramen, lateral canals and dentinal tubules, so disease in one may involve the other. The "causality dilemma" is the "chicken or egg" question of which disease came first, and whether one actually causes the other (Glickman and Iacono, 2021).
+
+## 2. Why the dilemma arises
+
+#### ✎ Exam core
+
+- Primary endodontic with secondary periodontal and primary periodontal with secondary endodontic lesions differ only in the temporal sequence (Glickman and Iacono, 2021).
+- Once the two lesions coalesce they are clinically indistinguishable; in a true combined lesion it is not possible to say which began first (Glickman and Iacono, 2021; Gopikrishna, 2021).
+- The history of the disease is usually unavailable (Herrera et al, 2018).
+- Canal and pocket share a similar microbiota with no lesion-specific profile (Rotstein, 2017; Herrera et al, 2018).
+
+## 3. Does pulpal disease cause periodontal disease?
 
 **Does pulpal infection cause periodontal disease?**
 - *Yes, as a modifying factor*: Cohen's calls endodontic infection a local modifying risk factor for periodontitis progression if untreated (Glickman and Iacono, 2021) [SRC]. Harty's cites epithelial downgrowth on denuded dentine of infected teeth after 20 weeks, 20% more epithelium in infected defects, and deeper probing at molars with periapical lesions on both roots (Rotstein, 2017) [SRC].
 - *Not meaningfully*: Walton and Torabinejad calculate a 0.5 to 1.0 mm pocket difference, within probing error, and describe the data as presenting "trifling distinctions"; in 2509 teeth none of the 131 lost had endodontic involvement; they conclude pulpal necrosis does not cause periodontal disease, only a sinus tract, and bone loss from pulpal necrosis is reversible (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng say chronic apical periodontitis seldom produces retrograde marginal periodontitis and few cases document such progression (Gulabivala, Darbar and Ng, 2014) [SRC].
 - *Cohen's own caution*: the rarity of combined lesions argues periradicular disease has little effect, and the causal relationship has not been established (Glickman and Iacono, 2021) [SRC].
 
-**Does periodontal disease cause pulpal disease?**
-- *Yes, at the extreme*: when the pocket reaches the apex the pulp becomes necrotic; bacteria were cultured from 87% of pulps and radicular dentine of periodontally involved teeth (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC].
-- *Rarely before that*: 70% of roots unchanged at 30 to 40% attachment loss in an animal model (Glickman and Iacono, 2021) [SRC]; 3 to 4% needing root canal treatment in long-term human cohorts (Walton and Torabinejad, 2002) [SRC]; tubule sclerosis and secondary dentine limit the effect (Gulabivala, Darbar and Ng, 2014) [SRC].
+> **SOURCE CONFLICT, does a pulpless tooth worsen periodontitis?** *Glickman and Iacono (Cohen's)*: endodontic infection is a local modifying risk factor, though they also note that the rarity of combined lesions argues periradicular disease has little effect, and that a causal relationship has not been established (Glickman and Iacono, 2021) [SRC]. *Walton and Torabinejad*: the pocket-depth difference is only 0.5 to 1.0 mm, within the 0.5 to 1.3 mm error of probing; the data "appear to present trifling distinctions"; none of 131 teeth lost out of 2509 had endodontic involvement; of 911 periodontally involved teeth followed 5 to 14 years, tooth loss was 2%; they conclude the comparative risk is negligible and that pulpal necrosis does not cause periodontal disease, only a sinus tract through the ligament (Walton and Torabinejad, 2002) [SRC]. *Gulabivala and Ng*: chronic apical periodontitis seldom results in retrograde marginal periodontitis, and few cases document true progression from endodontic to periodontal disease (Gulabivala, Darbar and Ng, 2014) [SRC]. The weight of these statements is that the pulp-to-periodontium effect is real but small [Likely].
 
-**Why the origin cannot be read from the lesion.** The microbiota is similar in canals and pockets, with no lesion-specific profile (Rotstein, 2017; Herrera et al, 2018) [SRC] [LIT]; spirochaete counts were once used to distinguish abscesses but spirochaetes are now documented in canals (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Anatomy does not settle it either: lateral canals are common, yet only 2% were associated with pockets in Kirkham's 1000 teeth (Rotstein, 2017) [SRC].
+#### ✎ Exam core
 
-**How the field has responded.** Two strategies:
-1. *Infer origin after the fact.* Healing after root canal treatment gives a retrospective diagnosis (Rotstein, 2017; Gulabivala, Darbar and Ng, 2014) [SRC].
-2. *Stop asking.* Herrera's review argues that using the history of the disease was impractical because the history is usually unavailable, and that the primary source is not relevant to treatment because both tissues need treatment; classification should follow the present state and prognosis (Herrera et al, 2018) [LIT]. Gulabivala and Ng had already said that no classification especially contributes to diagnosis or treatment (Gulabivala, Darbar and Ng, 2014) [SRC].
-
-## CRITICAL EVIDENCE SYNTHESIS
-**Claim: "The origin of a combined lesion matters for its management."** Simon's and Rotstein's systems imply it does (Gopikrishna, 2021; Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]; Herrera's review says it does not, because both tissues are treated anyway (Herrera et al, 2018) [LIT]. The evidence is weak on both sides: case reports and old animal studies, with the 2017 review itself rating the evidence as limited (Herrera et al, 2018) [LIT]. What does follow is that origin affects prognosis (lesions of periodontal origin or with root damage fare worse) more than it affects the treatment steps, which are the same: endodontics first, then periodontal therapy [Likely].
-
-## EXAM MODE
-*(Estimated writing time: about 42 minutes)*
-
-### 1. Introduction
-The pulp and periodontium communicate through the apical foramen, lateral canals and dentinal tubules, so disease in one may involve the other. The "causality dilemma" is the "chicken or egg" question of which disease came first, and whether one actually causes the other (Glickman and Iacono, 2021).
-
-### 2. Why the dilemma arises
-- Primary endodontic with secondary periodontal and primary periodontal with secondary endodontic lesions differ only in the temporal sequence (Glickman and Iacono, 2021).
-- Once the two lesions coalesce they are clinically indistinguishable; in a true combined lesion it is not possible to say which began first (Glickman and Iacono, 2021; Gopikrishna, 2021).
-- The history of the disease is usually unavailable (Herrera et al, 2018).
-- Canal and pocket share a similar microbiota with no lesion-specific profile (Rotstein, 2017; Herrera et al, 2018).
-
-### 3. Does pulpal disease cause periodontal disease?
 | For | Against |
 |---|---|
 | Endodontic infection is a local modifying risk factor for periodontitis if untreated (Glickman and Iacono, 2021) | Pocket difference only 0.5 to 1.0 mm, within probing error; "trifling distinctions" (Walton and Torabinejad, 2002) |
@@ -53,7 +45,14 @@ The pulp and periodontium communicate through the apical foramen, lateral canals
 | | Chronic apical periodontitis seldom causes retrograde marginal periodontitis (Gulabivala, Darbar and Ng, 2014) |
 **Interpretation**: a real but small effect. Cohen's itself notes that combined lesions are rare and causality is not established (Glickman and Iacono, 2021).
 
-### 4. Does periodontal disease cause pulpal disease?
+## 4. Does periodontal disease cause pulpal disease?
+
+**Does periodontal disease cause pulpal disease?**
+- *Yes, at the extreme*: when the pocket reaches the apex the pulp becomes necrotic; bacteria were cultured from 87% of pulps and radicular dentine of periodontally involved teeth (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC].
+- *Rarely before that*: 70% of roots unchanged at 30 to 40% attachment loss in an animal model (Glickman and Iacono, 2021) [SRC]; 3 to 4% needing root canal treatment in long-term human cohorts (Walton and Torabinejad, 2002) [SRC]; tubule sclerosis and secondary dentine limit the effect (Gulabivala, Darbar and Ng, 2014) [SRC].
+
+#### ✎ Exam core
+
 | For | Against |
 |---|---|
 | Necrosis follows when the pocket reaches the apex (Rotstein, Zabalegui and Al-Hezaimi, 2019) | 70% of roots unchanged despite 30 to 40% attachment loss (animal) (Glickman and Iacono, 2021) |
@@ -61,22 +60,40 @@ The pulp and periodontium communicate through the apical foramen, lateral canals
 | Fibrosis and calcification in long-standing disease (Glickman and Iacono, 2021) | Tubule sclerosis and secondary dentine limit the effect (Gulabivala, Darbar and Ng, 2014) |
 **Interpretation**: contamination is common; necrosis is uncommon until the apex or a large lateral canal is reached (Glickman and Iacono, 2021).
 
-### 4A. Does a pulpless tooth heal less well periodontally?
+## 4A. Does a pulpless tooth heal less well periodontally?
+
+#### ✎ Exam core
+
 - One investigator found 60% osseous regeneration of periodontal defects on teeth not treated endodontically against 33% on root-filled teeth (Glickman and Iacono, 2021).
 - A monkey study found that the periodontium regenerated whatever the pulp status, vital, filled, medicated or open (Glickman and Iacono, 2021).
 - The two findings conflict; the question of causation therefore extends to healing, not only to disease onset.
 
-### 5. Why anatomy and microbiology cannot settle it
+## 5. Why anatomy and microbiology cannot settle it
+
+**Why the origin cannot be read from the lesion.** The microbiota is similar in canals and pockets, with no lesion-specific profile (Rotstein, 2017; Herrera et al, 2018) [SRC] [LIT]; spirochaete counts were once used to distinguish abscesses but spirochaetes are now documented in canals (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Anatomy does not settle it either: lateral canals are common, yet only 2% were associated with pockets in Kirkham's 1000 teeth (Rotstein, 2017) [SRC].
+
+#### ✎ Exam core
+
 - Lateral canals are common in anatomical studies, but only 2% were associated with pockets in 1000 periodontally diseased teeth (Rotstein, 2017).
 - Spirochaetes were once used to separate the two abscesses but are now found in canals (Rotstein, Zabalegui and Al-Hezaimi, 2019); one report gives up to 10% in periapical and up to 60% in lateral periodontal abscesses (Gulabivala, Darbar and Ng, 2014), a tendency, not a test.
 
-### 6. Consequences for classification
+## 6. Consequences for classification
+
+**How the field has responded.** Two strategies:
+1. *Infer origin after the fact.* Healing after root canal treatment gives a retrospective diagnosis (Rotstein, 2017; Gulabivala, Darbar and Ng, 2014) [SRC].
+2. *Stop asking.* Herrera's review argues that using the history of the disease was impractical because the history is usually unavailable, and that the primary source is not relevant to treatment because both tissues need treatment; classification should follow the present state and prognosis (Herrera et al, 2018) [LIT]. Gulabivala and Ng had already said that no classification especially contributes to diagnosis or treatment (Gulabivala, Darbar and Ng, 2014) [SRC].
+
+#### ✎ Exam core
+
 - **Simon, Glick and Frank (1972)** and Rotstein classify by origin, "how these lesions are formed" (Gopikrishna, 2021; Rotstein, Zabalegui and Al-Hezaimi, 2019).
 - **Criticism**: none of the classifications especially contributes to diagnosis or treatment (Gulabivala, Darbar and Ng, 2014); history is impractical as a criterion and the primary source is not relevant to treatment (Herrera et al, 2018).
 - **2017 World Workshop** classifies by present state: root damage (fracture, perforation, resorption), periodontitis status, and grade 1 to 3 by pocket width and surfaces; prognosis hopeless, poor or favourable (Herrera et al, 2018).
 - Walton and Torabinejad: true combined lesions are either extremely rare or the criteria to identify them are not fully worked out (Walton and Torabinejad, 2002).
 
-### 7. Resolving the dilemma clinically
+## 7. Resolving the dilemma clinically
+
+#### ✎ Exam core
+
 - **Retrospective diagnosis**: treat the canal first; the degree of healing shows how much of the lesion was endodontic (Rotstein, 2017; Gulabivala, Darbar and Ng, 2014).
 - **Treat both tissues**: endodontic treatment before periodontal therapy regardless of cause (Gopikrishna, 2021); both aim at microbial decontamination of a surface (Gulabivala, Darbar and Ng, 2014).
 - **Duration matters more than order**: the longer the cause persists, the more likely combined therapy is needed (Gopikrishna, 2021).
@@ -84,8 +101,15 @@ The pulp and periodontium communicate through the apical foramen, lateral canals
 
 [DIAGRAM: Two-way arrow with question mark | pulp box <-> periodontium box; "for" evidence above each arrow, "against" below; bottom box: "Resolution: treat endo first, judge by response; classify by present state (2017)" | shows the balanced discussion]
 
-### 8. Conclusion
+## 8. Conclusion
+
+#### ✎ Exam core
+
 The causality dilemma persists because the two diseases share pathways and microorganisms and usually present after the history is lost. The evidence shows a real but small effect of pulpal infection on the periodontium, and an effect of periodontitis on the pulp that is uncommon until the apex is involved. Modern practice sidesteps the question: classify by the present state (2017), treat the canal first, and let the response reveal the endodontic share.
+
+## Critical evidence synthesis
+
+**Claim: "The origin of a combined lesion matters for its management."** Simon's and Rotstein's systems imply it does (Gopikrishna, 2021; Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]; Herrera's review says it does not, because both tissues are treated anyway (Herrera et al, 2018) [LIT]. The evidence is weak on both sides: case reports and old animal studies, with the 2017 review itself rating the evidence as limited (Herrera et al, 2018) [LIT]. What does follow is that origin affects prognosis (lesions of periodontal origin or with root damage fare worse) more than it affects the treatment steps, which are the same: endodontics first, then periodontal therapy [Likely].
 
 ## HIGH-YIELD POINTS
 - "Chicken or egg": the two secondary classes differ only in temporal sequence.
@@ -106,8 +130,11 @@ The causality dilemma persists because the two diseases share pathways and micro
 ## MNEMONIC
 Three layers of the dilemma: **"Which, Whether, Why classify"** (which came first, whether one causes the other, why classify by it).
 
-## SOURCE LIST
+## How this answer was sourced
 
+No new searches. The positions are taken from Cohen's Ch.25, Ingle's Ch.36, Harty's Ch.13, Grossman's Ch.20, Gulabivala and Ng Ch.12, Walton and Torabinejad Ch.26 and Herrera et al 2018 (full text). The word "dilemma" in the question matches Cohen's "chicken or egg" controversy. Some explanation paragraphs are taken from Q01, which read the same chapters in full.
+
+## SOURCE LIST
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2933: "“chicken or egg”"
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2940: "only by the temporal sequence of the disease processes"
@@ -167,9 +194,7 @@ Three layers of the dilemma: **"Which, Whether, Why classify"** (which came firs
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.315 (printed p.306): "albeit with identical goals of surface microbial decontamination"
 - Gopikrishna, 2021, 20_Chapter_20_Endodontic_Periodontic_Interrelationship.md, PDF p.435 (printed p.410): "it is recommended that endodontic treatment should precede periodontal therapy, regardless of the cause of disease"
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.979 (printed p.1128): "prognosis of combined diseases depends mainly on the success of periodontal therapy"
-
 **[LIT]** items are listed in REFERENCES with DOI; the access level is stated for each.
-
 ## REFERENCES (alphabetical)
 - Glickman GN, Iacono VJ. Endo-perio. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.25.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.20 Endodontic-periodontic interrelationship.

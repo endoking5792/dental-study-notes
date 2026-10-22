@@ -1,19 +1,21 @@
-# "Pathways of communication between the pulp and periodontium. How will you differentiate a lesion of endodontic origin from one of periodontal origin?" (PREDICTED)
+# "Pathways of communication between the pulp and periodontium. How will you differentiate a lesion of endodontic origin from one of periodontal origin?" (PREDICTED) (canonical answer)
 
 **Marks:** 10m (PREDICTED; wording ours)
 **Sitting:** Not asked in this form. Predicted because diagnosis is the core of every long essay in this topic (Q01, Q02) and "pathways" is a common short-note stem.
 
-<!--LOC: i_paths, i_3040, h_1000, c_gut28, i_18, gu_tubnormal, c_pgg, i_notch, i_twoview, c_perf, c_halo, g_probe3, g_gpcone, g_days, wa_conical, wa_1mm, wa_intact, wa_notresolve, wa_vrf, i_solitary, i_narrow, gu_features, gu_blowout, gu_eachroot, c_angles, h_retro-->
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 354 words, about 16 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The separate Study Mode / Exam Mode draft of this question is kept unchanged in the repository.
+
+<!--LOC: i_paths, i_3040, h_1000, c_gut28, i_18, gu_tubnormal, c_pgg, i_notch, i_twoview, c_perf, c_halo, g_probe3, g_gpcone, g_days, wa_conical, wa_1mm, wa_intact, wa_notresolve, wa_vrf, i_solitary, i_narrow, gu_features, gu_blowout, gu_eachroot, c_angles, h_retro, wa_1week, wa_base, wa_sounding-->
+
 <!--REF: Glickman2021, Rotstein2019, Gopikrishna2021, Rotstein2017, Gulabivala2014, Walton2002-->
 
-## Retrieval Report
-No new searches. Pathways from Ingle's Ch.36, Harty's Ch.13, Cohen's Ch.25 and Gulabivala and Ng Ch.12; differentiation from Grossman's Table 20.1, Walton and Torabinejad Ch.26 (probing patterns) and Gulabivala and Ng (features suggesting origin).
+## Explanation
 
-## STUDY MODE
-The useful insight is that the probe, more than the radiograph, separates the two. Periodontal bone loss always starts at the crest, so a periodontal lesion probes as a cone and an intact sulcus rules periodontal disease out (Walton and Torabinejad, 2002) [SRC]. A sinus tract from the pulp probes as a narrow break of about 1 mm (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng warn that a lateral endodontic abscess can produce a wide "blow-out" defect that still heals with endodontics alone (Gulabivala, Darbar and Ng, 2014) [SRC], so width is suggestive, not decisive. The final test is the response to root canal treatment (Rotstein, 2017) [SRC]. Q01 and Q02 give the full reasoning.
+The useful insight is that the probe, more than the radiograph, separates the two. Periodontal bone loss always starts at the crest, so a periodontal lesion probes as a cone and an intact sulcus rules periodontal disease out (Walton and Torabinejad, 2002) [SRC]. A sinus tract from the pulp probes as a narrow break of about 1 mm (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng warn that a lateral endodontic abscess can produce a wide "blow-out" defect that still heals with endodontics alone (Gulabivala, Darbar and Ng, 2014) [SRC], so width is suggestive, not decisive. The final test is the response to root canal treatment (Rotstein, 2017) [SRC].
 
-## EXAM MODE
-*(Estimated writing time: about 16 minutes)*
+**Reading the probe.** Walton and Torabinejad's chapter is the most practical source. Periodontal disease starts at the crest, so a periodontal lesion probes as a cone; a sinus tract probes as a narrow (about 1 mm) defect with normal depths 1 mm either side; a "blow-out" lesion drops precipitously over the width of a swelling and reattaches within a week after endodontic treatment; a true combined lesion probes as a cone with a sinus-type drop at its base (Walton and Torabinejad, 2002) [SRC]. Probing must be distinguished from sounding, which goes through the attachment to bone (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng warn that a lateral endodontic abscess can produce a wide and deep "blow-out" profile yet heal with endodontics alone (Gulabivala, Darbar and Ng, 2014) [SRC], so width alone does not prove periodontal origin.
+
+## ✎ Exam core
 
 **A. Pathways of communication**
 1. **Apical foramen**: the main route (Rotstein, Zabalegui and Al-Hezaimi, 2019).
@@ -59,8 +61,11 @@ The useful insight is that the probe, more than the radiograph, separates the tw
 ## MNEMONIC
 **"Narrow is Nerve, Cone is Calculus."**
 
-## SOURCE LIST
+## How this answer was sourced
 
+No new searches. Pathways from Ingle's Ch.36, Harty's Ch.13, Cohen's Ch.25 and Gulabivala and Ng Ch.12; differentiation from Grossman's Table 20.1, Walton and Torabinejad Ch.26 (probing patterns) and Gulabivala and Ng (features suggesting origin). Some explanation paragraphs are taken from Q01, which read the same chapters in full.
+
+## SOURCE LIST
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.962 (printed p.1111): "main pathways for communication between the dental pulp and the periodontium are (1) dentinal tubules, (2) lateral and accessory canals, and (3) the apical foramen"
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.962 (printed p.1111): "It is estimated that 30 to 40% of all teeth have lateral or accessory canals, mostly found in the apical third of the root"
@@ -88,9 +93,10 @@ The useful insight is that the probe, more than the radiograph, separates the tw
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.316 (printed p.307): "Each root or cusp of a multirooted tooth should be tested separately"
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2943: "It is imperative for the clinician to take more than one radiograph at different angles"
 - Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.289 (printed p.273): "a valid retrospective confirmed diagnosis can then be made"
-
+- Walton and Torabinejad, 2002, 26_Part_26_Periodontal_Endodontic_Considerations.md, PDF p.493 (printed p.474): "complete periodontal reattachment occurs within 1 week in most cases"
+- Walton and Torabinejad, 2002, 26_Part_26_Periodontal_Endodontic_Considerations.md, PDF p.502 (printed p.483): "The lesion can be characterized as a typical sinus tract type of probing at the base of a periodontal lesion"
+- Walton and Torabinejad, 2002, 26_Part_26_Periodontal_Endodontic_Considerations.md, PDF p.492 (printed p.473): "sounding implies penetrating through the attachment to define the most coronal level of the alveolar bone"
 **[LIT]** items are listed in REFERENCES with DOI; the access level is stated for each.
-
 ## REFERENCES (alphabetical)
 - Glickman GN, Iacono VJ. Endo-perio. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.25.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.20 Endodontic-periodontic interrelationship.

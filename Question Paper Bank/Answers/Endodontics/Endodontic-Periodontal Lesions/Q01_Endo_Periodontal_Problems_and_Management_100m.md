@@ -1,25 +1,39 @@
-# "Endo-periodontal problems and management."
+# "Endo-periodontal problems and management." (canonical answer)
 
 **Marks:** 100m, Single Essay
 **Sitting:** Oct 1996 (EWE 90-00, Recent Advances repository). The 75m "Endo perio inter relationship, diagnosis and treatment planning" (Oct/Nov 2014) has its own answer (Q02, built around diagnosis and treatment planning). The 50m "Endodontic and periodontal interrelationship" (Manipal 2022, 2025) is Q03. This answer is the umbrella essay.
 
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 3246 words, about 148 minutes at 22 words a minute (Section 7 range 3200-3500 words for 100 marks). The separate Study Mode / Exam Mode draft of this question is kept unchanged in the repository.
 
-<!--LOC: g_days, g_gpcone, c_lpc, wa_trauma, g_unit, g_simring, g_bender, c_50, g_50, gu_def, wa_pulpless, wa_both, he_dx, i_paths, c_channels, c_vascular, c_45, c_gut28, i_3040, i_kirk, h_1000, gu_45, i_18, gu_10cej, c_denuded, gu_tubnormal, h_plaque, c_pgg, c_pgg05, i_twoview, i_notch, c_perf, c_halo, c_riskf, c_medic, c_rare, h_20wk, h_20pc, h_depth, c_6033, c_monkey, c_causal, c_heal, i_controv, h_conflict, c_70, c_cementum, c_main, h_sound, gu_limited, wa_little, wa_4pc, wa_3pc, c_type, i_curette, wa_sever, c_fibrosis, h_degen, i_similar, h_pcr, i_spiro, gu_spiro, i_lform, i_fungi20, i_cmv, s_biofilm, s_foreign, s_chol, s_russell, s_true10, g_nonliving, g_trauma, g_systemic, g_duration, i_leak, he_micro, he_noprofile, he_risk, g_simon, g_belk, i_basis, c_concom, c_undiag, g_oliet, g_groupII, g_groupIII, w_disagree, w_c1, w_c3, w_c4, he_1999, he_generic, he_history, he_notrelevant, he_table, he_groups, he_limited, gu_none, c_gp, c_g3, c_resolve, h_onlyperio, h_weeks, h_failure, i_solitary, i_narrow, c_part, i_alone, c_broad, h_shallow, c_excl, h_wholly, c_temporal, g_acutepain, i_single, i_neuro, c_contperio, i_lessoften, c_coalesce, g_which, h_invariably, i_vrflike, h_flap, g_onlyone, wa_conical, wa_1mm, wa_sounding, wa_intact, wa_notresolve, wa_1week, wa_palatal, wa_23mo, wa_older, wa_vrf, wa_trauma, wa_base, gu_partial, gu_eachroot, gu_quality, gu_twothirds, gu_features, gu_blowout, g_probe3, g_gpcone, c_angles, c_temptation, c_vrfhope, c_genetic, i_teardrop, i_srp, he_mimic, c_cep, c_lpc, c_mimic, h_retro, gu_retro, g_regardless, g_predict, g_cannot, g_slow, i_23, i_aggressive, h_10ct, wa_drain, c_first, i_endoonly, i_perioonly, i_guarded, i_mainly, i_factors, c_alt, c_rrdef, h_amputdef, h_resectdef, c_hemi, h_bicusdef, c_62, h_68, c_fail, h_rootfx, a_32, a_691, wa_implant, h_implant, c_advance, c_vital, c_haskell, c_gtr, c_gtrcomb, c_membr, k_repair, k_grafts, k_melcher, k_gtr, k_emd, k_controv, k_bmp, k_notyet, i_perfprog, i_extru, c_4mm, c_twice, h_early, gu_doubtful, gu_extrusion, wa_trifling, wa_05, wa_2509, wa_911, wa_negligible, wa_noperio, wa_reversible, gu_few, gu_seldom, wa_rare, c_chicken, w_periapical, gu_identical-->
+<!--LOC: g_days, g_gpcone, c_lpc, wa_trauma, g_unit, g_simring, g_bender, c_50, g_50, gu_def, wa_pulpless, wa_both, he_dx, i_paths, c_channels, c_vascular, c_45, c_gut28, i_3040, i_kirk, h_1000, gu_45, i_18, gu_10cej, c_denuded, gu_tubnormal, h_plaque, c_pgg, c_pgg05, i_twoview, i_notch, c_perf, c_halo, c_riskf, c_medic, c_rare, h_20wk, h_20pc, h_depth, c_6033, c_monkey, c_causal, c_heal, i_controv, h_conflict, c_70, c_cementum, c_main, h_sound, gu_limited, wa_little, wa_4pc, wa_3pc, c_type, i_curette, wa_sever, c_fibrosis, h_degen, i_similar, h_pcr, i_spiro, gu_spiro, i_lform, i_fungi20, i_cmv, s_biofilm, s_foreign, s_chol, s_russell, s_true10, g_nonliving, g_trauma, g_systemic, g_duration, i_leak, he_micro, he_noprofile, he_risk, g_simon, g_belk, i_basis, c_concom, c_undiag, g_oliet, g_groupII, g_groupIII, w_disagree, w_c1, w_c3, w_c4, he_1999, he_generic, he_history, he_notrelevant, he_table, he_groups, he_limited, gu_none, c_gp, c_g3, c_resolve, h_onlyperio, h_weeks, h_failure, i_solitary, i_narrow, c_part, i_alone, c_broad, h_shallow, c_excl, h_wholly, c_temporal, g_acutepain, i_single, i_neuro, c_contperio, i_lessoften, c_coalesce, g_which, h_invariably, i_vrflike, h_flap, g_onlyone, wa_conical, wa_1mm, wa_sounding, wa_intact, wa_notresolve, wa_1week, wa_palatal, wa_23mo, wa_older, wa_vrf, wa_base, gu_partial, gu_eachroot, gu_quality, gu_twothirds, gu_features, gu_blowout, g_probe3, c_angles, c_temptation, c_vrfhope, c_genetic, i_teardrop, i_srp, he_mimic, c_cep, c_mimic, h_retro, gu_retro, g_regardless, g_predict, g_cannot, g_slow, i_23, i_aggressive, h_10ct, wa_drain, c_first, i_endoonly, i_perioonly, i_guarded, i_mainly, i_factors, c_alt, c_rrdef, h_amputdef, h_resectdef, c_hemi, h_bicusdef, c_62, h_68, c_fail, h_rootfx, a_32, a_691, wa_implant, h_implant, c_advance, c_vital, c_haskell, c_gtr, c_gtrcomb, c_membr, k_repair, k_grafts, k_melcher, k_gtr, k_emd, k_controv, k_bmp, k_notyet, i_perfprog, i_extru, c_4mm, c_twice, h_early, gu_doubtful, gu_extrusion, wa_trifling, wa_05, wa_2509, wa_911, wa_negligible, wa_noperio, wa_reversible, gu_few, gu_seldom, wa_rare, c_chicken, w_periapical, gu_identical-->
+
 <!--REF: Glickman2021, Rotstein2019, Gopikrishna2021, Rotstein2017, Seltzer2012, Weine2004, Gulabivala2014, Walton2002, Herrera2018, Papapanou2018, Kinaia2012, Andreana2010-->
 
-## Retrieval Report
-Searched the `mds-textbooks` chapter files for the endodontic-periodontal chapters and read them in full: Cohen's 12th ed Ch.25 (Glickman and Iacono), Ingle's 7th ed Ch.36 (Rotstein, Zabalegui and Al-Hezaimi), Grossman's 14th ed Ch.20, Harty's 7th ed Ch.13 (Rotstein), Gulabivala and Ng 4th ed Ch.12, Walton and Torabinejad 3rd ed Ch.26, Weine 6th ed Ch.11 (classification and summaries), and Seltzer and Bender 2nd ed Ch.16 (biofilm and non-living pathogen sections; the file begins mid-chapter). All hit. DCNA collection (`~/Desktop/DCNA articles`, title scan): two relevant articles, read in full: Kinaia et al 2012 (regenerative therapy) and Andreana 2010 (hemisected molars versus implants). Literature: PubMed search for the 2017 World Workshop papers; Herrera et al 2018 read in full from the Wiley PDF (Table 6 read from the page image); the consensus report (Papapanou et al 2018) read as an abstract only. No usable source was found for CBCT in endo-perio diagnosis in these chapters, so CBCT is not discussed beyond one line.
-
-## STUDY MODE
+## 1. Introduction
 
 **Why the subject is an "interrelationship" and not two diseases.** Grossman's opens with the idea that the tooth, its pulp and its supporting structures must be viewed as a biological unit, and dates the first description of the relationship to Simring and Goldberg and the term "pulpodontic-periodontic syndrome" to Bender and Seltzer in 1972 (Gopikrishna, 2021) [SRC]. Weine puts it more sharply: endodontics may be thought of as periapical periodontics, because what the endodontist is trying to restore is the health of the periodontal tissues at the apex (Weine, 2004) [SRC]. Both Cohen's and Grossman's say pulpal and periodontal problems account for more than 50% of tooth loss (Glickman and Iacono, 2021; Gopikrishna, 2021) [SRC]; neither gives the primary study, so treat the figure as a textbook statement, not a measured rate [Likely].
 
 > **SOURCE CONFLICT, date of the first description.** Grossman's text says Simring and Goldberg first described the relationship in 1969; the same chapter's bibliography dates Simring and Goldberg, J Periodontol 35:22, to 1964 (Gopikrishna, 2021) [SRC]. Quote the name, not the year, in the exam.
 
+#### ✎ Exam core
+
+The pulp and the periodontium form one biological unit, connected embryologically, anatomically and through the vascular system (Gopikrishna, 2021; Glickman and Iacono, 2021). Disease in one can involve the other. The relationship was first described by Simring and Goldberg, and Bender and Seltzer (1972) called it the "pulpodontic-periodontic syndrome" (Gopikrishna, 2021). Pulpal and periodontal problems together are said to cause more than half of all tooth loss (Glickman and Iacono, 2021). Diagnosis is difficult because each disease can mimic the other, and treatment and prognosis depend on identifying which component is present.
+
+## 2. Definitions
+
 **What counts as an endo-perio lesion.** Definitions differ, and the difference matters for how you write the answer.
 - Gulabivala and Ng define the "perio-endo" lesion as the small group of cases in which the origin of the disease process cannot be clearly discriminated; the common feature is an isolated deep probing defect of uncertain origin (Gulabivala, Darbar and Ng, 2014) [SRC].
 - Walton and Torabinejad's chapter (adapted from Harrington) is strict: the tooth must be pulpless, there must be a probeable defect from the sulcus to the apex or a lateral canal, and both root canal treatment and periodontal therapy must be needed to resolve the whole lesion (Walton and Torabinejad, 2002) [SRC]. By this definition a lesion that heals with endodontics alone is not an endo-perio lesion at all.
 - The 2017 World Workshop defines it as a pathological communication between the pulpal and periodontal tissues at a given tooth, acute or chronic; a pocket reaching or close to the apex with absent pulp vitality indicates the lesion (Herrera et al, 2018) [LIT].
+
+#### ✎ Exam core
+
+- **Endo-periodontal lesion (2017 World Workshop):** a pathological communication between the pulpal and periodontal tissues at a given tooth, occurring in acute or chronic form (Herrera et al, 2018; Papapanou et al, 2018).
+- **Strict clinical definition (Walton and Torabinejad):** the tooth is pulpless; there is a probeable defect from the sulcus to the apex or a lateral canal; both root canal and periodontal treatment are needed for complete healing (Walton and Torabinejad, 2002).
+- **Gulabivala and Ng:** cases in which the origin of the disease cannot be clearly discriminated, typically an isolated deep probing defect of uncertain origin (Gulabivala, Darbar and Ng, 2014).
+- **Retrograde periodontitis:** periodontal destruction proceeding from the apex towards the gingival margin, forming a "reverse pocket", as opposed to marginal periodontitis (Glickman and Iacono, 2021).
+
+## 3. Pathways of communication
 
 **The pathways, and why their number overstates their importance.** Ingle's names three main pathways: dentinal tubules, lateral and accessory canals, and the apical foramen (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Cohen's adds neural (reflex) pathways, palatogingival grooves, the periodontal ligament, alveolar bone and vasculolymphatic drainage, and says the best-evidenced link is vascular (Glickman and Iacono, 2021) [SRC]. Prevalence figures look high: Rubach and Mitchell found accessory canals in 45% of 74 serially sectioned teeth, Gutmann found furcation canals in 28% of 102 molars (Glickman and Iacono, 2021) [SRC], Ingle's estimates 30 to 40% of teeth have lateral or accessory canals, mostly apical (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC], and Gulabivala and Ng give a mean of about 45% from pooled studies (Gulabivala, Darbar and Ng, 2014) [SRC]. Yet Kirkham found only 2% of lateral canals associated with periodontal pockets, in 1000 teeth with extensive periodontal disease (Rotstein, 2017; Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. The lesson is that anatomy permits communication; it does not make it common [Likely].
 
@@ -27,60 +41,8 @@ Searched the `mds-textbooks` chapter files for the endodontic-periodontal chapte
 
 Tubules deserve care. Cohen's says the pulp chamber can communicate with the root surface through tubules, especially when cementum is denuded (Glickman and Iacono, 2021) [SRC]; Gulabivala and Ng say that under normal circumstances tubules do not provide a communication, and do so only when cementum is worn away by recession or root debridement (Gulabivala, Darbar and Ng, 2014) [SRC]. Harty's adds the experimental basis: soluble plaque material applied to exposed dentine could cause pulpal inflammation (Rotstein, 2017) [SRC]. Two-view radiographs found about 30% of lateral canals against 8% with standard films, and a "notch" on the root surface or sealer extrusion are the clinical clues (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC].
 
-**Pulp to periodontium: well accepted.** Necrotic pulp products leave by the foramen and lateral canals; when the inflammation tracks coronally a retrograde periodontitis or "reverse pocket" forms, with little anatomic resemblance to a periodontal defect (Glickman and Iacono, 2021) [SRC]. Cohen's calls endodontic infection a local modifying risk factor for periodontitis progression if left untreated, and warns that medicaments such as calcium hydroxide, corticosteroids and antibiotics can irritate the attachment (Glickman and Iacono, 2021) [SRC]. Harty's gives the experimental support: intrapulpal infection promoted marginal epithelial downgrowth on denuded dentine after 20 weeks, infected defects were covered by 20% more epithelium, and molars with periapical lesions on both roots had significantly greater probing depths (Rotstein, 2017) [SRC].
+#### ✎ Exam core
 
-> **SOURCE CONFLICT, does a pulpless tooth worsen periodontitis?** *Glickman and Iacono (Cohen's)*: endodontic infection is a local modifying risk factor, though they also note that the rarity of combined lesions argues periradicular disease has little effect, and that a causal relationship has not been established (Glickman and Iacono, 2021) [SRC]. *Walton and Torabinejad*: the pocket-depth difference is only 0.5 to 1.0 mm, within the 0.5 to 1.3 mm error of probing; the data "appear to present trifling distinctions"; none of 131 teeth lost out of 2509 had endodontic involvement; of 911 periodontally involved teeth followed 5 to 14 years, tooth loss was 2%; they conclude the comparative risk is negligible and that pulpal necrosis does not cause periodontal disease, only a sinus tract through the ligament (Walton and Torabinejad, 2002) [SRC]. *Gulabivala and Ng*: chronic apical periodontitis seldom results in retrograde marginal periodontitis, and few cases document true progression from endodontic to periodontal disease (Gulabivala, Darbar and Ng, 2014) [SRC]. The weight of these statements is that the pulp-to-periodontium effect is real but small [Likely].
-
-**Periodontium to pulp: genuinely controversial.** Ingle's calls it "more controversial" and Harty's says conflicting studies abound (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC]. The evidence on each side:
-- *Damage occurs*: pulpitis and necrosis have been shown next to lateral canals exposed by periodontitis; long-standing disease gives pulpal fibrosis and mineralisation (Glickman and Iacono, 2021) [SRC]; Harty's lists calcification, fibrosis and collagen resorption, and cites bacterial growth from 87% of pulps and radicular dentine of periodontally involved teeth (Rotstein, 2017) [SRC].
-- *Damage is limited*: in Bergenholtz and Lindhe's animal model, 70% of roots showed no pulpal change despite 30 to 40% attachment loss (Glickman and Iacono, 2021) [SRC]; Walton and Torabinejad report little or no effect on human pulps, 4% needing RCT 5 to 24 years after periodontal treatment of furcation-involved molars, and 3% necrosis over 4 to 13 years in advanced periodontitis (Walton and Torabinejad, 2002) [SRC]; Gulabivala and Ng attribute the limited effect to tubule sclerosis and secondary dentine (Gulabivala, Darbar and Ng, 2014) [SRC].
-- *Where the sources agree*: the pulp survives while the main apical vessels are intact and the accessory canals stay covered by sound cementum (Glickman and Iacono, 2021; Rotstein, 2017) [SRC]; once the pocket reaches the apex, necrosis follows (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC].
-
-Periodontal treatment, not just the disease, can injure the pulp: a curette can sever the vessels of a lateral canal (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC], and curetting a lesion that surrounds the apex severs the pulp supply, so the canal should be treated first (Walton and Torabinejad, 2002) [SRC].
-
-**Aetiology.** Ingle's and Harty's report that periodontal and endodontic pathogens are similar; PCR found A. actinomycetemcomitans, T. forsythia, P. gingivalis, P. intermedia, T. denticola and others in all endodontic samples studied (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC]. Herrera's review reached the same point with newer methods and found no specific microbial profile for the lesion (Herrera et al, 2018) [LIT]. Spirochaete counts were once used to separate the two abscesses, but spirochaetes are now documented in canals (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]; Gulabivala and Ng still cite up to 10% in periapical and up to 60% in lateral periodontal abscesses (Gulabivala, Darbar and Ng, 2014) [SRC]. Fungi (about 20% of adult periodontitis patients carry subgingival fungi), L-forms and herpesviruses (cytomegalovirus in about 65% of pocket samples) are also listed (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Non-living agents include foreign bodies such as paper-point cellulose, cholesterol crystals (clefts in 18 to 44% of periradicular lesions) and Russell bodies (about 80%) (Seltzer and Bender Ch.16, 2012) [SRC]. Grossman's lists contributing factors (poor endodontics, poor restorations, trauma, resorption, perforation, developmental malformations) and calls trauma a major aetiological factor (Gopikrishna, 2021) [SRC]. Herrera's risk factors are advanced periodontitis, trauma and iatrogenic events, with grooves behind most single lesions in non-periodontitis patients (Herrera et al, 2018) [LIT].
-
-**Why the classification has changed.** Simon, Glick and Frank (1972) classified by origin and progression, with the concomitant lesion added by Belk and Gutmann (Gopikrishna, 2021) [SRC]. Rotstein groups them as endodontic, periodontal and combined, saying the classification is based on how the lesions form (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Oliet and Pollock classified by treatment need (Gopikrishna, 2021) [SRC]; Weine by clinical presentation and therapy (Weine, 2004) [SRC]. Gulabivala and Ng are blunt that none of the classifications especially contributes to diagnosis or treatment (Gulabivala, Darbar and Ng, 2014) [SRC]. Herrera's review made the same criticism formally: history of the disease is usually unavailable, and the primary source is not relevant to treatment because both tissues need treating; the 1999 single category "combined periodontal-endodontic lesions" under "periodontitis associated with endodontic lesions" was too generic and wrongly implied periodontitis (Herrera et al, 2018) [LIT]. Hence the 2017 table, based on root damage, periodontitis status and pocket extent (Herrera et al, 2018) [LIT].
-
-**Reading the probe.** Walton and Torabinejad's chapter is the most practical source. Periodontal disease starts at the crest, so a periodontal lesion probes as a cone; a sinus tract probes as a narrow (about 1 mm) defect with normal depths 1 mm either side; a "blow-out" lesion drops precipitously over the width of a swelling and reattaches within a week after endodontic treatment; a true combined lesion probes as a cone with a sinus-type drop at its base (Walton and Torabinejad, 2002) [SRC]. Probing must be distinguished from sounding, which goes through the attachment to bone (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng warn that a lateral endodontic abscess can produce a wide and deep "blow-out" profile yet heal with endodontics alone (Gulabivala, Darbar and Ng, 2014) [SRC], so width alone does not prove periodontal origin.
-
-**Why endodontics first.** Grossman's gives three reasons: endodontic treatment is predictable, the periodontal component cannot resolve while the endodontic lesion persists, and periodontitis is slow (Gopikrishna, 2021) [SRC]. Ingle's adds timing and a biological mechanism: reassess after 2 to 3 months, and avoid aggressive removal of ligament and cementum in the interim because it harms periodontal healing (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Walton and Torabinejad's reason is drainage: a sinus into the periodontal defect interferes with repair (Walton and Torabinejad, 2002) [SRC]. Grossman's notes that some clinicians start with whichever disease came first, or prepare and disinfect the canal, do the periodontal treatment, then obturate (Gopikrishna, 2021) [SRC]. Gulabivala and Ng add a caution in the other direction: periodontists who ask for root canal treatment on teeth of doubtful pulp status before regenerative surgery must remember that extruded root filling material can harm the outcome as much as the infection would (Gulabivala, Darbar and Ng, 2014) [SRC].
-
-**Root resection versus implant.** The evidence disagrees, so it must be shown side by side.
-- *Cohen's*: retrospective studies of 3 to 12 years report 62% to 100% success, with endodontic and restorative failure, not periodontal breakdown, the main cause of failure (Glickman and Iacono, 2021) [SRC].
-- *Harty's*: anatomical redesigning has a survival of about 68%; one 10-year study of 100 patients lost 38 teeth, 47% of them by root fracture (Rotstein, 2017) [SRC].
-- *Walton and Torabinejad*: survival of root-resected teeth is not substantially different from osseointegrated implants (Walton and Torabinejad, 2002) [SRC].
-- *Andreana (DCNA)*: in periodontitis patients, 32% of hemisected mandibular molars had complications against 11% of implants; another study of 691 molars had a 30% failure rate over 10 years (Andreana, 2010) [SRC].
-
-**Regeneration.** Kinaia et al trace the history: early surgical treatments (including root amputation and hemisection) healed by long junctional epithelium; bone grafts mostly by repair; GTR is based on Melcher's idea that only ligament and bone cells regenerate attachment (Kinaia et al, 2012) [SRC]. For endodontic surgery a systematic review found GTR helps large communicating (through-and-through) lesions but not small confined ones (Kinaia et al, 2012) [SRC]. Cohen's adds that with GTR the combined endodontic-periodontal lesion probably has the least favourable prognosis (Glickman and Iacono, 2021) [SRC].
-
-## CRITICAL EVIDENCE SYNTHESIS
-
-**Claim 1: "Always treat the endodontic component first."**
-Textbook: Grossman's recommends endodontics first regardless of cause; Ingle's says reassess at 2 to 3 months; Cohen's says endodontics should usually be completed first (Gopikrishna, 2021; Rotstein, Zabalegui and Al-Hezaimi, 2019; Glickman and Iacono, 2021) [SRC]. Evidence retrieved: the mechanism comes from animal work (infected canals give 20% more epithelium, 10% less connective tissue cover; aggressive cementum removal impairs healing) and clinical case series (Rotstein, 2017) [SRC]; the 2017 review rated the evidence on these lesions as limited, mostly case reports (Herrera et al, 2018) [LIT]. Interpretation: the sequence is biologically sound and consistent across sources. Limitation: no comparative clinical trial of sequences was retrieved, so it is a consensus rule, not a trial result [Likely]. Clinical point: endodontics first, then non-surgical periodontal therapy, with surgery only after reassessment.
-
-**Claim 2: "Periodontitis kills the pulp."**
-Textbook: the pathway exists (Glickman and Iacono, 2021) [SRC]. Evidence: animal data (70% unaffected at 30 to 40% attachment loss) and human cohorts (3 to 4% needing RCT over many years) point to a small effect, while bacterial recovery from 87% of periodontally involved pulps points to frequent contamination (Glickman and Iacono, 2021; Walton and Torabinejad, 2002; Rotstein, 2017) [SRC]. Interpretation: contamination is common, clinically significant necrosis is uncommon until the apex is involved. These data sets measured different things (histology, culture, clinical need for RCT), so they do not contradict each other [Likely]. Clinical point: do not do "prophylactic" root canal treatment on a vital, periodontally involved tooth unless periodontal surgery will sever the apical supply (Walton and Torabinejad, 2002) [SRC].
-
-**Claim 3: "The 2017 classification is better than Simon's."**
-Textbook: Simon's is the most used and is still taught (Gopikrishna, 2021) [SRC]. Evidence: Herrera's argument is logical (history unknown, both tissues need treatment, prognosis matters most) but the same review states that the evidence base is limited (Herrera et al, 2018) [LIT]. Interpretation: the 2017 table is a consensus on what is useful for prognosis, not a validated diagnostic tool. Limitation: I retrieved no study testing its reliability or prognostic accuracy. Clinical point: in the exam, give both, Simon's for pathogenesis and 2017 for prognosis and treatment [Likely].
-
-**Claim 4: "Root resection is as good as an implant."**
-Evidence is genuinely inconsistent: 62% to 100% success (Cohen's), about 68% survival (Harty's), no substantial difference from implants (Walton and Torabinejad), and more complications than implants in periodontitis patients (Andreana's summary) (Glickman and Iacono, 2021; Rotstein, 2017; Walton and Torabinejad, 2002; Andreana, 2010) [SRC]. All are retrospective. Interpretation: the result depends on case selection, endodontic and restorative quality and the patient's periodontal status; the data do not allow a general ranking [Likely].
-
-## EXAM MODE
-*(Estimated writing time: about 150 minutes)*
-
-### 1. Introduction
-The pulp and the periodontium form one biological unit, connected embryologically, anatomically and through the vascular system (Gopikrishna, 2021; Glickman and Iacono, 2021). Disease in one can involve the other. The relationship was first described by Simring and Goldberg, and Bender and Seltzer (1972) called it the "pulpodontic-periodontic syndrome" (Gopikrishna, 2021). Pulpal and periodontal problems together are said to cause more than half of all tooth loss (Glickman and Iacono, 2021). Diagnosis is difficult because each disease can mimic the other, and treatment and prognosis depend on identifying which component is present.
-
-### 2. Definitions
-- **Endo-periodontal lesion (2017 World Workshop):** a pathological communication between the pulpal and periodontal tissues at a given tooth, occurring in acute or chronic form (Herrera et al, 2018; Papapanou et al, 2018).
-- **Strict clinical definition (Walton and Torabinejad):** the tooth is pulpless; there is a probeable defect from the sulcus to the apex or a lateral canal; both root canal and periodontal treatment are needed for complete healing (Walton and Torabinejad, 2002).
-- **Gulabivala and Ng:** cases in which the origin of the disease cannot be clearly discriminated, typically an isolated deep probing defect of uncertain origin (Gulabivala, Darbar and Ng, 2014).
-- **Retrograde periodontitis:** periodontal destruction proceeding from the apex towards the gingival margin, forming a "reverse pocket", as opposed to marginal periodontitis (Glickman and Iacono, 2021).
-
-### 3. Pathways of communication
 **A. Anatomical (physiological)**
 1. **Apical foramen**: the main and most direct pathway (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 2. **Lateral and accessory canals**: 30 to 40% of teeth, mostly apical third (Ingle's); furcation canals 23 to 76% in different studies (Rotstein, Zabalegui and Al-Hezaimi, 2019). Only 2% of lateral canals were associated with pockets in Kirkham's study of 1000 teeth (Rotstein, 2017).
@@ -102,7 +64,14 @@ The pulp and the periodontium form one biological unit, connected embryologicall
 
 **C. Pathological (non-physiological)**: perforations (iatrogenic, resorptive, carious), vertical root fracture, external root resorption (Glickman and Iacono, 2021; Herrera et al, 2018).
 
-### 4. Effect of pulpal disease on the periodontium
+## 4. Effect of pulpal disease on the periodontium
+
+**Pulp to periodontium: well accepted.** Necrotic pulp products leave by the foramen and lateral canals; when the inflammation tracks coronally a retrograde periodontitis or "reverse pocket" forms, with little anatomic resemblance to a periodontal defect (Glickman and Iacono, 2021) [SRC]. Cohen's calls endodontic infection a local modifying risk factor for periodontitis progression if left untreated, and warns that medicaments such as calcium hydroxide, corticosteroids and antibiotics can irritate the attachment (Glickman and Iacono, 2021) [SRC]. Harty's gives the experimental support: intrapulpal infection promoted marginal epithelial downgrowth on denuded dentine after 20 weeks, infected defects were covered by 20% more epithelium, and molars with periapical lesions on both roots had significantly greater probing depths (Rotstein, 2017) [SRC].
+
+> **SOURCE CONFLICT, does a pulpless tooth worsen periodontitis?** *Glickman and Iacono (Cohen's)*: endodontic infection is a local modifying risk factor, though they also note that the rarity of combined lesions argues periradicular disease has little effect, and that a causal relationship has not been established (Glickman and Iacono, 2021) [SRC]. *Walton and Torabinejad*: the pocket-depth difference is only 0.5 to 1.0 mm, within the 0.5 to 1.3 mm error of probing; the data "appear to present trifling distinctions"; none of 131 teeth lost out of 2509 had endodontic involvement; of 911 periodontally involved teeth followed 5 to 14 years, tooth loss was 2%; they conclude the comparative risk is negligible and that pulpal necrosis does not cause periodontal disease, only a sinus tract through the ligament (Walton and Torabinejad, 2002) [SRC]. *Gulabivala and Ng*: chronic apical periodontitis seldom results in retrograde marginal periodontitis, and few cases document true progression from endodontic to periodontal disease (Gulabivala, Darbar and Ng, 2014) [SRC]. The weight of these statements is that the pulp-to-periodontium effect is real but small [Likely].
+
+#### ✎ Exam core
+
 - Necrotic pulp products (bacteria, fungi, viruses, toxins) leave through the foramen, lateral and furcation canals and tubules, causing apical, lateral or furcal bone loss (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 - Drainage through the ligament into the sulcus produces a narrow, sinus-type "pocket" (Glickman and Iacono, 2021).
 - Intrapulpal infection promotes epithelial downgrowth on denuded dentine (after 20 weeks in the experiment; 20% more epithelium) (Rotstein, 2017).
@@ -110,19 +79,37 @@ The pulp and the periodontium form one biological unit, connected embryologicall
 - Endodontic procedures: medicaments, extruded materials, perforations and fractures from obturation or posts can damage the attachment (Glickman and Iacono, 2021).
 - Lesions of pulpal origin heal after adequate root canal treatment (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 
-### 5. Effect of periodontal disease and treatment on the pulp
+## 5. Effect of periodontal disease and treatment on the pulp
+
+**Periodontium to pulp: genuinely controversial.** Ingle's calls it "more controversial" and Harty's says conflicting studies abound (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC]. The evidence on each side:
+- *Damage occurs*: pulpitis and necrosis have been shown next to lateral canals exposed by periodontitis; long-standing disease gives pulpal fibrosis and mineralisation (Glickman and Iacono, 2021) [SRC]; Harty's lists calcification, fibrosis and collagen resorption, and cites bacterial growth from 87% of pulps and radicular dentine of periodontally involved teeth (Rotstein, 2017) [SRC].
+- *Damage is limited*: in Bergenholtz and Lindhe's animal model, 70% of roots showed no pulpal change despite 30 to 40% attachment loss (Glickman and Iacono, 2021) [SRC]; Walton and Torabinejad report little or no effect on human pulps, 4% needing RCT 5 to 24 years after periodontal treatment of furcation-involved molars, and 3% necrosis over 4 to 13 years in advanced periodontitis (Walton and Torabinejad, 2002) [SRC]; Gulabivala and Ng attribute the limited effect to tubule sclerosis and secondary dentine (Gulabivala, Darbar and Ng, 2014) [SRC].
+- *Where the sources agree*: the pulp survives while the main apical vessels are intact and the accessory canals stay covered by sound cementum (Glickman and Iacono, 2021; Rotstein, 2017) [SRC]; once the pocket reaches the apex, necrosis follows (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC].
+
+Periodontal treatment, not just the disease, can injure the pulp: a curette can sever the vessels of a lateral canal (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC], and curetting a lesion that surrounds the apex severs the pulp supply, so the canal should be treated first (Walton and Torabinejad, 2002) [SRC].
+
+#### ✎ Exam core
+
 The effect is controversial (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 - **For**: inflammation and localised necrosis near exposed lateral canals; fibrosis, calcification, collagen resorption, narrower canals (Glickman and Iacono, 2021; Rotstein, 2017).
 - **Against**: 70% of roots unaffected despite 30 to 40% attachment loss (Bergenholtz and Lindhe, animal); only 3 to 4% of advanced periodontitis teeth needed RCT over long follow-up (Glickman and Iacono, 2021; Walton and Torabinejad, 2002).
 - **Consensus**: the pulp survives while the main apical vessels are intact and the accessory canals are covered by sound cementum (Glickman and Iacono, 2021; Rotstein, 2017).
 - **Periodontal treatment**: scaling, root planing and flap surgery can open tubules or sever vessels in lateral canals (Rotstein, Zabalegui and Al-Hezaimi, 2019); curettage around the apex severs the pulp supply (Walton and Torabinejad, 2002).
 
-### 5A. Does a root-filled tooth respond to periodontal treatment?
+## 5A. Does a root-filled tooth respond to periodontal treatment?
+
+#### ✎ Exam core
+
 - One investigator found 60% osseous regeneration of periodontal defects on teeth not treated endodontically against 33% on endodontically treated teeth; a monkey study found the periodontium could regenerate whatever the pulp status (vital, filled, medicated or open), and pulp status had little influence on cementogenesis (Glickman and Iacono, 2021).
 - In 911 periodontally involved teeth followed 5 to 14 years after periodontal and endodontic treatment, overall tooth loss was 2% and the failure rate of the 340 root-filled teeth was 1.2%; endodontic involvement was not a significant factor in tooth loss in another study of 2509 teeth (Walton and Torabinejad, 2002).
 - Conclusion: a well root-filled tooth is not a contraindication to periodontal therapy; an infected canal is (Rotstein, 2017).
 
-### 6. Aetiology
+## 6. Aetiology
+
+**Aetiology.** Ingle's and Harty's report that periodontal and endodontic pathogens are similar; PCR found A. actinomycetemcomitans, T. forsythia, P. gingivalis, P. intermedia, T. denticola and others in all endodontic samples studied (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC]. Herrera's review reached the same point with newer methods and found no specific microbial profile for the lesion (Herrera et al, 2018) [LIT]. Spirochaete counts were once used to separate the two abscesses, but spirochaetes are now documented in canals (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]; Gulabivala and Ng still cite up to 10% in periapical and up to 60% in lateral periodontal abscesses (Gulabivala, Darbar and Ng, 2014) [SRC]. Fungi (about 20% of adult periodontitis patients carry subgingival fungi), L-forms and herpesviruses (cytomegalovirus in about 65% of pocket samples) are also listed (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Non-living agents include foreign bodies such as paper-point cellulose, cholesterol crystals (clefts in 18 to 44% of periradicular lesions) and Russell bodies (about 80%) (Seltzer and Bender Ch.16, 2012) [SRC]. Grossman's lists contributing factors (poor endodontics, poor restorations, trauma, resorption, perforation, developmental malformations) and calls trauma a major aetiological factor (Gopikrishna, 2021) [SRC]. Herrera's risk factors are advanced periodontitis, trauma and iatrogenic events, with grooves behind most single lesions in non-periodontitis patients (Herrera et al, 2018) [LIT].
+
+#### ✎ Exam core
+
 | Group | Factors |
 |---|---|
 | Live pathogens | Bacteria (red and orange complex species common to canals and pockets), spirochaetes, L-forms, fungi (C. albicans), herpesviruses |
@@ -133,7 +120,12 @@ The effect is controversial (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 *(Rotstein, Zabalegui and Al-Hezaimi, 2019; Seltzer and Bender Ch.16, 2012; Gopikrishna, 2021; Herrera et al, 2018)*
 Duration of exposure to the cause matters: the longer it persists, the more likely combined therapy is needed (Gopikrishna, 2021).
 
-### 7. Classification
+## 7. Classification
+
+**Why the classification has changed.** Simon, Glick and Frank (1972) classified by origin and progression, with the concomitant lesion added by Belk and Gutmann (Gopikrishna, 2021) [SRC]. Rotstein groups them as endodontic, periodontal and combined, saying the classification is based on how the lesions form (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Oliet and Pollock classified by treatment need (Gopikrishna, 2021) [SRC]; Weine by clinical presentation and therapy (Weine, 2004) [SRC]. Gulabivala and Ng are blunt that none of the classifications especially contributes to diagnosis or treatment (Gulabivala, Darbar and Ng, 2014) [SRC]. Herrera's review made the same criticism formally: history of the disease is usually unavailable, and the primary source is not relevant to treatment because both tissues need treating; the 1999 single category "combined periodontal-endodontic lesions" under "periodontitis associated with endodontic lesions" was too generic and wrongly implied periodontitis (Herrera et al, 2018) [LIT]. Hence the 2017 table, based on root damage, periodontitis status and pocket extent (Herrera et al, 2018) [LIT].
+
+#### ✎ Exam core
+
 **1. Simon, Glick and Frank (1972)**, based on origin and progression (Gopikrishna, 2021):
 1. Primary endodontic lesion
 2. Primary endodontic lesion with secondary periodontal involvement
@@ -165,7 +157,10 @@ Duration of exposure to the cause matters: the longer it persists, the more like
 | Without root damage, in non-periodontitis patients | | Grades 1 to 3 as above |
 Rationale: history of the disease is rarely available, both tissues need treatment whatever the origin, and the classification should reflect present status and prognosis (Herrera et al, 2018). Prognostic groups: hopeless, poor, favourable; root damage usually hopeless (Herrera et al, 2018).
 
-### 8. Clinical features of each class
+## 8. Clinical features of each class
+
+#### ✎ Exam core
+
 **Primary endodontic lesion**
 - Cause: caries, restorations, trauma; pulp necrotic or degenerating (Gopikrishna, 2021).
 - Sinus tract through the ligament into the sulcus or furcation: narrow, traced with a gutta-percha cone to the apex; may resemble a grade III furcation (Glickman and Iacono, 2021).
@@ -197,7 +192,12 @@ Rationale: history of the disease is rarely available, both tissues need treatme
 **Concomitant lesion**
 - Two separate diseases that do not communicate or influence each other; often undiagnosed, and only one is treated (Glickman and Iacono, 2021).
 
-### 9. Diagnosis
+## 9. Diagnosis
+
+**Reading the probe.** Walton and Torabinejad's chapter is the most practical source. Periodontal disease starts at the crest, so a periodontal lesion probes as a cone; a sinus tract probes as a narrow (about 1 mm) defect with normal depths 1 mm either side; a "blow-out" lesion drops precipitously over the width of a swelling and reattaches within a week after endodontic treatment; a true combined lesion probes as a cone with a sinus-type drop at its base (Walton and Torabinejad, 2002) [SRC]. Probing must be distinguished from sounding, which goes through the attachment to bone (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng warn that a lateral endodontic abscess can produce a wide and deep "blow-out" profile yet heal with endodontics alone (Gulabivala, Darbar and Ng, 2014) [SRC], so width alone does not prove periodontal origin.
+
+#### ✎ Exam core
+
 **History**: pain (pulpal or periodontal), trauma, previous endodontic or post work, periodontal symptoms (bleeding, mobility, drifting), risk factors such as smoking and diabetes (Gulabivala, Darbar and Ng, 2014; Herrera et al, 2018).
 
 **Clinical examination**
@@ -250,7 +250,12 @@ Rationale: history of the disease is rarely available, both tissues need treatme
 
 **2017 diagnostic steps**: first look for root damage (fracture, perforation, resorption); if none, full periodontal charting plus vitality and percussion tests; a pocket near the apex with a non-vital pulp indicates an endo-periodontal lesion (Herrera et al, 2018).
 
-### 10. Principles and sequence of treatment
+## 10. Principles and sequence of treatment
+
+**Why endodontics first.** Grossman's gives three reasons: endodontic treatment is predictable, the periodontal component cannot resolve while the endodontic lesion persists, and periodontitis is slow (Gopikrishna, 2021) [SRC]. Ingle's adds timing and a biological mechanism: reassess after 2 to 3 months, and avoid aggressive removal of ligament and cementum in the interim because it harms periodontal healing (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Walton and Torabinejad's reason is drainage: a sinus into the periodontal defect interferes with repair (Walton and Torabinejad, 2002) [SRC]. Grossman's notes that some clinicians start with whichever disease came first, or prepare and disinfect the canal, do the periodontal treatment, then obturate (Gopikrishna, 2021) [SRC]. Gulabivala and Ng add a caution in the other direction: periodontists who ask for root canal treatment on teeth of doubtful pulp status before regenerative surgery must remember that extruded root filling material can harm the outcome as much as the infection would (Gulabivala, Darbar and Ng, 2014) [SRC].
+
+#### ✎ Exam core
+
 - Remove the cause in each tissue that is diseased; treat both if both are diseased (Glickman and Iacono, 2021).
 - **Endodontics first** (Gopikrishna, 2021): it is predictable; the periodontal component cannot heal while the endodontic lesion persists; periodontitis is slow.
 - Reassess **2 to 3 months** after root canal treatment, then plan periodontal treatment (Rotstein, Zabalegui and Al-Hezaimi, 2019).
@@ -259,7 +264,10 @@ Rationale: history of the disease is rarely available, both tissues need treatme
 
 [DIAGRAM: Treatment flowchart | tooth with deep pocket -> pulp test -> vital: periodontal therapy / non-vital: root canal treatment -> reassess 2-3 months -> healed: primary endodontic / residual defect: periodontal therapy (non-surgical, then surgical or regenerative) -> poor response: resection or extraction | arrows and decision boxes | shows the sequence examiners look for]
 
-### 11. Treatment of each class
+## 11. Treatment of each class
+
+#### ✎ Exam core
+
 | Class | Treatment | Prognosis |
 |---|---|---|
 | Primary endodontic | Root canal treatment only; no curettage or flap | Excellent |
@@ -271,7 +279,18 @@ Rationale: history of the disease is rarely available, both tissues need treatme
 | With root damage (2017) | Usually extraction; resection of the affected root in molars; perforation repair | Usually poor to hopeless |
 *(Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017; Gopikrishna, 2021; Herrera et al, 2018)*
 
-### 12. Adjunctive and alternative treatment
+## 12. Adjunctive and alternative treatment
+
+**Root resection versus implant.** The evidence disagrees, so it must be shown side by side.
+- *Cohen's*: retrospective studies of 3 to 12 years report 62% to 100% success, with endodontic and restorative failure, not periodontal breakdown, the main cause of failure (Glickman and Iacono, 2021) [SRC].
+- *Harty's*: anatomical redesigning has a survival of about 68%; one 10-year study of 100 patients lost 38 teeth, 47% of them by root fracture (Rotstein, 2017) [SRC].
+- *Walton and Torabinejad*: survival of root-resected teeth is not substantially different from osseointegrated implants (Walton and Torabinejad, 2002) [SRC].
+- *Andreana (DCNA)*: in periodontitis patients, 32% of hemisected mandibular molars had complications against 11% of implants; another study of 691 molars had a 30% failure rate over 10 years (Andreana, 2010) [SRC].
+
+**Regeneration.** Kinaia et al trace the history: early surgical treatments (including root amputation and hemisection) healed by long junctional epithelium; bone grafts mostly by repair; GTR is based on Melcher's idea that only ligament and bone cells regenerate attachment (Kinaia et al, 2012) [SRC]. For endodontic surgery a systematic review found GTR helps large communicating (through-and-through) lesions but not small confined ones (Kinaia et al, 2012) [SRC]. Cohen's adds that with GTR the combined endodontic-periodontal lesion probably has the least favourable prognosis (Glickman and Iacono, 2021) [SRC].
+
+#### ✎ Exam core
+
 **A. Root resection procedures** (details in Q09)
 - **Root amputation (radisection)**: removal of one or more roots, leaving most of the crown; most often the distobuccal root of the maxillary first molar (Rotstein, 2017).
 - **Hemisection (tooth resection)**: removal of a root with its part of the crown, usually in mandibular molars (Glickman and Iacono, 2021).
@@ -294,19 +313,42 @@ Rationale: history of the disease is rarely available, both tissues need treatme
 
 **F. Extraction and implant** when the tooth is hopeless; early extraction may protect a future implant site (Rotstein, 2017).
 
-### 13. Prognosis
+## 13. Prognosis
+
+#### ✎ Exam core
+
 - Main factors: pulp vitality and the type and extent of periodontal destruction (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 - The endodontic component heals predictably; the overall prognosis of combined lesions depends mainly on the periodontal therapy (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 - Worst prognosis: lesions with root damage (fracture, perforation) (Herrera et al, 2018).
 
-### 14. Recent advances
+## 14. Recent advances
+
+#### ✎ Exam core
+
 - 2017 AAP/EFP classification based on root damage, periodontitis status and pocket extent (Herrera et al, 2018).
 - Molecular microbiology: similar species in canals and pockets, no specific profile for the lesion (Herrera et al, 2018).
 - Regenerative therapy: GTR, EMD, growth factors, periodontal ligament stem cells (Kinaia et al, 2012).
 - Magnification and MTA for perforation repair (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 
-### 15. Conclusion
+## 15. Conclusion
+
+#### ✎ Exam core
+
 Endo-periodontal problems arise from the close anatomical and vascular link between the pulp and the periodontium. Correct diagnosis, based mainly on pulp testing, the probing pattern and the response to treatment, decides management. The endodontic component heals predictably after adequate root canal treatment, so it is treated first; the long-term prognosis then rests on the periodontal component. The 2017 classification moves diagnosis from the question "which came first?" to "is the root damaged, and how much periodontium is lost?", which is what decides whether the tooth is kept.
+
+## Critical evidence synthesis
+
+**Claim 1: "Always treat the endodontic component first."**
+Textbook: Grossman's recommends endodontics first regardless of cause; Ingle's says reassess at 2 to 3 months; Cohen's says endodontics should usually be completed first (Gopikrishna, 2021; Rotstein, Zabalegui and Al-Hezaimi, 2019; Glickman and Iacono, 2021) [SRC]. Evidence retrieved: the mechanism comes from animal work (infected canals give 20% more epithelium, 10% less connective tissue cover; aggressive cementum removal impairs healing) and clinical case series (Rotstein, 2017) [SRC]; the 2017 review rated the evidence on these lesions as limited, mostly case reports (Herrera et al, 2018) [LIT]. Interpretation: the sequence is biologically sound and consistent across sources. Limitation: no comparative clinical trial of sequences was retrieved, so it is a consensus rule, not a trial result [Likely]. Clinical point: endodontics first, then non-surgical periodontal therapy, with surgery only after reassessment.
+
+**Claim 2: "Periodontitis kills the pulp."**
+Textbook: the pathway exists (Glickman and Iacono, 2021) [SRC]. Evidence: animal data (70% unaffected at 30 to 40% attachment loss) and human cohorts (3 to 4% needing RCT over many years) point to a small effect, while bacterial recovery from 87% of periodontally involved pulps points to frequent contamination (Glickman and Iacono, 2021; Walton and Torabinejad, 2002; Rotstein, 2017) [SRC]. Interpretation: contamination is common, clinically significant necrosis is uncommon until the apex is involved. These data sets measured different things (histology, culture, clinical need for RCT), so they do not contradict each other [Likely]. Clinical point: do not do "prophylactic" root canal treatment on a vital, periodontally involved tooth unless periodontal surgery will sever the apical supply (Walton and Torabinejad, 2002) [SRC].
+
+**Claim 3: "The 2017 classification is better than Simon's."**
+Textbook: Simon's is the most used and is still taught (Gopikrishna, 2021) [SRC]. Evidence: Herrera's argument is logical (history unknown, both tissues need treatment, prognosis matters most) but the same review states that the evidence base is limited (Herrera et al, 2018) [LIT]. Interpretation: the 2017 table is a consensus on what is useful for prognosis, not a validated diagnostic tool. Limitation: I retrieved no study testing its reliability or prognostic accuracy. Clinical point: in the exam, give both, Simon's for pathogenesis and 2017 for prognosis and treatment [Likely].
+
+**Claim 4: "Root resection is as good as an implant."**
+Evidence is genuinely inconsistent: 62% to 100% success (Cohen's), about 68% survival (Harty's), no substantial difference from implants (Walton and Torabinejad), and more complications than implants in periodontitis patients (Andreana's summary) (Glickman and Iacono, 2021; Rotstein, 2017; Walton and Torabinejad, 2002; Andreana, 2010) [SRC]. All are retrospective. Interpretation: the result depends on case selection, endodontic and restorative quality and the patient's periodontal status; the data do not allow a general ranking [Likely].
 
 ## HIGH-YIELD POINTS
 - Three main pathways: apical foramen, lateral/accessory canals, dentinal tubules; only 2% of lateral canals relate to pockets (Kirkham).
@@ -334,8 +376,11 @@ Endo-periodontal problems arise from the close anatomical and vascular link betw
 ## MNEMONIC
 Sequence of treatment: **"Endo, Evaluate, then Perio"** (root canal treatment, reassess at 2 to 3 months, then periodontal therapy).
 
-## SOURCE LIST
+## How this answer was sourced
 
+Searched the `mds-textbooks` chapter files for the endodontic-periodontal chapters and read them in full: Cohen's 12th ed Ch.25 (Glickman and Iacono), Ingle's 7th ed Ch.36 (Rotstein, Zabalegui and Al-Hezaimi), Grossman's 14th ed Ch.20, Harty's 7th ed Ch.13 (Rotstein), Gulabivala and Ng 4th ed Ch.12, Walton and Torabinejad 3rd ed Ch.26, Weine 6th ed Ch.11 (classification and summaries), and Seltzer and Bender 2nd ed Ch.16 (biofilm and non-living pathogen sections; the file begins mid-chapter). All hit. DCNA collection (`~/Desktop/DCNA articles`, title scan): two relevant articles, read in full: Kinaia et al 2012 (regenerative therapy) and Andreana 2010 (hemisected molars versus implants). Literature: PubMed search for the 2017 World Workshop papers; Herrera et al 2018 read in full from the Wiley PDF (Table 6 read from the page image); the consensus report (Papapanou et al 2018) read as an abstract only. No usable source was found for CBCT in endo-perio diagnosis in these chapters, so CBCT is not discussed beyond one line.
+
+## SOURCE LIST
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Gopikrishna, 2021, 20_Chapter_20_Endodontic_Periodontic_Interrelationship.md, PDF p.435 (printed p.410): "usually results in tract closure in several days"
 - Gopikrishna, 2021, 20_Chapter_20_Endodontic_Periodontic_Interrelationship.md, PDF p.435 (printed p.410): "a sinus tract is narrow and can be traversed only with a gutta-percha cone"
@@ -552,9 +597,7 @@ Sequence of treatment: **"Endo, Evaluate, then Perio"** (root canal treatment, r
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2933: "“chicken or egg”"
 - Weine, 2004, 11_CHAPTER_11_Endodontic_Periodontal_Problems.md, PDF p.1310: "Endodontics may be thought of as periapical"
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.315 (printed p.306): "albeit with identical goals of surface microbial decontamination"
-
 **[LIT]** items are listed in REFERENCES with DOI; the access level is stated for each.
-
 ## REFERENCES (alphabetical)
 - Andreana S. Restorative options for the periodontal patient. Dent Clin North Am 2010;54(1):157-161 (full text read).
 - Glickman GN, Iacono VJ. Endo-perio. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.25.

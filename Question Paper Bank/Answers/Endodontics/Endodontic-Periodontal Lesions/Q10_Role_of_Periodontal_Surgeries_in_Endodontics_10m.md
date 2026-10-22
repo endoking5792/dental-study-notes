@@ -1,20 +1,21 @@
-# "Role of periodontal surgeries in Endodontics."
+# "Role of periodontal surgeries in Endodontics." (canonical answer)
 
 **Marks:** 10m (no marks printed; answered at 10m)
 **Sitting:** Apr 2008 (Manipal). Root amputation in detail is Q09; GTR in periapical surgery is also covered in the Surgical Endodontics topic.
 
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 392 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The separate Study Mode / Exam Mode draft of this question is kept unchanged in the repository.
 
-<!--LOC: c_alt, c_rrind, c_62, c_vital, k_repair, k_melcher, k_gtr, k_176, k_emd, k_controv, k_bmp, k_notyet, c_gtr, c_gtrcomb, c_membr, i_perfprog, c_4mm, c_twice, i_srp, h_early, h_flap, wa_both, i_23, gu_doubtful, gu_extrusion-->
+<!--LOC: c_alt, c_rrind, c_62, c_vital, k_repair, k_melcher, k_gtr, k_176, k_emd, k_controv, k_bmp, k_notyet, c_gtr, c_gtrcomb, c_membr, i_perfprog, c_4mm, c_twice, i_srp, h_early, h_flap, wa_both, i_23, gu_doubtful, gu_extrusion, k_grafts-->
+
 <!--REF: Glickman2021, Rotstein2019, Rotstein2017, Walton2002, Gulabivala2014, Kinaia2012-->
 
-## Retrieval Report
-No new searches. From Cohen's Ch.25 ("Treatment alternatives", GTR, forced eruption), Harty's Ch.13 (perforation repair, radicular grooves, exploratory flap), Ingle's Ch.36, Gulabivala and Ng Ch.12 and Kinaia et al 2012 (DCNA, full text). No textbook chapter read for this topic gave crown-lengthening technique; it is mentioned only as the procedure that forced eruption replaces (Glickman and Iacono, 2021).
+## Explanation
 
-## STUDY MODE
 The question is about the periodontal procedures an endodontist uses or relies on. Cohen's frames them as alternatives when routine endodontic and periodontal treatment fail: resection techniques remove diseased roots, regenerative techniques rebuild lost structures (Glickman and Iacono, 2021) [SRC]. Kinaia et al give the biology behind the regenerative side: Melcher's four cell types, of which only ligament and bone cells regenerate attachment, so a barrier that excludes epithelium allows new attachment; bone grafts, by contrast, mostly heal by repair (Kinaia et al, 2012) [SRC]. In endodontic surgery, GTR adds benefit for large through-and-through lesions but not small confined ones (Kinaia et al, 2012) [SRC]. Growth factors such as PDGF and IGF help periodontal defects but give controversial results in endodontic sites, and BMP-2 has caused ankylosis (Kinaia et al, 2012) [SRC]. Gulabivala and Ng warn the cooperation runs both ways: root canal treatment done "to be safe" before regenerative surgery can harm the outcome if material is extruded (Gulabivala, Darbar and Ng, 2014) [SRC].
 
-## EXAM MODE
-*(Estimated writing time: about 16 minutes)*
+**Regeneration.** Kinaia et al trace the history: early surgical treatments (including root amputation and hemisection) healed by long junctional epithelium; bone grafts mostly by repair; GTR is based on Melcher's idea that only ligament and bone cells regenerate attachment (Kinaia et al, 2012) [SRC]. For endodontic surgery a systematic review found GTR helps large communicating (through-and-through) lesions but not small confined ones (Kinaia et al, 2012) [SRC]. Cohen's adds that with GTR the combined endodontic-periodontal lesion probably has the least favourable prognosis (Glickman and Iacono, 2021) [SRC].
+
+## ✎ Exam core
 
 **Introduction.** Periodontal surgery helps where non-surgical treatment cannot reach the cause, and in endo-perio lesions (Glickman and Iacono, 2021).
 
@@ -64,8 +65,11 @@ The question is about the periodontal procedures an endodontist uses or relies o
 ## MNEMONIC
 Roles: **"Diagnose, Divide, Rebuild, Repair, Expose"**.
 
-## SOURCE LIST
+## How this answer was sourced
 
+No new searches. From Cohen's Ch.25 ("Treatment alternatives", GTR, forced eruption), Harty's Ch.13 (perforation repair, radicular grooves, exploratory flap), Ingle's Ch.36, Gulabivala and Ng Ch.12 and Kinaia et al 2012 (DCNA, full text). No textbook chapter read for this topic gave crown-lengthening technique; it is mentioned only as the procedure that forced eruption replaces (Glickman and Iacono, 2021). Some explanation paragraphs are taken from Q01, which read the same chapters in full.
+
+## SOURCE LIST
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2950: "Alternate treatments often consist of resection or regenerative approaches"
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2950: "The indications for root resection often include (but are not limited to) root fracture, perforation, root caries"
@@ -92,9 +96,8 @@ Roles: **"Diagnose, Divide, Rebuild, Repair, Expose"**.
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.978 (printed p.1127): "Treatment results should be evaluated in 2 to 3 months and only then periodontal treatment should be considered"
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.314 (printed p.305): "Some periodontists may request root-canal treatment on teeth with"
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.314 (printed p.305): "extrusion of root-canal treatment materials may have an equally negative impact"
-
+- Kinaia et al, 2012, 1-s2.0-S0011853212000341.pdf, p.539: "the healing mainly occurred by repair (long junctional epithe"
 **[LIT]** items are listed in REFERENCES with DOI; the access level is stated for each.
-
 ## REFERENCES (alphabetical)
 - Glickman GN, Iacono VJ. Endo-perio. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.25.
 - Gulabivala K, Darbar UR, Ng Y-L. The perio-endo interface. In: Gulabivala K, Ng Y-L, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.12.

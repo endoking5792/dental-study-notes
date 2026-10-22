@@ -1,20 +1,26 @@
-# "Effect of periodontal disease and periodontal treatment on the dental pulp." (PREDICTED)
+# "Effect of periodontal disease and periodontal treatment on the dental pulp." (PREDICTED) (canonical answer)
 
 **Marks:** 10m (PREDICTED; wording ours)
 **Sitting:** Not asked in this form. Predicted because every textbook calls this the controversial half of the endo-perio relationship, which suits a "discuss" short essay.
 
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 389 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The separate Study Mode / Exam Mode draft of this question is kept unchanged in the repository.
 
 <!--LOC: i_controv, h_conflict, i_until, c_type, c_70, c_cementum, c_fibrosis, h_degen, h_87, h_sound, c_main, i_neuro, wa_little, wa_4pc, wa_3pc, gu_limited, i_curette, wa_sever, gu_doubtful, gu_extrusion, h_rarely-->
+
 <!--REF: Glickman2021, Rotstein2019, Rotstein2017, Gulabivala2014, Walton2002-->
 
-## Retrieval Report
-No new searches; from Cohen's Ch.25, Ingle's Ch.36, Harty's Ch.13, Gulabivala and Ng Ch.12 and Walton and Torabinejad Ch.26.
+## Explanation
 
-## STUDY MODE
-The sources agree on the mechanism and disagree on how often it matters. Intact cementum protects the pulp; once tubules or lateral canals are exposed, bacteria and their products can reach it (Glickman and Iacono, 2021; Rotstein, 2017) [SRC]. Whether the pulp is harmed depends on how close the defect is to the apical vessels: the pulp survives while the main canal and its apical supply are intact (Glickman and Iacono, 2021) [SRC]. Gulabivala and Ng explain why the effect is usually small: the pulp-dentine complex closes channels by tubule sclerosis and secondary dentine (Gulabivala, Darbar and Ng, 2014) [SRC]. The different study types measure different things (histology, culture, clinical need for root canal treatment), which is why the numbers look contradictory (see Q01, Claim 2) [Likely].
+The sources agree on the mechanism and disagree on how often it matters. Intact cementum protects the pulp; once tubules or lateral canals are exposed, bacteria and their products can reach it (Glickman and Iacono, 2021; Rotstein, 2017) [SRC]. Whether the pulp is harmed depends on how close the defect is to the apical vessels: the pulp survives while the main canal and its apical supply are intact (Glickman and Iacono, 2021) [SRC]. Gulabivala and Ng explain why the effect is usually small: the pulp-dentine complex closes channels by tubule sclerosis and secondary dentine (Gulabivala, Darbar and Ng, 2014) [SRC]. The different study types measure different things (histology, culture, clinical need for root canal treatment), which is why the numbers look contradictory [Likely].
 
-## EXAM MODE
-*(Estimated writing time: about 16 minutes)*
+**Periodontium to pulp: genuinely controversial.** Ingle's calls it "more controversial" and Harty's says conflicting studies abound (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC]. The evidence on each side:
+- *Damage occurs*: pulpitis and necrosis have been shown next to lateral canals exposed by periodontitis; long-standing disease gives pulpal fibrosis and mineralisation (Glickman and Iacono, 2021) [SRC]; Harty's lists calcification, fibrosis and collagen resorption, and cites bacterial growth from 87% of pulps and radicular dentine of periodontally involved teeth (Rotstein, 2017) [SRC].
+- *Damage is limited*: in Bergenholtz and Lindhe's animal model, 70% of roots showed no pulpal change despite 30 to 40% attachment loss (Glickman and Iacono, 2021) [SRC]; Walton and Torabinejad report little or no effect on human pulps, 4% needing RCT 5 to 24 years after periodontal treatment of furcation-involved molars, and 3% necrosis over 4 to 13 years in advanced periodontitis (Walton and Torabinejad, 2002) [SRC]; Gulabivala and Ng attribute the limited effect to tubule sclerosis and secondary dentine (Gulabivala, Darbar and Ng, 2014) [SRC].
+- *Where the sources agree*: the pulp survives while the main apical vessels are intact and the accessory canals stay covered by sound cementum (Glickman and Iacono, 2021; Rotstein, 2017) [SRC]; once the pocket reaches the apex, necrosis follows (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC].
+
+Periodontal treatment, not just the disease, can injure the pulp: a curette can sever the vessels of a lateral canal (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC], and curetting a lesion that surrounds the apex severs the pulp supply, so the canal should be treated first (Walton and Torabinejad, 2002) [SRC].
+
+## ✎ Exam core
 
 **Introduction.** The effect of periodontal disease on the pulp is more controversial than the reverse, and conflicting studies abound (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017).
 
@@ -58,8 +64,11 @@ The sources agree on the mechanism and disagree on how often it matters. Intact 
 ## MNEMONIC
 **"Cementum covers, Apex decides."**
 
-## SOURCE LIST
+## How this answer was sourced
 
+No new searches; from Cohen's Ch.25, Ingle's Ch.36, Harty's Ch.13, Gulabivala and Ng Ch.12 and Walton and Torabinejad Ch.26. Some explanation paragraphs are taken from Q01, which read the same chapters in full.
+
+## SOURCE LIST
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.964 (printed p.1113): "periodontal inflammation on the pulp is more controversial"
 - Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.281 (printed p.265): "controversial and conflicting studies abound"
@@ -82,9 +91,7 @@ The sources agree on the mechanism and disagree on how often it matters. Intact 
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.314 (printed p.305): "Some periodontists may request root-canal treatment on teeth with"
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.314 (printed p.305): "extrusion of root-canal treatment materials may have an equally negative impact"
 - Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.287 (printed p.271): "plaque-associated marginal periodontitis rarely causes significant pathological changes in the pulp"
-
 **[LIT]** items are listed in REFERENCES with DOI; the access level is stated for each.
-
 ## REFERENCES (alphabetical)
 - Glickman GN, Iacono VJ. Endo-perio. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.25.
 - Gulabivala K, Darbar UR, Ng Y-L. The perio-endo interface. In: Gulabivala K, Ng Y-L, editors. Endodontics. 4th ed. Edinburgh: Mosby Elsevier; 2014. Ch.12.

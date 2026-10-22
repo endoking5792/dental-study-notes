@@ -1,24 +1,23 @@
-# "Discuss the 2017 AAP/EFP World Workshop classification of endo-periodontal lesions and compare it with earlier classifications." (PREDICTED)
+# "Discuss the 2017 AAP/EFP World Workshop classification of endo-periodontal lesions and compare it with earlier classifications." (PREDICTED) (canonical answer)
 
 **Marks:** 10m (PREDICTED; wording ours)
 **Sitting:** Not asked yet. Predicted because the 2017 classification now appears in Cohen's 12th edition and replaces the 1999 category; recent papers on this topic ask "classify".
 
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 384 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). The separate Study Mode / Exam Mode draft of this question is kept unchanged in the repository.
 
 <!--LOC: c_rootdmg, c_unique, he_forms, he_signs, he_etiol, he_poor, he_risk, he_history, he_notrelevant, he_groups, he_dx, he_1999, he_generic, he_table, he_limited, g_simon, g_belk, g_oliet, w_disagree, i_basis, gu_none-->
+
 <!--REF: Glickman2021, Rotstein2019, Gopikrishna2021, Weine2004, Gulabivala2014, Herrera2018, Papapanou2018-->
 
-## Retrieval Report
-Herrera et al 2018 read in full (Wiley PDF; Table 6 read from the page image at S89); Papapanou et al 2018 consensus report, abstract only (PubMed). Cohen's Ch.25 for the 2017 periodontitis staging and grading context; Grossman's Ch.20, Ingle's Ch.36, Weine Ch.11 and Gulabivala and Ng Ch.12 for the older classifications.
+## Explanation
 
-## STUDY MODE
 **Why a new classification was needed.** Herrera et al reviewed the literature for the 2017 Workshop and identified two problems with Simon's 1972 scheme: its categories depend on the primary source of infection, and the history of the disease is usually unavailable to the clinician; moreover, knowing the source does not change treatment, because both the canal and the periodontium need treating (Herrera et al, 2018) [LIT]. The 1999 AAP classification had included these lesions as a single category, "combined periodontal-endodontic lesions", under "periodontitis associated with endodontic lesions"; it reflected the present condition, but it implied that all such lesions occur in periodontitis patients and was too generic to guide treatment (Herrera et al, 2018) [LIT]. Cohen's adds that endo-periodontal lesions occur in teeth with or without root damage and in patients with or without periodontitis, and that there is no evidence of a unique pathophysiology (Glickman and Iacono, 2021) [SRC].
 
 **The organising idea.** The new scheme asks the questions that decide prognosis and treatment: is the root damaged; does the patient have periodontitis; how extensive is the periodontal destruction around this tooth (Herrera et al, 2018) [LIT]. Its prognostic groups are hopeless (usually root damage), poor and favourable (Herrera et al, 2018) [LIT].
 
 **Its own limits.** The authors state that the evidence on these lesions is limited, mostly case reports (Herrera et al, 2018) [LIT], and they list as unresolved whether lesions with root damage belong in this category at all. I found no study testing the reliability of the grades [Likely].
 
-## EXAM MODE
-*(Estimated writing time: about 16 minutes)*
+## ✎ Exam core
 
 **Definition (2017).** An endo-periodontal lesion is a pathological communication between the pulpal and periodontal tissues at a given tooth, occurring in acute or chronic form (Papapanou et al, 2018; Herrera et al, 2018). Key signs: a deep pocket reaching or near the apex, and a negative or altered response to pulp tests (Herrera et al, 2018).
 
@@ -65,8 +64,11 @@ Herrera et al 2018 read in full (Wiley PDF; Table 6 read from the page image at 
 ## MNEMONIC
 **"Root, Perio, Pocket"** (root damage? periodontitis? pocket width and surfaces?).
 
-## SOURCE LIST
+## How this answer was sourced
 
+Herrera et al 2018 read in full (Wiley PDF; Table 6 read from the page image at S89); Papapanou et al 2018 consensus report, abstract only (PubMed). Cohen's Ch.25 for the 2017 periodontitis staging and grading context; Grossman's Ch.20, Ingle's Ch.36, Weine Ch.11 and Gulabivala and Ng Ch.12 for the older classifications.
+
+## SOURCE LIST
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2928: "endo-periodontal lesions occur at teeth with or without root damage"
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2928: "lack of evidence indicating a unique pathophysiology"
@@ -89,9 +91,7 @@ Herrera et al 2018 read in full (Wiley PDF; Table 6 read from the page image at 
 - Weine, 2004, 11_CHAPTER_11_Endodontic_Periodontal_Problems.md, PDF p.1312: "disagreement exists as to a correct classification"
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.969 (printed p.1118): "classification is based on how these lesions are formed"
 - Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.316 (printed p.307): "Several classifications of perio–endo lesions have been proposed but none of them especially contributes to diagnosis or treatment"
-
 **[LIT]** items are listed in REFERENCES with DOI; the access level is stated for each.
-
 ## REFERENCES (alphabetical)
 - Glickman GN, Iacono VJ. Endo-perio. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.25.
 - Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. Wolters Kluwer; 2021. Ch.20 Endodontic-periodontic interrelationship.

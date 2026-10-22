@@ -1,54 +1,35 @@
-# "Endo perio inter relationship, diagnosis and treatment planning"
+# "Endo perio inter relationship, diagnosis and treatment planning" (canonical answer)
 
 **Marks:** 75m, Single Essay
 **Sitting:** Oct/Nov 2014 (RG PIV RS-3); the same wording appears in the Recent Advances repository for Oct/Nov 2014. The broader 100m "Endo-periodontal problems and management" is Q01; the 50m "Endodontic and periodontal interrelationship" is Q03. This answer puts the weight on diagnosis and treatment planning.
 
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 2594 words, about 118 minutes at 22 words a minute (Section 7 range 2550-3000 words for 75 marks). The separate Study Mode / Exam Mode draft of this question is kept unchanged in the repository.
 
+<!--LOC: i_similar, i_leak, w_c1, w_c3, w_c4, c_g3, c_temporal, g_acutepain, wa_noperio, g_unit, c_50, gu_def, wa_both, i_paths, c_vascular, i_3040, h_1000, c_denuded, c_riskf, h_20pc, i_controv, c_70, c_main, h_sound, i_curette, wa_sever, g_simon, g_belk, he_table, he_history, he_notrelevant, he_groups, he_dx, he_mimic, he_risk, gu_none, gu_partial, gu_eachroot, gu_quality, gu_twothirds, gu_features, gu_blowout, gu_acute, gu_spiro, gu_identical, wa_pulpless, wa_sounding, wa_conical, wa_1mm, wa_1week, wa_base, wa_intact, wa_notresolve, wa_palatal, wa_23mo, wa_older, wa_vrf, wa_trauma, c_gp, i_solitary, i_narrow, h_shallow, c_angles, c_temptation, g_probe3, g_gpcone, g_days, c_vrfhope, i_teardrop, i_srp, c_cep, c_lpc, c_mimic, h_flap, h_retro, gu_retro, i_factors, i_endoonly, i_perioonly, i_23, i_aggressive, wa_drain, g_regardless, g_predict, g_cannot, g_slow, c_first, i_single, i_guarded, i_mainly, c_excl, h_wholly, c_contperio, c_undiag, c_rrind, h_contra, c_advance, c_vital, h_68, c_62, a_32, wa_implant, h_implant, gu_10yr, gu_doubtful, gu_extrusion, k_gtr, c_gtrcomb, i_perfprog, i_extru, c_4mm, c_twice, h_early, w_c1sum, w_c4sum, w_c2sum, he_limited, he_poor, c_perf, h_invariably, i_vrflike, c_coalesce, c_channels, c_45, c_gut28, gu_45, i_kirk, c_reverse, c_medic, h_20wk, h_depth, h_conflict, c_fibrosis, h_degen, h_87, wa_little, wa_4pc, wa_3pc, gu_limited, i_neuro, i_basis, g_oliet, w_disagree, he_1999, he_generic-->
 
-<!--LOC: i_similar, i_leak, w_c1, w_c3, w_c4, c_g3, c_temporal, g_acutepain, wa_noperio, g_unit, c_50, gu_def, wa_both, i_paths, c_vascular, i_3040, h_1000, c_denuded, c_riskf, h_20pc, i_controv, c_70, c_main, h_sound, i_curette, wa_sever, g_simon, g_belk, he_table, he_history, he_notrelevant, he_groups, he_dx, he_mimic, he_risk, gu_none, gu_partial, gu_eachroot, gu_quality, gu_twothirds, gu_features, gu_blowout, gu_acute, gu_spiro, gu_identical, wa_pulpless, wa_sounding, wa_conical, wa_1mm, wa_1week, wa_base, wa_intact, wa_notresolve, wa_palatal, wa_23mo, wa_older, wa_vrf, wa_trauma, c_gp, i_solitary, i_narrow, h_shallow, c_angles, c_temptation, g_probe3, g_gpcone, g_days, c_vrfhope, i_teardrop, i_srp, c_cep, c_lpc, c_mimic, h_flap, h_retro, gu_retro, i_factors, i_endoonly, i_perioonly, i_23, i_aggressive, wa_drain, g_regardless, g_predict, g_cannot, g_slow, c_first, i_single, i_guarded, i_mainly, c_excl, h_wholly, c_contperio, c_undiag, c_rrind, h_contra, c_advance, c_vital, h_68, c_62, a_32, wa_implant, h_implant, gu_10yr, gu_doubtful, gu_extrusion, k_gtr, c_gtrcomb, i_perfprog, i_extru, c_4mm, c_twice, h_early, w_c1sum, w_c4sum, w_c2sum, he_limited, he_poor, c_perf, h_invariably, i_vrflike, c_coalesce-->
 <!--REF: Glickman2021, Rotstein2019, Gopikrishna2021, Rotstein2017, Weine2004, Gulabivala2014, Walton2002, Herrera2018, Papapanou2018, Kinaia2012, Andreana2010-->
 
-## Retrieval Report
-Same reading as Q01: Cohen's Ch.25, Ingle's Ch.36, Grossman's Ch.20, Harty's Ch.13, Gulabivala and Ng Ch.12 (diagnosis and aetiology-based management sections read in full for this answer), Walton and Torabinejad Ch.26 (probing patterns, definition and decision tree), Weine Ch.11; DCNA Kinaia et al 2012 and Andreana 2010; Herrera et al 2018 (full text, Table 6). No new search was needed. The 2-3 month reassessment interval is Ingle's and Harty's (same author); no other source gives a figure.
+## 1. Introduction
 
-## STUDY MODE
-*(The pathways, the two-way effects and the classification controversy are explained in Q01's Study Mode. This Study Mode covers only the diagnostic and planning reasoning.)*
+#### ✎ Exam core
 
-**Why diagnosis is hard.** Gulabivala and Ng locate the problem in one place: the pulp cannot be seen, so its status must be inferred. Total pulp necrosis is easy to diagnose because pulp tests are sensitive and specific in that state; partial necrosis and infection, particularly in multirooted teeth, are the real difficulty (Gulabivala, Darbar and Ng, 2014) [SRC]. They advise testing each root or cusp separately with cold, heat and electric tests, because enamel and dentine thickness vary and partial necrosis gives mixed responses (Gulabivala, Darbar and Ng, 2014) [SRC]. Root-filled teeth add another trap: the technical quality of a root filling does not necessarily tell you whether residual infection is present (Gulabivala, Darbar and Ng, 2014) [SRC]. Walton and Torabinejad agree that a positive test in a multirooted tooth deserves less confidence than one in a single-canal tooth, and add a reasoning rule: irreversible pulpitis seldom produces a large periapical lesion, so a large lesion means at least one necrotic canal (Walton and Torabinejad, 2002) [SRC].
-
-**The probe is the main diagnostic instrument.** Walton and Torabinejad's chapter (from Harrington) argues that, given the limits of pulp testing and radiographs, the discrimination "must be made primarily" with a fine periodontal probe, and distinguishes probing (to the epithelial attachment) from sounding (through the attachment to bone) (Walton and Torabinejad, 2002) [SRC]. Its reasoning is anatomical: periodontal bone loss always begins at the crest, so a periodontal lesion probes as a cone, and an intact sulcus excludes periodontal disease as the cause of any radiolucency (Walton and Torabinejad, 2002) [SRC]. A sinus tract probes as a break of about 1 mm with normal depths on either side; a "blow-out" lesion drops precipitously across the width of a swelling (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng record the probing profile continuously around the tooth rather than at six points, because the shape of the defect (long and narrow versus broad and wide) is the information wanted (Gulabivala, Darbar and Ng, 2014) [SRC]. They add a caution: a lateral endodontic abscess can give a wide, deep "blow-out" profile that still heals with endodontics alone (Gulabivala, Darbar and Ng, 2014) [SRC]. Width is a clue, not proof.
-
-**Radiographs.** When bone loss runs from the crest to the apex, the film cannot show the cause (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng give a practical threshold: in a patient with generalised periodontitis, intrabony or horizontal loss affecting more than two-thirds of the root is more likely to have been influenced by pulp infection, especially with large restorations, abnormal pulp tests or poor root fillings (Gulabivala, Darbar and Ng, 2014) [SRC]. Cohen's insists on more than one angulation, because a small change can reveal a fracture or furcation involvement (Glickman and Iacono, 2021) [SRC].
-
-**Diagnosis by response.** Several sources treat the outcome of root canal treatment as the final diagnostic test. Harty's says that if healing follows root canal treatment, a valid retrospective diagnosis can be made, and the degree of healing sets the classification; Gulabivala and Ng call the response a retrospective diagnostic tool (Rotstein, 2017; Gulabivala, Darbar and Ng, 2014) [SRC]. This is why the reassessment interval matters.
-
-**Planning: the question changed in 2017.** The traditional plan follows Simon's class: treat whichever tissue is diseased, endodontics first. Herrera's review argues the first planning question should be whether to keep or extract, decided by the present state and the prognosis, not by guessing which disease came first; it puts root damage (fracture, perforation, resorption) as the first thing to look for, and gives three prognostic groups (hopeless, poor, favourable) (Herrera et al, 2018) [LIT]. Cohen's frames the same choice as "treatment alternatives" when routine endodontic and periodontal treatment are insufficient: resection or regeneration, and if extraction, implants or fixed partial dentures (Glickman and Iacono, 2021) [SRC]. Gulabivala and Ng add the time dimension: retaining a compromised tooth must be balanced against damage to a future implant site from continued bone loss (Gulabivala, Darbar and Ng, 2014) [SRC].
-
-**Sequence and timing.**
-- *Grossman's*: endodontics before periodontics regardless of cause, because endodontics is predictable, the periodontal lesion cannot heal while the endodontic lesion persists, and periodontitis is slow (Gopikrishna, 2021) [SRC].
-- *Ingle's and Harty's (Rotstein)*: evaluate 2 to 3 months after endodontics before periodontal treatment; avoid aggressive removal of ligament and cementum in the interim (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC].
-- *Walton and Torabinejad*: if the periodontal prognosis is satisfactory, complete root canal treatment before definitive periodontal therapy, because drainage through the sinus into the defect interferes with repair; a pure periodontal lesion will not respond to root canal treatment even on a pulpless tooth (Walton and Torabinejad, 2002) [SRC].
-- *A caution from Gulabivala and Ng*: root canal treatment of a doubtful pulp before periodontal regenerative surgery should be weighed against the harm of extruded materials (Gulabivala, Darbar and Ng, 2014) [SRC].
-
-**Weine's planning summaries** are useful for a clinical answer: a Class I tooth (pulpal disease simulating periodontal disease) needs endodontics only and heals well even in old patients; in Class II, once the pulp is damaged, periodontal treatment will not heal it; a Class IV tooth (periodontal disease simulating pulpal disease) improves briefly after endodontics, then relapses, and the prognosis is very poor unless periodontal treatment is added (Weine, 2004) [SRC].
-
-## CRITICAL EVIDENCE SYNTHESIS
-
-**Claim 1: "The response to root canal treatment is a reliable way to diagnose the origin."**
-Textbook: Harty's and Gulabivala and Ng both use it (Rotstein, 2017; Gulabivala, Darbar and Ng, 2014) [SRC]. Evidence: the supporting material is case-based (recall radiographs and probing). Walton and Torabinejad give the timescales that make it usable: blow-out lesions reattach within a week; furcal sinus-type defects may take 2 to 3 months after obturation (Walton and Torabinejad, 2002) [SRC]. Interpretation: healing confirms an endodontic component; failure to heal does not by itself prove a periodontal origin, since inadequate root canal treatment, a fracture or a horizontal furcation component in an older patient also fail (Walton and Torabinejad, 2002) [SRC] [Likely]. Limitation: no diagnostic accuracy study was retrieved. Clinical point: plan a defined review (2 to 3 months), and look for fracture before attributing a residual defect to periodontitis.
-
-**Claim 2: "Plan by prognosis and root damage, not by which disease came first."**
-Textbook: Simon's class-based planning remains standard (Gopikrishna, 2021) [SRC]; Gulabivala and Ng say no classification especially helps diagnosis or treatment (Gulabivala, Darbar and Ng, 2014) [SRC]. Evidence: Herrera's review finds root-damage lesions carry the worst prognosis and that history is usually unknown (Herrera et al, 2018) [LIT], but rates the evidence as limited, mostly case reports (Herrera et al, 2018) [LIT]. Interpretation: textbook experience and the review agree on the practical point (look for root damage first, then periodontal extent) even though the 2017 grades have not been validated in the sources I read [Likely].
-
-## EXAM MODE
-*(Estimated writing time: about 125 minutes)*
-
-### 1. Introduction
 The pulp and periodontium form a biological unit linked anatomically and through the vascular system (Gopikrishna, 2021; Glickman and Iacono, 2021). Disease of one can affect the other, and pulpal and periodontal problems together are said to account for more than half of tooth loss (Glickman and Iacono, 2021). Because either disease can mimic the other, accurate diagnosis is the basis of treatment planning.
 
 **Definition (2017 World Workshop):** an endo-periodontal lesion is a pathological communication between the pulpal and periodontal tissues at a given tooth, acute or chronic (Herrera et al, 2018; Papapanou et al, 2018).
 
-### 2. Endo-perio interrelationship
+## 2. Endo-perio interrelationship
+
+**The pathways, and why their number overstates their importance.** Ingle's names three main pathways: dentinal tubules, lateral and accessory canals, and the apical foramen (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Cohen's adds neural (reflex) pathways, palatogingival grooves, the periodontal ligament, alveolar bone and vasculolymphatic drainage, and says the best-evidenced link is vascular (Glickman and Iacono, 2021) [SRC]. Prevalence figures look high: Rubach and Mitchell found accessory canals in 45% of 74 serially sectioned teeth, Gutmann found furcation canals in 28% of 102 molars (Glickman and Iacono, 2021) [SRC], Ingle's estimates 30 to 40% of teeth have lateral or accessory canals, mostly apical (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC], and Gulabivala and Ng give a mean of about 45% from pooled studies (Gulabivala, Darbar and Ng, 2014) [SRC]. Yet Kirkham found only 2% of lateral canals associated with periodontal pockets, in 1000 teeth with extensive periodontal disease (Rotstein, 2017; Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. The lesson is that anatomy permits communication; it does not make it common [Likely].
+
+**Pulp to periodontium: well accepted.** Necrotic pulp products leave by the foramen and lateral canals; when the inflammation tracks coronally a retrograde periodontitis or "reverse pocket" forms, with little anatomic resemblance to a periodontal defect (Glickman and Iacono, 2021) [SRC]. Cohen's calls endodontic infection a local modifying risk factor for periodontitis progression if left untreated, and warns that medicaments such as calcium hydroxide, corticosteroids and antibiotics can irritate the attachment (Glickman and Iacono, 2021) [SRC]. Harty's gives the experimental support: intrapulpal infection promoted marginal epithelial downgrowth on denuded dentine after 20 weeks, infected defects were covered by 20% more epithelium, and molars with periapical lesions on both roots had significantly greater probing depths (Rotstein, 2017) [SRC].
+
+**Periodontium to pulp: genuinely controversial.** Ingle's calls it "more controversial" and Harty's says conflicting studies abound (Rotstein, Zabalegui and Al-Hezaimi, 2019; Rotstein, 2017) [SRC]. The evidence on each side:
+- *Damage occurs*: pulpitis and necrosis have been shown next to lateral canals exposed by periodontitis; long-standing disease gives pulpal fibrosis and mineralisation (Glickman and Iacono, 2021) [SRC]; Harty's lists calcification, fibrosis and collagen resorption, and cites bacterial growth from 87% of pulps and radicular dentine of periodontally involved teeth (Rotstein, 2017) [SRC].
+- *Damage is limited*: in Bergenholtz and Lindhe's animal model, 70% of roots showed no pulpal change despite 30 to 40% attachment loss (Glickman and Iacono, 2021) [SRC]; Walton and Torabinejad report little or no effect on human pulps, 4% needing RCT 5 to 24 years after periodontal treatment of furcation-involved molars, and 3% necrosis over 4 to 13 years in advanced periodontitis (Walton and Torabinejad, 2002) [SRC]; Gulabivala and Ng attribute the limited effect to tubule sclerosis and secondary dentine (Gulabivala, Darbar and Ng, 2014) [SRC].
+- *Where the sources agree*: the pulp survives while the main apical vessels are intact and the accessory canals stay covered by sound cementum (Glickman and Iacono, 2021; Rotstein, 2017) [SRC]; once the pocket reaches the apex, necrosis follows (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC].
+
+#### ✎ Exam core
+
 **A. Pathways**
 | Type | Pathway | Key point |
 |---|---|---|
@@ -68,7 +49,12 @@ The pulp and periodontium form a biological unit linked anatomically and through
 - Iatrogenic and traumatic causes (perforation, fracture, resorption) must be searched for first, because they decide whether the tooth can be kept (Herrera et al, 2018).
 - Coronal leakage and inadequate root canal treatment sustain the endodontic component (Rotstein, Zabalegui and Al-Hezaimi, 2019).
 
-### 3. Classification (basis for diagnosis)
+## 3. Classification (basis for diagnosis)
+
+**Why the classification has changed.** Simon, Glick and Frank (1972) classified by origin and progression, with the concomitant lesion added by Belk and Gutmann (Gopikrishna, 2021) [SRC]. Rotstein groups them as endodontic, periodontal and combined, saying the classification is based on how the lesions form (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC]. Oliet and Pollock classified by treatment need (Gopikrishna, 2021) [SRC]; Weine by clinical presentation and therapy (Weine, 2004) [SRC]. Gulabivala and Ng are blunt that none of the classifications especially contributes to diagnosis or treatment (Gulabivala, Darbar and Ng, 2014) [SRC]. Herrera's review made the same criticism formally: history of the disease is usually unavailable, and the primary source is not relevant to treatment because both tissues need treating; the 1999 single category "combined periodontal-endodontic lesions" under "periodontitis associated with endodontic lesions" was too generic and wrongly implied periodontitis (Herrera et al, 2018) [LIT]. Hence the 2017 table, based on root damage, periodontitis status and pocket extent (Herrera et al, 2018) [LIT].
+
+#### ✎ Exam core
+
 **Simon, Glick and Frank (1972)** (Gopikrishna, 2021): primary endodontic; primary endodontic with secondary periodontal; primary periodontal; primary periodontal with secondary endodontic; true combined; concomitant (Belk and Gutmann).
 
 **2017 World Workshop** (Herrera et al, 2018):
@@ -81,7 +67,10 @@ The pulp and periodontium form a biological unit linked anatomically and through
 - Class III: no pulpal disease, but endodontics plus root amputation is needed for periodontal healing.
 - Class IV: simulates pulpal disease but is periodontal; improves briefly after endodontics, then relapses; very poor prognosis unless periodontal treatment is added.
 
-### 3A. Diagnostic picture of each class
+## 3A. Diagnostic picture of each class
+
+#### ✎ Exam core
+
 **Primary endodontic lesion**
 - Non-vital pulp; caries, deep restoration or trauma history.
 - Sinus tract through the ligament into the sulcus or furcation; narrow and deep, traced with a gutta-percha cone to the apex; may resemble a grade III furcation (Glickman and Iacono, 2021).
@@ -106,7 +95,18 @@ The pulp and periodontium form a biological unit linked anatomically and through
 **Concomitant lesion**
 - A periapical lesion and a separate periodontal pocket that do not communicate on probing; often only one is diagnosed (Glickman and Iacono, 2021).
 
-### 4. Diagnosis
+## 4. Diagnosis
+
+**Why diagnosis is hard.** Gulabivala and Ng locate the problem in one place: the pulp cannot be seen, so its status must be inferred. Total pulp necrosis is easy to diagnose because pulp tests are sensitive and specific in that state; partial necrosis and infection, particularly in multirooted teeth, are the real difficulty (Gulabivala, Darbar and Ng, 2014) [SRC]. They advise testing each root or cusp separately with cold, heat and electric tests, because enamel and dentine thickness vary and partial necrosis gives mixed responses (Gulabivala, Darbar and Ng, 2014) [SRC]. Root-filled teeth add another trap: the technical quality of a root filling does not necessarily tell you whether residual infection is present (Gulabivala, Darbar and Ng, 2014) [SRC]. Walton and Torabinejad agree that a positive test in a multirooted tooth deserves less confidence than one in a single-canal tooth, and add a reasoning rule: irreversible pulpitis seldom produces a large periapical lesion, so a large lesion means at least one necrotic canal (Walton and Torabinejad, 2002) [SRC].
+
+**The probe is the main diagnostic instrument.** Walton and Torabinejad's chapter (from Harrington) argues that, given the limits of pulp testing and radiographs, the discrimination "must be made primarily" with a fine periodontal probe, and distinguishes probing (to the epithelial attachment) from sounding (through the attachment to bone) (Walton and Torabinejad, 2002) [SRC]. Its reasoning is anatomical: periodontal bone loss always begins at the crest, so a periodontal lesion probes as a cone, and an intact sulcus excludes periodontal disease as the cause of any radiolucency (Walton and Torabinejad, 2002) [SRC]. A sinus tract probes as a break of about 1 mm with normal depths on either side; a "blow-out" lesion drops precipitously across the width of a swelling (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng record the probing profile continuously around the tooth rather than at six points, because the shape of the defect (long and narrow versus broad and wide) is the information wanted (Gulabivala, Darbar and Ng, 2014) [SRC]. They add a caution: a lateral endodontic abscess can give a wide, deep "blow-out" profile that still heals with endodontics alone (Gulabivala, Darbar and Ng, 2014) [SRC]. Width is a clue, not proof.
+
+**Radiographs.** When bone loss runs from the crest to the apex, the film cannot show the cause (Walton and Torabinejad, 2002) [SRC]. Gulabivala and Ng give a practical threshold: in a patient with generalised periodontitis, intrabony or horizontal loss affecting more than two-thirds of the root is more likely to have been influenced by pulp infection, especially with large restorations, abnormal pulp tests or poor root fillings (Gulabivala, Darbar and Ng, 2014) [SRC]. Cohen's insists on more than one angulation, because a small change can reveal a fracture or furcation involvement (Glickman and Iacono, 2021) [SRC].
+
+**Diagnosis by response.** Several sources treat the outcome of root canal treatment as the final diagnostic test. Harty's says that if healing follows root canal treatment, a valid retrospective diagnosis can be made, and the degree of healing sets the classification; Gulabivala and Ng call the response a retrospective diagnostic tool (Rotstein, 2017; Gulabivala, Darbar and Ng, 2014) [SRC]. This is why the reassessment interval matters.
+
+#### ✎ Exam core
+
 **Step 1: History**
 - Pulpal pain history (thermal sensitivity, spontaneous pain), trauma, previous restorations, endodontic treatment or post placement (Gulabivala, Darbar and Ng, 2014; Herrera et al, 2018).
 - Periodontal history: bleeding gums, mobility, drifting, abscesses; risk factors such as smoking, stress and diabetes; motivation and compliance (Gulabivala, Darbar and Ng, 2014).
@@ -175,7 +175,20 @@ The pulp and periodontium form a biological unit linked anatomically and through
 
 **Retrospective diagnosis**: the healing response to root canal treatment confirms the endodontic component (Rotstein, 2017).
 
-### 5. Treatment planning
+## 5. Treatment planning
+
+**Planning: the question changed in 2017.** The traditional plan follows Simon's class: treat whichever tissue is diseased, endodontics first. Herrera's review argues the first planning question should be whether to keep or extract, decided by the present state and the prognosis, not by guessing which disease came first; it puts root damage (fracture, perforation, resorption) as the first thing to look for, and gives three prognostic groups (hopeless, poor, favourable) (Herrera et al, 2018) [LIT]. Cohen's frames the same choice as "treatment alternatives" when routine endodontic and periodontal treatment are insufficient: resection or regeneration, and if extraction, implants or fixed partial dentures (Glickman and Iacono, 2021) [SRC]. Gulabivala and Ng add the time dimension: retaining a compromised tooth must be balanced against damage to a future implant site from continued bone loss (Gulabivala, Darbar and Ng, 2014) [SRC].
+
+**Sequence and timing.**
+- *Grossman's*: endodontics before periodontics regardless of cause, because endodontics is predictable, the periodontal lesion cannot heal while the endodontic lesion persists, and periodontitis is slow (Gopikrishna, 2021) [SRC].
+- *Ingle's and Harty's (Rotstein)*: evaluate 2 to 3 months after endodontics before periodontal treatment; avoid aggressive removal of ligament and cementum in the interim (Rotstein, Zabalegui and Al-Hezaimi, 2019) [SRC].
+- *Walton and Torabinejad*: if the periodontal prognosis is satisfactory, complete root canal treatment before definitive periodontal therapy, because drainage through the sinus into the defect interferes with repair; a pure periodontal lesion will not respond to root canal treatment even on a pulpless tooth (Walton and Torabinejad, 2002) [SRC].
+- *A caution from Gulabivala and Ng*: root canal treatment of a doubtful pulp before periodontal regenerative surgery should be weighed against the harm of extruded materials (Gulabivala, Darbar and Ng, 2014) [SRC].
+
+**Weine's planning summaries** are useful for a clinical answer: a Class I tooth (pulpal disease simulating periodontal disease) needs endodontics only and heals well even in old patients; in Class II, once the pulp is damaged, periodontal treatment will not heal it; a Class IV tooth (periodontal disease simulating pulpal disease) improves briefly after endodontics, then relapses, and the prognosis is very poor unless periodontal treatment is added (Weine, 2004) [SRC].
+
+#### ✎ Exam core
+
 **A. Aims**: eliminate infection from the root canal and the root surface (identical goal, different procedures), restore attachment where possible, and keep a functional, maintainable tooth (Gulabivala, Darbar and Ng, 2014).
 
 **B. Factors deciding the plan**
@@ -236,8 +249,19 @@ Reasons for endodontics first: endodontics is highly predictable; the periodonta
 
 **H. Referral**: when the cause is unclear or treatment is complex, consult or refer (Walton and Torabinejad, 2002).
 
-### 6. Conclusion
+## 6. Conclusion
+
+#### ✎ Exam core
+
 The pulp and periodontium communicate mainly through the apical foramen, lateral canals and exposed tubules. Diagnosis rests on pulp testing of each root, careful probing and radiographs, and is confirmed by the response to root canal treatment. Treatment planning first excludes root damage, then treats the endodontic component, reassesses, and treats the periodontal residue; the long-term prognosis depends mainly on the periodontal component.
+
+## Critical evidence synthesis
+
+**Claim 1: "The response to root canal treatment is a reliable way to diagnose the origin."**
+Textbook: Harty's and Gulabivala and Ng both use it (Rotstein, 2017; Gulabivala, Darbar and Ng, 2014) [SRC]. Evidence: the supporting material is case-based (recall radiographs and probing). Walton and Torabinejad give the timescales that make it usable: blow-out lesions reattach within a week; furcal sinus-type defects may take 2 to 3 months after obturation (Walton and Torabinejad, 2002) [SRC]. Interpretation: healing confirms an endodontic component; failure to heal does not by itself prove a periodontal origin, since inadequate root canal treatment, a fracture or a horizontal furcation component in an older patient also fail (Walton and Torabinejad, 2002) [SRC] [Likely]. Limitation: no diagnostic accuracy study was retrieved. Clinical point: plan a defined review (2 to 3 months), and look for fracture before attributing a residual defect to periodontitis.
+
+**Claim 2: "Plan by prognosis and root damage, not by which disease came first."**
+Textbook: Simon's class-based planning remains standard (Gopikrishna, 2021) [SRC]; Gulabivala and Ng say no classification especially helps diagnosis or treatment (Gulabivala, Darbar and Ng, 2014) [SRC]. Evidence: Herrera's review finds root-damage lesions carry the worst prognosis and that history is usually unknown (Herrera et al, 2018) [LIT], but rates the evidence as limited, mostly case reports (Herrera et al, 2018) [LIT]. Interpretation: textbook experience and the review agree on the practical point (look for root damage first, then periodontal extent) even though the 2017 grades have not been validated in the sources I read [Likely].
 
 ## HIGH-YIELD POINTS
 - Probe, then pulp test each root, then radiograph from two angles.
@@ -262,8 +286,11 @@ The pulp and periodontium communicate mainly through the apical foramen, lateral
 ## MNEMONIC
 Diagnostic order: **"Probe, Pulp, Picture"** (probing pattern, pulp test of each root, radiograph from two angles).
 
-## SOURCE LIST
+## How this answer was sourced
 
+Same reading as Q01: Cohen's Ch.25, Ingle's Ch.36, Grossman's Ch.20, Harty's Ch.13, Gulabivala and Ng Ch.12 (diagnosis and aetiology-based management sections read in full for this answer), Walton and Torabinejad Ch.26 (probing patterns, definition and decision tree), Weine Ch.11; DCNA Kinaia et al 2012 and Andreana 2010; Herrera et al 2018 (full text, Table 6). No new search was needed. The 2-3 month reassessment interval is Ingle's and Harty's (same author); no other source gives a figure. Some explanation paragraphs are taken from Q01, which read the same chapters in full.
+
+## SOURCE LIST
 **[SRC] locators** (chapter file, PDF page marker; printed page where the offset is confirmed; verbatim phrase):
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.965 (printed p.1114): "It appears that periodontal pathogens and endodontic pathogens are similar"
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.967 (printed p.1116): "Coronal leakage is a major cause of endodontic treatment failure"
@@ -387,9 +414,30 @@ Diagnostic order: **"Probe, Pulp, Picture"** (probing pattern, pulp test of each
 - Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.287 (printed p.271): "The degree of attachment loss in this type of lesion is, invariably, large and the prog"
 - Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.974 (printed p.1123): "A fracture that has invaded the pulp space causing pulp necrosis may also be considered a true combined lesion"
 - Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2940: "Once the endodontic and periodontal lesions coalesce, they may be clinically indistinguishable"
-
+- Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2928: "These include neural (i.e., reflex) pathways, lateral canals, dentinal tubules, palatogingival grooves"
+- Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2929: "Serial sectioning of 74 teeth revealed that 45% of accessory canals were present"
+- Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2929: "found that 28% of the teeth had furcation canals"
+- Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.312 (printed p.303): "The mean prevalence of lateral canals, derived from a number of studies as shown in Table 12.2, is"
+- Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.962 (printed p.1111): "reported that only 2% of lateral canals were associated with periodontal pockets"
+- Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2927: "a retrograde periodontitis or reverse pocket is formed"
+- Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2931: "calcium hydroxide, corticosteroids, and antibiotics) can irritate the periodontal attachment apparatus"
+- Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.281 (printed p.265): "intrapulpal infection promoted marginal epithelial downgrowth on the denuded dentine surface after 20 weeks"
+- Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.281 (printed p.265): "had a significantly greater probing depth compared with teeth without periapical lesions"
+- Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.281 (printed p.265): "controversial and conflicting studies abound"
+- Glickman and Iacono, 2021, 25_25_Endo_perio.md, PDF p.2933: "the pulps of teeth with longstanding periodontal disease develop fibrosis and various forms of mineralization"
+- Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.281 (printed p.265): "The effects include an increase in calcifications, fibrosis and col"
+- Rotstein, 2017, 13_13_Marginal_Periodontitis_and_the_Dental_Pulp.md, PDF p.286 (printed p.270): "showed bacterial growth in 87% of the cases"
+- Walton and Torabinejad, 2002, 26_Part_26_Periodontal_Endodontic_Considerations.md, PDF p.490 (printed p.471): "there is little or no effect on human pulps"
+- Walton and Torabinejad, 2002, 26_Part_26_Periodontal_Endodontic_Considerations.md, PDF p.490 (printed p.471): "only 4% required root canal treatment from 5 to 24 years after completion of periodontal treatment"
+- Walton and Torabinejad, 2002, 26_Part_26_Periodontal_Endodontic_Considerations.md, PDF p.490 (printed p.471): "only 3% developed pulp necrosis"
+- Gulabivala, Darbar and Ng, 2014, 12_12_The_perio_endo_interface.md, PDF p.315 (printed p.306): "appears to have only a limited effect on the pulp"
+- Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.972 (printed p.1121): "As long as the neurovascular supply of the pulp remains intact, prospects for survival are good"
+- Rotstein, Zabalegui and Al-Hezaimi, 2019, 36_Chapter_36_Endodontic_Periodontal_Interrelationships.md, PDF p.969 (printed p.1118): "classification is based on how these lesions are formed"
+- Gopikrishna, 2021, 20_Chapter_20_Endodontic_Periodontic_Interrelationship.md, PDF p.429 (printed p.404): "This classification is based on treatment protocol"
+- Weine, 2004, 11_CHAPTER_11_Endodontic_Periodontal_Problems.md, PDF p.1312: "disagreement exists as to a correct classification"
+- Herrera et al, 2018, herrera2018_jcpe12941.pdf, p.89: "Section VII ‐ Periodontitis Associated with Endodontic"
+- Herrera et al, 2018, herrera2018_jcpe12941.pdf, p.89: "was too generic and not sufficiently"
 **[LIT]** items are listed in REFERENCES with DOI; the access level is stated for each.
-
 ## REFERENCES (alphabetical)
 - Andreana S. Restorative options for the periodontal patient. Dent Clin North Am 2010;54(1):157-161 (full text read).
 - Glickman GN, Iacono VJ. Endo-perio. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.25.
