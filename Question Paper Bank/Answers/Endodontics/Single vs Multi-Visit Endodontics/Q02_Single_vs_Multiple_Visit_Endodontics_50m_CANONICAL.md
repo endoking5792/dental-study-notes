@@ -3,7 +3,7 @@
 **Marks:** 50m, Essay
 **Sitting:** Apr 2022 (NU PIII); the same title was set as a 50m choice in the Recent Advances paper of Apr 2022. No other repeats.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1836 words, about 83 minutes at 22 words a minute (Section 7 range for 50 marks: 1700-2000 words). The background (history, Sjögren's culture studies, entombment, the full protocol and flare-ups) is explained in Q1 (75m); this answer is built as a head-to-head comparison.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1837 words, about 83 minutes at 22 words a minute (Section 7 range for 50 marks: 1700-2000 words). The background (history, Sjögren's culture studies, entombment, the full protocol and flare-ups) is explained in Q1 (75m); this answer is built as a head-to-head comparison.
 
 ---
 
@@ -304,7 +304,7 @@ Skipped: the TIME-CAPS mnemonic in Q1 already covers single-visit case selection
 - Primary trials named are cited as the textbooks report them.
 - The MVE interval "at least a week" for infected canals comes from Sjögren's 1991 study as reported in *Endodontology*; it is a historical recommendation, not a trial-proven optimum.
 
-**Exam core word count:** 1836 words, about 83 minutes at 22 words a minute; within the 50m range (1700-2000). Locators: all 47 textbook locators re-checked by script against `mds-textbooks` (exact phrase found on the stated PDF page). Overlap with Q1 exam core checked by shared 6-word sequences: 3.0%.
+**Exam core word count:** 1837 words, about 83 minutes at 22 words a minute; within the 50m range (1700-2000). Locators: all 47 textbook locators re-checked by script against `mds-textbooks` (exact phrase found on the stated PDF page). Overlap with Q1 exam core checked by shared 6-word sequences: 3.0%.
 
 ---
 

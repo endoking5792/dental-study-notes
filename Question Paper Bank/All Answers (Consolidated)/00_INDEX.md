@@ -134,15 +134,14 @@
 
 ### Microleakage and Marginal Seal
 
-- [P1. Nanoleakage: concept, mechanism and assessment (PREDICTED)](Conservative Dentistry/Microleakage and Marginal Seal/P1_Nanoleakage_Concept_Mechanism_and_Assessment_10m_PREDICTED.md)
-- [P2. Marginal integrity of glass-ionomer restorations and moisture control (PREDICTED)](Conservative Dentistry/Microleakage and Marginal Seal/P2_Glass_Ionomer_Marginal_Integrity_and_Moisture_Control_10m_PREDICTED.md)
-- [Q1. Micro-leakage around composite restorations and methods to reduce it](Conservative Dentistry/Microleakage and Marginal Seal/Q01_Microleakage_Around_Composite_Restorations_and_Methods_to_Reduce_20m.md)
-- [Q2. Marginal integrity of restorative materials](Conservative Dentistry/Microleakage and Marginal Seal/Q02_Marginal_Integrity_of_Restorative_Materials_20m.md)
-- [Q3. Marginal integrity, circumferential tie and finish lines](Conservative Dentistry/Microleakage and Marginal Seal/Q03_Marginal_Integrity_Circumferential_Tie_and_Finish_Lines_20m.md)
-- [Q4. Clinical implications of micro-leakage and methods to assess it](Conservative Dentistry/Microleakage and Marginal Seal/Q04_Clinical_Implications_of_Microleakage_and_Methods_to_Assess_20m.md)
-- [Q5. Evaluation of microleakage of restorative materials](Conservative Dentistry/Microleakage and Marginal Seal/Q05_Evaluation_of_Microleakage_of_Restorative_Materials_10m.md)
-- [Q6. Methodologies to detect microleakage of restorative materials](Conservative Dentistry/Microleakage and Marginal Seal/Q06_Methodologies_to_Detect_Microleakage_10m.md)
-- [Q7. Micro-leakage: clinical implications](Conservative Dentistry/Microleakage and Marginal Seal/Q07_Micro_leakage_Clinical_Implications_5m.md)
+- [P01. Explain nanoleakage in bonded restorations. Describe how it develops and how it is assessed.](Conservative Dentistry/Microleakage and Marginal Seal/P01_Nanoleakage_Concept_Mechanism_and_Assessment_predicted.md)
+- [P02. Discuss the marginal integrity of glass-ionomer restorations. How can microleakage around them be reduced?](Conservative Dentistry/Microleakage and Marginal Seal/P02_Glass_Ionomer_Marginal_Integrity_and_Moisture_Control_predicted.md)
+- [Q01. Explain micro-leakage around composite restorations. What are the methods adopted to reduce it](Conservative Dentistry/Microleakage and Marginal Seal/Q01_Microleakage_Around_Composite_Restorations_and_Methods_to_Reduce_20m.md)
+- [Q02. Discuss the marginal integrity of restorative materials](Conservative Dentistry/Microleakage and Marginal Seal/Q02_Marginal_Integrity_of_Restorative_Materials_20m.md)
+- [Q03. Discuss marginal integrity, circumferential tie and finish lines for various types of restorations.](Conservative Dentistry/Microleakage and Marginal Seal/Q03_Marginal_Integrity_Circumferential_Tie_and_Finish_Lines_20m.md)
+- [Q04. What are the clinical implications of micro leakage in restorative dentistry? Write on the methods to assess micro leakage.](Conservative Dentistry/Microleakage and Marginal Seal/Q04_Clinical_Implications_of_Microleakage_and_Methods_to_Assess_20m.md)
+- [Q05. Methodologies to detect microleakage of restorative materials.](Conservative Dentistry/Microleakage and Marginal Seal/Q05_Evaluation_and_Methodologies_to_Detect_Microleakage_10m.md)
+- [Q06. Microleakage and its clinical significance.](Conservative Dentistry/Microleakage and Marginal Seal/Q06_Microleakage_Clinical_Implications_and_Significance_5m.md)
 
 ### Smear Layer
 - [PREDICTED: "Smear layer and universal adhesives: choice of etching mode."](Conservative%20Dentistry/Smear%20Layer/P2_Smear_Layer_and_Universal_Adhesives_Selective_Etch_10m_PREDICTED.md)
@@ -255,6 +254,26 @@
 - ["Discuss the progress made in the development of Adhesive Restorations."](Dental%20Materials/Dentin%20Bonding%20Agents%20and%20Adhesive%20Dentistry/DM_Q11_Progress_in_Adhesive_Restorations_25m.md)
 - ["What are the different dentine bonding agents used in composite restorations? Critically evaluate the role of these bonding agents."](Dental%20Materials/Dentin%20Bonding%20Agents%20and%20Adhesive%20Dentistry/DM_Q12_DBAs_in_Composite_Restorations_Critically_Evaluate_25m.md)
 
+### Casting Alloys and Defects
+- [P1. Heat treatment of gold casting alloys: softening and age hardening (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Casting%20Alloys%20and%20Defects/P1_Heat_Treatment_of_Gold_Casting_Alloys_predicted.md)
+- [P2. Titanium casting and the problems encountered (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Casting%20Alloys%20and%20Defects/P2_Titanium_Casting_and_Its_Problems_predicted.md)
+- [P3. CAD/CAM milling and laser sintering of metal frameworks compared with conventional casting (10 marks) — PREDICTED, not seen in your papers](Dental%20Materials/Casting%20Alloys%20and%20Defects/P3_CAD_CAM_and_Laser_Sintered_Metal_Frameworks_vs_Casting_predicted.md)
+- [Q1. Enumerate various metals used for casting of inlays and their variations and limitations. (25 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q01_Metals_for_Casting_Inlays_Variations_and_Limitations_25m.md)
+- [Q2. Casting alloys. (10 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q02_Casting_Alloys_10m.md)
+- [Q3. Properties of noble metal alloys used in operative dentistry. (10 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q03_Properties_of_Noble_Metal_Alloys_10m.md)
+- [Q4. Role of non-precious alloys in dentistry. (10 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q04_Role_of_Non_Precious_Alloys_10m.md)
+- [Q5. Gallium Alloys. (10 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q05_Gallium_Alloys_10m.md)
+- [Q6. Annealing of gold. (10 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q06_Annealing_of_Gold_10m.md)
+- [Q7. Gold as a restorative material. (5 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q07_Gold_as_a_Restorative_Material_5m.md)
+- [Q10. Discuss Casting Defects. (100 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q10_Casting_Defects_100m.md)
+- [Q11. Enumerate the various defects in casting. (20 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q11_Enumerate_the_Various_Defects_in_Casting_20m.md)
+- [Q12. Discuss casting defects in detail. Mention various means and methods to prevent the same. (15 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q12_Casting_Defects_Causes_and_Prevention_15m.md)
+- [Q13. Casting defects. (10 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q13_Casting_Defects_10m.md)
+- [Q14. Discuss about casting porosities. (10 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q14_Casting_Porosities_10m.md)
+- [Q15. Subsurface porosity (7 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q15_Subsurface_Porosity_7m.md)
+- [Q16. Discuss the various methods of preventing, minimizing and compensating for casting shrinkage. (25 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q16_Casting_Shrinkage_Prevention_Minimising_and_Compensation_25m.md)
+- [Q17. Discuss the causes and their management of distortion of Mesio-Occluso-Distal (M.O.D.) wax pattern. (25 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q17_Distortion_of_MOD_Wax_Pattern_25m.md)
+
 ## Endodontics
 
 ### Calcium Silicate Cements
@@ -332,8 +351,7 @@
 
 ### Microleakage and Marginal Seal
 
-- [Q8. Dye leakage studies](Endodontics/Microleakage and Marginal Seal/Q08_Dye_Leakage_Studies_10m.md)
-- [Q9. Microleakage and its clinical significance](Endodontics/Microleakage and Marginal Seal/Q09_Microleakage_and_its_Clinical_Significance_5m.md)
+- [Q07. Dye leakage studies](Endodontics/Microleakage and Marginal Seal/Q07_Dye_Leakage_Studies_10m.md)
 
 ### Smear Layer
 - [PREDICTED: "Effect of smear layer on root canal obturation and sealer penetration."](Endodontics/Smear%20Layer/P1_Smear_Layer_and_Sealer_Penetration_Obturation_10m_PREDICTED.md)
@@ -408,6 +426,30 @@
 - [T18 — Transplantation (autotransplantation of teeth after trauma)](Endodontics/Traumatic%20Dental%20Injuries/T18_Transplantation_Autotransplantation_10m.md)
 - [T19 — Forced eruption or extrusion](Endodontics/Traumatic%20Dental%20Injuries/T19_Forced_Eruption_or_Extrusion_7m.md)
 - [T20 — Dens invaginatus: classification and management](Endodontics/Traumatic%20Dental%20Injuries/T20_Dens_Invaginatus_Classification_and_Management_10m.md)
+
+### Endodontic-Periodontal Lesions
+- ["Discuss the 2017 AAP/EFP World Workshop classification of endo-periodontal lesions and compare it with earlier classifications." (PREDICTED)](Endodontics/Endodontic-Periodontal%20Lesions/P1_2017_Classification_of_Endo_Periodontal_Lesions_10m_PREDICTED.md)
+- ["Pathways of communication between the pulp and periodontium. How will you differentiate a lesion of endodontic origin from one of periodontal origin?" (PREDICTED)](Endodontics/Endodontic-Periodontal%20Lesions/P2_Pathways_and_Differential_Diagnosis_10m_PREDICTED.md)
+- ["Effect of periodontal disease and periodontal treatment on the dental pulp." (PREDICTED)](Endodontics/Endodontic-Periodontal%20Lesions/P3_Effect_of_Periodontal_Disease_and_Treatment_on_the_Pulp_10m_PREDICTED.md)
+- ["Endo-periodontal problems and management."](Endodontics/Endodontic-Periodontal%20Lesions/Q01_Endo_Periodontal_Problems_and_Management_100m.md)
+- ["Endo perio inter relationship, diagnosis and treatment planning"](Endodontics/Endodontic-Periodontal%20Lesions/Q02_Endo_Perio_Interrelationship_Diagnosis_and_Treatment_Planning_75m.md)
+- ["Endodontic and periodontal interrelationship."](Endodontics/Endodontic-Periodontal%20Lesions/Q03_Endodontic_and_Periodontal_Interrelationship_50m.md)
+- ["Discuss endo-perio lesions and its management in detail."](Endodontics/Endodontic-Periodontal%20Lesions/Q04_Endo_Perio_Lesions_and_Management_25m.md)
+- ["Classify Endo-perio lesions. Discuss in detail the etiology, pathogenesis, diagnosis and management protocols for endo perio lesions."](Endodontics/Endodontic-Periodontal%20Lesions/Q05_Classification_Etiology_Pathogenesis_Diagnosis_Management_20m.md)
+- ["Discuss the causality dilemma of Endo Perio Lesions."](Endodontics/Endodontic-Periodontal%20Lesions/Q06_Causality_Dilemma_of_Endo_Perio_Lesions_25m.md)
+- ["Endo-perio lesions and its management."](Endodontics/Endodontic-Periodontal%20Lesions/Q07_Endo_Perio_Lesions_and_Management_10m.md)
+- ["Endodontic-Periodontic inter relationship."](Endodontics/Endodontic-Periodontal%20Lesions/Q08_Endodontic_Periodontic_Interrelationship_5m.md)
+- ["Write your opinion on Root Amputation as a treatment modality in endodontics"](Endodontics/Endodontic-Periodontal%20Lesions/Q09_Root_Amputation_as_a_Treatment_Modality_10m.md)
+- ["Role of periodontal surgeries in Endodontics."](Endodontics/Endodontic-Periodontal%20Lesions/Q10_Role_of_Periodontal_Surgeries_in_Endodontics_10m.md)
+
+### Single vs Multi-Visit Endodontics
+- ["Single Visit Endodontics." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q01_Single_Visit_Endodontics_75m.md)
+- ["Single visit endodontics Vs multiple visit endodontics." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q02_Single_vs_Multiple_Visit_Endodontics_50m.md)
+- ["Describe in detail about current concepts and controversies of Single Visit Root Canal treatment." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q03_Current_Concepts_and_Controversies_of_Single_Visit_RCT_50m.md)
+- ["What is Single Visit Endodontics? Write on the success and failures of Single Visit Endodontic treatment." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q04_Success_and_Failures_of_Single_Visit_Endodontics_20m.md)
+- ["Discuss critically the relevance of multiple visits in modern endodontic practice." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q05_Relevance_of_Multiple_Visits_in_Modern_Endodontics_20m.md)
+- ["Relevance of single visit endodontics." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q06_Relevance_of_Single_Visit_Endodontics_10m.md)
+- ["Discuss the possibilities of single visit endodontic therapy in asymptomatic pulpless teeth." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q07_Single_Visit_Therapy_in_Asymptomatic_Pulpless_Teeth_10m.md)
 
 ## Recent Advances
 

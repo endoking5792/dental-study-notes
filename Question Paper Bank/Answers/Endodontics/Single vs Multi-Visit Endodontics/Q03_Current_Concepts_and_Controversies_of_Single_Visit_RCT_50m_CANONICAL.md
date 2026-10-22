@@ -20,16 +20,16 @@
 - 10m: definition, 2A-2B in four lines, the controversy table (3 rows), view.
 - 7m "advantages, disadvantages and current concept": definition, the advantages/disadvantages list in 3, and 2A-2B in three lines. 7m "Myths": definition plus section 5 table.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1709 words, about 78 minutes at 22 words a minute (Section 7 range for 50 marks: 1700-2000 words). Background (history, Sjögren studies, biology, full evidence tables, flare-ups) is explained in Q1 (75m); this answer adds the current-concepts and critical-appraisal angle and does not repeat it.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 1892 words, about 86 minutes at 22 words a minute (Section 7 range for 50 marks: 1700-2000 words). Background (history, Sjögren studies, biology, full evidence tables, flare-ups) is explained in Q1 (75m); this answer adds the current-concepts and critical-appraisal angle and does not repeat it.
 
 ---
 
 ## 1. Introduction
 
-**Explanation.** "Current concepts" here means: what practice and evidence now say, as opposed to what the profession assumed in the culture-based era described in Q1. Siqueira and Rôças call the question of whether teeth with apical periodontitis should be completed in one or two visits still one of the greatest current controversies in endodontics (Siqueira and Rôças, 2022b) [SRC]. Ingle's opens its discussion by noting the extremes: some clinicians treat every case in one visit regardless of symptoms or complexity, while others confine it to suitable vital cases (Rosenberg et al, 2019) [SRC]. An examiner reading a "critically discuss" answer wants to see which of these is supported, by what quality of evidence, and where the evidence stops.
+**Explanation.** "Current concepts" here means: what practice and evidence now say, as opposed to what the profession assumed in the culture-based era described in Q1. Siqueira and Rôças call the question of whether teeth with apical periodontitis should be completed in one or two visits still one of the greatest current controversies in endodontics (Siqueira and Rôças, 2022b) [SRC]. Ingle's opens its discussion by noting the extremes: some clinicians treat every case in one visit regardless of symptoms or complexity, while others confine it to suitable vital cases (Rosenberg, Malek and Okamoto, 2019) [SRC]. Grossman goes furthest: with rotary nickel-titanium instruments, single visit has gained acceptance as the treatment of choice for most cases (Gopikrishna, 2021) [SRC]. An examiner reading a "critically discuss" answer wants to see which of these is supported, by what quality of evidence, and where the evidence stops.
 
 #### ✎ Exam core
-Single visit root canal treatment means that chemomechanical preparation, disinfection and obturation (and removal of an old filling in retreatment) are completed at one appointment, with no interappointment dressing (Baumann and Beer, 2010). Whether infected teeth with apical periodontitis should be finished in one or two visits remains one of the greatest controversies in endodontics (Siqueira and Rôças, 2022b). Opinion ranges from clinicians who treat every case in one sitting to those who reserve it for selected vital teeth (Rosenberg et al, 2019). The modern question is no longer "is one visit acceptable?" but "for which tooth, by which operator, with what disinfection protocol?"
+Single visit root canal treatment means that chemomechanical preparation, disinfection and obturation (and removal of an old filling in retreatment) are completed at one appointment, with no interappointment dressing (Baumann and Beer, 2010). Whether infected teeth with apical periodontitis should be finished in one or two visits remains one of the greatest controversies in endodontics (Siqueira and Rôças, 2022b). Opinion ranges from clinicians who treat every case in one sitting to those who reserve it for selected vital teeth (Rosenberg, Malek and Okamoto, 2019). With rotary nickel-titanium instruments, single visit has gained acceptance as the treatment of choice for most endodontic cases (Gopikrishna, 2021). The modern question is no longer "is one visit acceptable?" but "for which tooth, by which operator, with what disinfection protocol?"
 
 ---
 
@@ -37,30 +37,32 @@ Single visit root canal treatment means that chemomechanical preparation, disinf
 
 ### 2A. The vital tooth
 
-**Explanation.** On vital teeth the sources now speak with one voice, and Q1 section 3 explains why (the radicular pulp is inflamed, not infected). The irrigation text states that it seems consensual that uninfected teeth should be completed in a single visit, provided time, skill and equipment allow (Siqueira and Rôças, 2015) [SRC]. Ingle's long-term success chapter puts vital pulpectomy success above 94% and notes that many practitioners complete it in one visit (Ingle's Ch.34, 2019) [SRC]. Even when a vital case cannot be finished, the purpose of the dressing changes: calcium hydroxide then acts as a physicochemical barrier against contamination between visits, not as an antibacterial for an existing infection (Siqueira and Rôças, 2022b) [SRC].
+**Explanation.** On vital teeth the sources now speak with one voice, and Q1 section 3 explains why (the radicular pulp is inflamed, not infected). The irrigation text states that it seems consensual that uninfected teeth should be completed in a single visit, provided time, skill and equipment allow (Siqueira and Rôças, 2015) [SRC]. Ingle's long-term success chapter puts vital pulpectomy success above 94% and notes that many practitioners complete it in one visit (Goldberg, 2019) [SRC]. Even when a vital case cannot be finished, the purpose of the dressing changes: calcium hydroxide then acts as a physicochemical barrier against contamination between visits, not as an antibacterial for an existing infection (Siqueira and Rôças, 2022b) [SRC].
 
 #### ✎ Exam core
 **Concept 1: uninfected (vital) teeth should be finished in one visit.**
 - Treatment of uninfected teeth in a single visit is consensual when time, skill and equipment allow (Siqueira and Rôças, 2015).
-- Vital pulpectomy success exceeds 94% (Ingle's Ch.34, 2019).
+- Vital pulpectomy success exceeds 94% (Goldberg, 2019).
 - If a vital case cannot be finished, calcium hydroxide is placed only as a barrier against interappointment contamination (Siqueira and Rôças, 2022b).
 
 ### 2B. The necrotic tooth with apical periodontitis
 
-**Explanation.** For infected teeth there are now two credible positions, and both are held by serious authorities. The trial-based position: Ingle's treatment-planning chapter cites a systematic review in which single visit healed 6.3% better than multiple visits, though not significantly (Rosenberg et al, 2019) [SRC], and Ingle's Ch.34 concludes that a properly performed treatment shows no significant difference by number of sessions (Ingle's Ch.34, 2019) [SRC]; the 2022 Cochrane review found no difference in radiological failure (Mergoni et al, 2022) [LIT]. The biological position: Siqueira and Rôças write that infected canals are ideally treated in two visits, the second usually 1 to 2 weeks after the first, and conclude that current evidence still indicates the need for an interappointment medicament in primary or post-treatment apical periodontitis (Siqueira and Rôças, 2022b) [SRC]. Both positions agree on the exceptions: Ingle's lists intracanal bleeding, persistent exudate, severe preoperative pain and acute symptoms as indications for a dressing (Ingle's Ch.34, 2019) [SRC].
+**Explanation.** For infected teeth there are now two credible positions, and both are held by serious authorities. The trial-based position: Ingle's treatment-planning chapter cites a systematic review in which single visit healed 6.3% better than multiple visits, though not significantly (Rosenberg, Malek and Okamoto, 2019) [SRC], and Ingle's Ch.34 concludes that a properly performed treatment shows no significant difference by number of sessions (Goldberg, 2019) [SRC]; the 2022 Cochrane review found no difference in radiological failure (Mergoni et al, 2022) [LIT]. The biological position (the same authors in Ch.11 and Ch.14, so one view, not two): Siqueira and Rôças write that infected canals are ideally treated in two visits, the second usually 1 to 2 weeks after the first, and conclude that current evidence still indicates the need for an interappointment medicament in primary or post-treatment apical periodontitis (Siqueira and Rôças, 2022b) [SRC]. Both positions agree on the exceptions: Ingle's lists intracanal bleeding, persistent exudate, severe preoperative pain and acute symptoms as indications for a dressing (Goldberg, 2019) [SRC].
 
 #### ✎ Exam core
 **Concept 2: for necrotic teeth with apical periodontitis, healing is similar in trials, but biology argues for two visits.**
-- Trial evidence: a systematic review cited by Ingle's found 6.3% higher healing after one visit, not significant (Rosenberg et al, 2019); properly done treatment shows no significant difference by number of sessions (Ingle's Ch.34, 2019); Cochrane 2022 found no difference in radiological failure (Mergoni et al, 2022).
+- Trial evidence: a systematic review cited by Ingle's found 6.3% higher healing after one visit, not significant (Rosenberg, Malek and Okamoto, 2019); properly done treatment shows no significant difference by number of sessions (Goldberg, 2019); Cochrane 2022 found no difference in radiological failure (Mergoni et al, 2022).
 - Biological view: infected canals are ideally treated in two visits, 1-2 weeks apart, with an interappointment medicament (Siqueira and Rôças, 2022b).
-- Agreed exceptions needing a dressing: intracanal bleeding, persistent exudate, severe preoperative pain, acute symptoms (Ingle's Ch.34, 2019).
+- Agreed exceptions needing a dressing: intracanal bleeding, persistent exudate, severe preoperative pain, acute symptoms (Goldberg, 2019).
 
 ### 2C. Case selection replaces dogma
 
-**Explanation.** The practical current concept is that the decision is made per tooth. Ingle's says that a patient with a necrotic pulp in severe pain, with or without swelling, is not a candidate for single visit therapy, and that such a patient benefits from returning for a second visit (Rosenberg et al, 2019) [SRC]. The factors listed by Ingle's (roots, time, skill, symptoms) mirror Cohen's; Q1 section 4 gives the full criteria and contraindication lists.
+**Explanation.** The practical current concept is that the decision is made per tooth. Ingle's says that a patient with a necrotic pulp in severe pain, with or without swelling, is not a candidate for single visit therapy, and that such a patient benefits from returning for a second visit (Rosenberg, Malek and Okamoto, 2019) [SRC]. The factors listed by Ingle's (roots, time, skill, symptoms) mirror Cohen's; Grossman's decision box sets favourable against unfavourable criteria and names the clinician's experience as the most important factor (Gopikrishna, 2021) [SRC]; Q1 section 4 gives the full criteria and contraindication lists.
 
 #### ✎ Exam core
-**Concept 3: case selection, not a fixed rule.** Decide per tooth on: number of roots and anatomy, time available, operator skill, severity of symptoms, pulp and periapical status, and whether the canal can be dried (Rosenberg et al, 2019; Ingle's Ch.34, 2019). A necrotic tooth in severe pain, with or without swelling, is not a candidate for single visit treatment (Rosenberg et al, 2019).
+**Concept 3: case selection, not a fixed rule.** Decide per tooth on: number of roots and anatomy, time available, operator skill and severity of symptoms (Rosenberg, Malek and Okamoto, 2019); bleeding or exudate in the canal (Goldberg, 2019). A necrotic tooth in severe pain, with or without swelling, is not a candidate for single visit treatment (Rosenberg, Malek and Okamoto, 2019).
+
+**Grossman's decision box** (Gopikrishna, 2021): favourable: experienced operator, cooperative patient, good access, normal patent anatomy, no periradicular lesion, easy anaesthesia, primary treatment; unfavourable: inexperienced operator, poor access, extra canals, calcifications or ledges, acute curves, periradicular lesion, hot tooth, retreatment. The clinician's experience is the most important single factor (Gopikrishna, 2021).
 
 ### 2D. Optimised single-visit disinfection
 
@@ -84,13 +86,13 @@ Status: mostly ex vivo, low-level evidence; no consistent clinical proof that OS
 
 ### 2F. Newer evidence (2018-2026)
 
-**Explanation.** Recent work has mostly refined the pain question and extended it to retreatment. An umbrella review of 12 systematic reviews found no consistent or clinically important difference in postoperative pain, while noting heterogeneity and overlap of primary studies (Gupta et al, 2026) [LIT]. The 2022 Cochrane update found more participants with pain within one week after a single visit (Mergoni et al, 2022) [LIT]. For retreatment the trend runs the other way: a meta-analysis of four RCTs found less mild pain after one-visit retreatment, with low certainty (Nunes et al, 2021) [LIT], and an RCT of 150 asymptomatic retreatments found less pain after a single visit than after two visits with calcium hydroxide or chlorhexidine (Erdem Hepsenoglu et al, 2018) [LIT].
+**Explanation.** Recent work has mostly refined the pain question and extended it to retreatment. An umbrella review of 12 systematic reviews found no consistent or clinically important difference in postoperative pain, while noting heterogeneity and overlap of primary studies (Gupta et al, 2026) [LIT]. The 2022 Cochrane update found more participants with pain within one week after a single visit (Mergoni et al, 2022) [LIT]. For retreatment the trend runs the other way: a meta-analysis of four RCTs found less mild pain after one-visit retreatment, with low certainty (Nunes et al, 2021) [LIT], and an RCT of 150 asymptomatic retreatments found less pain after a single visit than after two visits with calcium hydroxide or chlorhexidine at some time points (days 1-2 and 1 month, not days 3 and 7) (Erdem Hepsenoglu et al, 2018) [LIT].
 
 #### ✎ Exam core
 **Concept 6: recent evidence on pain.**
 - Umbrella review of 12 systematic reviews: no consistent or clinically important difference in postoperative pain (Gupta et al, 2026).
-- Cochrane 2022: slightly more patients report pain in the first week after a single visit (Mergoni et al, 2022).
-- Retreatment: one visit gave less mild pain (meta-analysis of 4 RCTs, low certainty; Nunes et al, 2021); in 150 asymptomatic retreatments, single visit caused less pain than two visits with calcium hydroxide or chlorhexidine (Erdem Hepsenoglu et al, 2018).
+- Cochrane 2022: slightly more patients report pain in the first week after a single visit, seen in small subgroups of vital teeth and mechanical instrumentation; pain at the one-week time point itself did not differ (Mergoni et al, 2022).
+- Retreatment: one visit gave less mild pain (meta-analysis of 4 RCTs, low certainty; Nunes et al, 2021); in 150 asymptomatic retreatments, single visit caused less pain than two visits with calcium hydroxide or chlorhexidine at some time points (days 1-2 and 1 month) (Erdem Hepsenoglu et al, 2018).
 - In 100 asymptomatic retreatments, pain after obturation was similar at 12 and 24 hours but higher at 48 hours after a single visit; pain between the two appointments of the two-visit group was greater than after its obturation, so the interappointment period carries its own pain (Karaoğlan et al, 2025).
 - Practical message: pain should not decide the number of visits; warn every patient of short-lived discomfort and prescribe analgesics.
 
@@ -108,13 +110,13 @@ Trials that used a weak, short or poorly placed dressing are not a fair test of 
 
 ### 2H. Patient-centred concepts
 
-**Explanation.** Modern evidence appraisal counts outcomes that matter to patients, not only radiographic healing. Single visit wins clearly on time, convenience and the number of injections and isolations, and on preventing patients from abandoning treatment once pain settles (Sikri, 2019; Baumann and Beer, 2010) [SRC]. It loses on appointment length and fatigue. Cohen's adds that "what can be done" in one visit is not always "what should be done", and Weine that the choice should not be left to the patient (Berman et al, 2021; Weine, 2004) [SRC]: the patient's preference is weighed, but the clinical decision stays with the clinician.
+**Explanation.** Modern evidence appraisal counts outcomes that matter to patients, not only radiographic healing. Single visit wins clearly on time, convenience and the number of injections and isolations, and on preventing patients from abandoning treatment once pain settles (Sikri, 2019; Baumann and Beer, 2010) [SRC]. It loses on appointment length and fatigue. Cohen's adds that "what can be done" in one visit is not always "what should be done", and Weine that the choice should not be left to the patient (Rosenberg and Malek, 2021; Weine, 2004) [SRC]: the patient's preference is weighed, but the clinical decision stays with the clinician.
 
 #### ✎ Exam core
 **Concept 8: patient-centred outcomes count.**
 - For single visit: fewer appointments, injections and isolations; less total chair time; immediate restoration; fewer incomplete treatments (Sikri, 2019).
 - Against: a long appointment, fatigue of patient and operator, difficulty for patients with limited opening or systemic disease (Baumann and Beer, 2010).
-- Most procedures can be completed in one visit, but what can be done is not always what should be done (Berman et al, 2021); the decision is clinical, not left to the patient (Weine, 2004).
+- Most procedures can be completed in one visit, but what can be done is not always what should be done (Rosenberg and Malek, 2021); the decision is clinical, not left to the patient (Weine, 2004).
 
 ---
 
@@ -127,11 +129,11 @@ Trials that used a weak, short or poorly placed dressing are not a fair test of 
 1. Diagnosis and case selection; informed consent.
 2. Anaesthesia; rubber dam.
 3. Caries and restoration removal; access; locate all canals.
-4. Working length (apex locator and radiograph).
+4. Working length by radiograph, electronic apex locator and clinical judgement (Gopikrishna, 2021).
 5. Shaping to an adequate apical size and taper.
-6. NaOCl irrigation throughout; EDTA final rinse.
+6. NaOCl irrigation throughout; 17% EDTA for smear layer removal (Siqueira and Rôças, 2022b).
 7. Supplementary disinfection (activation of irrigant, chlorhexidine final rinse) (Siqueira and Rôças, 2022b).
-8. Decision point: dry canal, no bleeding or exudate, all canals prepared, patient comfortable; if not, place calcium hydroxide and reappoint (Ingle's Ch.34, 2019; Baumann and Beer, 2010).
+8. Decision point: dry canal, no bleeding or exudate, all canals prepared, patient comfortable; if not, place calcium hydroxide and reappoint (Goldberg, 2019; Baumann and Beer, 2010).
 9. Obturation and immediate coronal seal.
 10. Postoperative analgesia and review.
 
@@ -142,20 +144,21 @@ Trials that used a weak, short or poorly placed dressing are not a fair test of 
 
 ## 4. Controversies
 
-**Explanation.** Each controversy is set out as claim and counter-claim, with the quality of the evidence behind each, because that is what "critically" asks for. The two most important points of critique come from the Siqueira school: the clinical trials are of low to medium quality and underpowered (Siqueira and Rôças, 2022a) [SRC], and, as Ingle's concedes, an inability to detect a difference may reflect sample size, follow-up and methods rather than true equivalence (Rosenberg et al, 2019) [SRC]. On the other side, the Cochrane reviews are the highest level of evidence available and do not show a healing difference (Mergoni et al, 2022) [LIT].
+**Explanation.** Each controversy is set out as claim and counter-claim, with the quality of the evidence behind each, because that is what "critically" asks for. The two most important points of critique come from the Siqueira school: the clinical trials are of low to medium quality and underpowered (Siqueira and Rôças, 2022a) [SRC], and, as Ingle's concedes, an inability to detect a difference may reflect sample size, follow-up and methods rather than true equivalence (Rosenberg, Malek and Okamoto, 2019) [SRC]. On the other side, the Cochrane reviews are the highest level of evidence available and do not show a healing difference (Mergoni et al, 2022) [LIT].
 
 #### ✎ Exam core
 | Controversy | Claim | Counter-claim | Evidence quality |
 |---|---|---|---|
-| 1. Healing of infected teeth | No difference in healing between one and two visits (Mergoni et al, 2022; Rosenberg et al, 2019) | Two visits with calcium hydroxide heal 10-20% better in some studies (Siqueira and Rôças, 2022a) | RCTs of low-medium quality and underpowered (Siqueira and Rôças, 2022a) |
+| 1. Healing of infected teeth | No difference in healing between one and two visits (Mergoni et al, 2022; Rosenberg, Malek and Okamoto, 2019) | Two visits with calcium hydroxide heal 10-20% better in some studies (Siqueira and Rôças, 2022a) | RCTs of low-medium quality and underpowered (Siqueira and Rôças, 2022a) |
 | 2. Need for an interappointment medicament | Entombment and nutrient deprivation by the filling suffice | Current evidence still indicates a medicament in apical periodontitis (Siqueira and Rôças, 2022b) | Mainly microbiological and animal data |
 | 3. Can OSD replace the dressing? | Activation, chlorhexidine, lasers, GentleWave improve disinfection | No consistent clinical evidence of benefit (Siqueira and Rôças, 2022b) | Mostly ex vivo |
-| 4. Postoperative pain | No clinically important difference (Gupta et al, 2026) | More pain in the first week after a single visit (Mergoni et al, 2022) | Moderate certainty |
-| 5. Retreatment | Single visit gives less pain (Nunes et al, 2021; Erdem Hepsenoglu et al, 2018) | Symptomatic retreatments flare more after one visit (Trope 1991, cited in Sikri, 2019) | Low certainty; few trials |
-| 6. Vital teeth | Single visit is standard (Siqueira and Rôças, 2015) | Apical pulp remnants may remain (Sikri, 2019) | Minority textbook view |
-| 7. Outcome assessment | 2D radiographs show equivalence | CBCT may reveal differences (Siqueira and Rôças, 2022a) | Animal study and one human RCT |
+| 4. Postoperative pain | No clinically important difference (Gupta et al, 2026) | More patients with pain in the first week after a single visit, in small subgroups (Mergoni et al, 2022) | Moderate (Cochrane first-week pain); limited by heterogeneity (umbrella review) |
+| 5. Flare-up | No difference in flare-up in pooled trials (Mergoni et al, 2022) | Flare-up risk higher after one visit, RR 2.13 (Schwendicke and Göstemeyer, 2017); overall incidence 1.4-19% (Gopikrishna, 2021) | Very weak evidence for the excess |
+| 6. Retreatment | Single visit gives less pain (Nunes et al, 2021; Erdem Hepsenoglu et al, 2018) | Symptomatic retreatments flare more after one visit (Trope 1991, cited in Sikri, 2019); Grossman contraindicates single visit in retreatment (Gopikrishna, 2021) | Low certainty; few trials |
+| 7. Vital teeth | Consensual where time, skill and equipment allow (Siqueira and Rôças, 2015) | Apical pulp remnants may remain (Sikri, 2019) | Minority textbook view |
+| 8. Outcome assessment | 2D radiographs show equivalence | CBCT may reveal differences (Siqueira and Rôças, 2022a) | Animal study and one human RCT |
 
-**Methodological criticism of the trials** (Siqueira and Rôças, 2022a; Rosenberg et al, 2019): small samples; operator skill; inadequate randomisation; short follow-up; variable apical enlargement and lesion size; different outcome criteria; radiographic rather than histological or CBCT assessment.
+**Methodological criticism of the trials** (Siqueira and Rôças, 2022a; Rosenberg, Malek and Okamoto, 2019): small samples; operator skill; inadequate randomisation; short follow-up; variable apical enlargement and lesion size; different outcome criteria; radiographic rather than histological or CBCT assessment.
 
 **Weighing the evidence by level.**
 - Highest level (systematic reviews and Cochrane): no difference in healing; small first-week pain difference (Mergoni et al, 2022).
@@ -178,7 +181,7 @@ Critical reading: the highest-level evidence favours neither approach; the lower
 | Single visit fails more often | No difference in radiological failure in Cochrane 2022 (Mergoni et al, 2022) |
 | Calcium hydroxide sterilises the canal | Its antibacterial effect in human canals is limited (Baumann and Beer, 2010) |
 | More visits mean better disinfection | More than two visits predispose to secondary infection and reduced survival (Siqueira and Rôças, 2022a) |
-| Single visit is only for vital teeth | Selected asymptomatic necrotic teeth can be treated in one visit by experienced operators (Ingle's Ch.34, 2019) |
+| Single visit is only for vital teeth | Properly done treatment shows no significant difference by number of sessions (Goldberg, 2019); no difference in radiological failure (Mergoni et al, 2022); operator experience is the key factor (Gopikrishna, 2021) |
 | Single visit is a time-saving shortcut | It needs the same steps, more skill and a longer appointment; multiple visits waste time re-isolating and re-irrigating (Sikri, 2019) |
 | Fees must be lower for one visit | An assumption; patients pay for time saved (Sikri, 2019) |
 | Supplementary activation makes one visit as good as two | Not yet shown clinically (Siqueira and Rôças, 2022b) |
@@ -203,7 +206,7 @@ This view should be revised as large RCTs with CBCT follow-up and clinically val
 ## 7. Conclusion
 
 #### ✎ Exam core
-Current concepts accept single visit root canal treatment as the standard for vital teeth and as a valid option for selected necrotic teeth. The controversy concerns infected teeth with apical periodontitis: pooled trials show no difference in healing and only a small, short-lived difference in pain, while microbiological, animal, cohort and CBCT data favour two visits with an interappointment medicament. Optimised single-visit disinfection may resolve the debate, but it is not yet clinically proven. Until then, case selection, operator skill and thorough disinfection should decide the number of visits (Siqueira and Rôças, 2022b; Mergoni et al, 2022).
+Current concepts accept single visit root canal treatment as the preferred approach for vital teeth and as a valid option for selected necrotic teeth. The controversy concerns infected teeth with apical periodontitis: pooled trials show no difference in healing and only a small, short-lived difference in pain, while microbiological, animal, cohort and CBCT data favour two visits with an interappointment medicament. Optimised single-visit disinfection may resolve the debate, but it is not yet clinically proven. Until then, case selection, operator skill and thorough disinfection should decide the number of visits (Siqueira and Rôças, 2022b; Mergoni et al, 2022).
 
 ---
 
@@ -218,13 +221,13 @@ Current concepts accept single visit root canal treatment as the standard for vi
 - *Implication:* Use activation as an adjunct; do not present it in the exam as having "solved" the controversy.
 
 **Claim 2: "Single and multiple visits produce equal outcomes in infected teeth."**
-- *Textbooks disagree:* Ingle's (Rosenberg et al, 2019; Ingle's Ch.34, 2019) [SRC] accepts equivalence for properly performed treatment; Siqueira and Rôças (2022a, 2022b) [SRC] judge the trials insufficient and favour two visits.
+- *Textbooks disagree:* Ingle's (Rosenberg, Malek and Okamoto, 2019; Goldberg, 2019) [SRC] accepts equivalence for properly performed treatment; Siqueira and Rôças (2022a, 2022b) [SRC] judge the trials insufficient and favour two visits; their two chapters are one view (same authors; Ch.14 refers back to Ch.11).
 - *Evidence:* Cochrane 2022, no difference in radiological failure (moderate certainty) (Mergoni et al, 2022) [LIT]. Against it: a CBCT human RCT and a single-operator cohort favouring two visits, as reported by Siqueira and Rôças (2022a) [SRC].
 - *Limitation:* Absence of a detected difference in underpowered 2D-assessed trials is not proof of equivalence; conversely, the opposing data come from one operator, animals or a single CBCT trial [Certain].
 - *Conclusion:* Equivalence is the best current estimate on radiographs; a modest benefit of two visits for infected teeth cannot be ruled out [Likely].
 
 **Claim 3: "Single visit causes more postoperative pain."**
-- *Evidence:* Umbrella review: no consistent or clinically important difference (Gupta et al, 2026) [LIT]; Cochrane 2022: more pain within one week after one visit, mainly in vital teeth (Mergoni et al, 2022) [LIT]; retreatment trials favour one visit (Nunes et al, 2021; Erdem Hepsenoglu et al, 2018) [LIT].
+- *Evidence:* Umbrella review: no consistent or clinically important difference (Gupta et al, 2026) [LIT]; Cochrane 2022: more patients with pain within one week after one visit, seen in small subgroups of vital teeth and mechanical instrumentation, with no difference at the one-week time point itself (Mergoni et al, 2022) [LIT]; retreatment trials favour one visit (Nunes et al, 2021; Erdem Hepsenoglu et al, 2018) [LIT].
 - *Interpretation:* The evidence is internally inconsistent across tooth types; it does not support a blanket statement either way [Certain]. Pain is not a valid reason to avoid single-visit treatment, but patients should be warned of short-lived discomfort [Likely].
 
 ---
@@ -270,11 +273,13 @@ Skipped: no genuinely useful mnemonic; Q1's "TIME-CAPS" covers case selection.
 **Unverified / limits.**
 - All [LIT] items were read as PubMed abstracts only.
 - The 6.3% systematic review (Ingle's ref 21) and the CBCT human RCT (Siqueira and Rôças ref 140) were not identified or read in the original.
-- Ingle's Ch.11 author line is garbled in the extracted file; decoded as Rosenberg PA, Malek M and Okamoto K: verify against the printed book. Ingle's Ch.34 author line was not recoverable; cited by chapter.
+- Ingle's Ch.11 (Rosenberg, Malek and Okamoto) and Ch.34 (Goldberg) author lines are garbled in the extracted file and were decoded letter-for-letter: verify against the printed book. Cohen's Ch.5 authors (Rosenberg and Malek) read directly; Ingle's Ch.11 shares these authors, which explains its near-identical wording.
 - Erdem Hepsenoglu et al studied asymptomatic retreatments only; results do not apply to symptomatic retreatments.
 - Overlap with Q1's exam core was kept low by not repeating Q1's tables (history, criteria, full evidence, flare-up); estimated overlap well under 30% [Likely; not measured by script].
 
-**Exam core word count:** 1709 words, about 78 minutes at 22 words a minute (range 1700-2000). Every textbook locator re-checked by script against `mds-textbooks` (exact phrase on the stated PDF page).
+**Applied after review (2026-10-22).** From `review/Q02_Q03_review_sources.md` and `review/Q02_Q07_review_rules.md`: chapter-author citations (Rosenberg, Malek and Okamoto; Goldberg; Rosenberg and Malek) replace "Rosenberg et al", "Ingle's Ch.34" and editor forms; Cochrane first-week pain wording aligned with Q1; Grossman 14e Ch.16 added (rotary NiTi "treatment of choice", decision box, retreatment); flare-up controversy row added (Grossman Ch.7 incidence; Schwendicke RR 2.13 versus Cochrane no difference); myths-table over-attribution to Ingle's Ch.34 corrected; Erdem Hepsenoglu time points specified; umbrella-review certainty qualified; "standard" softened to "consensual"/"preferred"; protocol steps 4 and 6 sourced; Ch.11/Ch.14 noted as one view.
+
+**Exam core word count:** 1892 words, about 86 minutes at 22 words a minute (range 1700-2000). Every textbook locator re-checked by script against `mds-textbooks` (exact phrase on the stated PDF page).
 
 ---
 
@@ -297,12 +302,12 @@ Skipped: no genuinely useful mnemonic; Q1's "TIME-CAPS" covers case selection.
 - Siqueira and Rôças, 2022a, 11_Chapter_11_Controlling_endodontic_infections_an_overview.md, PDF p.544: "showed better healing results for two-visit endodontics"
 - Siqueira and Rôças, 2022a, 11_Chapter_11_Controlling_endodontic_infections_an_overview.md, PDF p.544: "treatment duration of more than two visits should be avoided"
 - Siqueira and Rôças, 2015, 16_16_Intracanal_Medication.md, PDF p.279: "It seems consensual that treatment of uninfected teeth should be accomplished"
-- Rosenberg et al, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.325: "Some clinicians take an extreme approach and treat all cases"
-- Rosenberg et al, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.325: "is not a candidate for single visit therapy"
-- Rosenberg et al, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.326: "(6.3% higher healing rate)"
-- Rosenberg et al, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.326: "variations in research methodology, including sample size"
-- Ingle's Ch.34, 2019, 34_Chapter_34_Achieving_Long_Term_Success_with_Endodontic_Thera.md, PDF p.929: "Vital pulpectomy success rate is greater than 94%"
-- Ingle's Ch.34, 2019, 34_Chapter_34_Achieving_Long_Term_Success_with_Endodontic_Thera.md, PDF p.930: "persistent canal exudate, severe preoperative pain and acute clinical symptoms"
+- Rosenberg, Malek and Okamoto, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.325: "Some clinicians take an extreme approach and treat all cases"
+- Rosenberg, Malek and Okamoto, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.325: "is not a candidate for single visit therapy"
+- Rosenberg, Malek and Okamoto, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.326: "(6.3% higher healing rate)"
+- Rosenberg, Malek and Okamoto, 2019, 11_Chapter_11_Treatment_Planning_and_Case_Selection.md, PDF p.326: "variations in research methodology, including sample size"
+- Goldberg, 2019, 34_Chapter_34_Achieving_Long_Term_Success_with_Endodontic_Thera.md, PDF p.929: "Vital pulpectomy success rate is greater than 94%"
+- Goldberg, 2019, 34_Chapter_34_Achieving_Long_Term_Success_with_Endodontic_Thera.md, PDF p.930: "persistent canal exudate, severe preoperative pain and acute clinical symptoms"
 - Baumann and Beer, 2010, 49_49_Single_Versus_Multiple_Sitting_Root_Canal_Treatment.md, PDF p.391: "calcium hydroxide has limited effectiveness in eliminating bacteria"
 - Baumann and Beer, 2010, 49_49_Single_Versus_Multiple_Sitting_Root_Canal_Treatment.md, PDF p.391: "no easy access to the apical portion of the canal"
 - Sikri, 2019, 21_21_Single_Visit_Endodontics.md, PDF p.388: "Multiple visits might waste more time in adjusting the patient"
@@ -314,7 +319,7 @@ Skipped: no genuinely useful mnemonic; Q1's "TIME-CAPS" covers case selection.
 - Siqueira and Rôças, 2022b, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal_syst.md, PDF p.795: "restored with temporary cement to at least a 3- to 5-mm thickness"
 - Siqueira and Rôças, 2022b, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal_syst.md, PDF p.795: "The second appointment is scheduled for at least 1 week later."
 - Siqueira and Rôças, 2022b, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal_syst.md, PDF p.795: "regarded as extremely important to improve disinfection"
-- Berman et al, 2021, 05_5_Case_assessment_and_treatment_planning.md, PDF p.601: "What can be done and what should be done"
+- Rosenberg and Malek, 2021, 05_5_Case_assessment_and_treatment_planning.md, PDF p.601: "What can be done and what should be done"
 - Weine, 2004, 16_CHAPTER_16_Endodontic_Timetables.md, PDF p.1698: "It should never be left to the patient to"
 - Sikri, 2019, 21_21_Single_Visit_Endodontics.md, PDF p.392: "Minimizes incomplete treatment."
 - Baumann and Beer, 2010, 49_49_Single_Versus_Multiple_Sitting_Root_Canal_Treatment.md, PDF p.391: "increased appointment time with attendant patient fatigue"
@@ -323,19 +328,33 @@ Skipped: no genuinely useful mnemonic; Q1's "TIME-CAPS" covers case selection.
 - Gupta et al, 2026, PubMed abstract PMID 41856391: "did not show a consistent or clinically important difference"
 - Nunes et al, 2021, PubMed abstract PMID 33399930: "the certainty of evidence for each analysis was considered low"
 - Erdem Hepsenoglu et al, 2018, PubMed abstract PMID 30054099: "presented fewer incidences of postoperative pain"
+- Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.363: "single-visit endodontics has gained increased acceptance as the treatment of choice"
+- Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.364: "Decision-Making Criteria for Single-Visit Endodontics"
+- Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.364: "The clinical experience and ability of the clinician is the most important factor"
+- Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.364: "Nonsurgical retreatment cases"
+- Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.341: "using radiographs, electronic apex locator, and clinical judgment"
+- Gopikrishna, 2021, 07_Chapter_7_Endodontic_Emergencies.md, PDF p.158: "ranges from 1.4 to 19%"
+- Siqueira and Rôças, 2022b, 14_Chapter_14_Supplementary_disinfection_of_the_root_canal_syst.md, PDF p.781: "Smear layer removal: 17% EDTA (or 10% citric acid)"
+- Goldberg, 2019, 34_Chapter_34_Achieving_Long_Term_Success_with_Endodontic_Thera.md, PDF p.930: "if the treatment was properly done, there is no significant"
+- Schwendicke and Göstemeyer, 2017, PubMed abstract PMID 28148534: "very weak evidence"
+- Gupta et al, 2026, PubMed abstract PMID 41856391: "Confidence in the evidence was limited by heterogeneity"
+- Erdem Hepsenoglu et al, 2018, PubMed abstract PMID 30054099: "There were no significant differences among the groups on the third and seventh days"
+- Mergoni et al, 2022, PubMed abstract PMID 36512807: "higher in the single-visit groups for vital teeth"
 
 ## REFERENCES (alphabetical)
 - Baumann MA, Beer R, editors. Endodontology. 2nd ed (English translation of the 2nd German edition, 2008). Stuttgart: Thieme; 2010. Ch.49 Single versus multiple sitting root canal treatment.
-- Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.5 Case assessment and treatment planning.
 - Erdem Hepsenoglu Y, Eyuboglu TF, Özcan M. Postoperative pain intensity after single- versus two-visit nonsurgical endodontic retreatment: a randomized clinical trial. J Endod 2018;44(9):1339-1346. doi:10.1016/j.joen.2018.05.017 (abstract read via PubMed).
+- Goldberg F. Achieving long-term success with endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.34 (author name decoded from a garbled line; verify against print).
+- Gopikrishna V, editor. Grossman's Endodontic Practice. 14th ed. New Delhi: Wolters Kluwer; 2021. Ch.7 Endodontic emergencies; Ch.16 Obturation of the radicular space.
 - Gupta R, Abraham D, Ahmad L, Puri A. Single-visit versus multiple-visit root canal therapy: post-endodontic pain outcomes from an umbrella review. J Dent 2026;169:106637. doi:10.1016/j.jdent.2026.106637 (abstract read via PubMed).
-- Ingle's Ch.34. Achieving long-term success with endodontic therapy. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.34 (chapter authors not recoverable from the extracted file).
 - Karaoğlan F, Kiziltaş Gül A, Çalışkan MK. Postoperative pain following single-visit versus two-visit endodontic retreatment: a comparison of inter-appointment and post-obturation periods: randomised clinical trial. Aust Endod J 2025;51(3):706-714. doi:10.1111/aej.70004 (abstract read via PubMed).
 - Mergoni G, Ganim M, Lodi G, Figini L, Gagliani M, Manfredi M. Single versus multiple visits for endodontic treatment of permanent teeth. Cochrane Database Syst Rev 2022;12:CD005296. doi:10.1002/14651858.CD005296.pub4 (abstract read via PubMed).
 - Nunes GP, Delbem ACB, Gomes JML, Lemos CAA, Pellizzer EP. Postoperative pain in endodontic retreatment of one visit versus multiple visits: a systematic review and meta-analysis of randomized controlled trials. Clin Oral Investig 2021;25(2):455-468. doi:10.1007/s00784-020-03767-7 (abstract read via PubMed).
-- Rosenberg PA, Malek M, Okamoto K. Treatment planning and case selection. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.11 (author names decoded from a garbled line; verify).
+- Rosenberg PA, Malek M, Okamoto K. Treatment planning and case selection. In: Rotstein I, Ingle JI, editors. Ingle's Endodontics. 7th ed. Raleigh: PMPH-USA; 2019. Ch.11 (author names decoded from a garbled line; verify against print).
+- Rosenberg PA, Malek M. Case assessment and treatment planning. In: Berman LH, Hargreaves KM, Rotstein I, editors. Cohen's Pathways of the Pulp. 12th ed. St Louis: Elsevier; 2021. Ch.5.
+- Schwendicke F, Göstemeyer G. Single-visit or multiple-visit root canal treatment: systematic review, meta-analysis and trial sequential analysis. BMJ Open 2017;7(2):e013115. doi:10.1136/bmjopen-2016-013115 (abstract read via PubMed).
 - Sikri VK. Essentials of Endodontics. 2nd ed. New Delhi: CBS Publishers; 2019 (second eBook edition). Ch.21 Single-visit endodontics.
-- Siqueira JF Jr, Rôças IN. Intracanal medication. In: Basrani B, editor. Endodontic Irrigation: Chemical Disinfection of the Root Canal System. Cham: Springer; 2015. Ch.16.
 - Siqueira JF Jr, Rôças IN (2022a). Controlling endodontic infections: an overview. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. London: Quintessence; 2022. Ch.11.
 - Siqueira JF Jr, Rôças IN (2022b). Supplementary disinfection of the root canal system. In: Siqueira JF Jr, Rôças IN, editors. Treatment of Endodontic Infections. 2nd ed. London: Quintessence; 2022. Ch.14.
+- Siqueira JF Jr, Rôças IN. Intracanal medication. In: Basrani B, editor. Endodontic Irrigation: Chemical Disinfection of the Root Canal System. Cham: Springer; 2015. Ch.16.
 - Weine FS. Endodontic Therapy. 6th ed. St Louis: Mosby; 2004. Ch.16 Endodontic timetables.

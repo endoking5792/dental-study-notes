@@ -3,7 +3,7 @@
 **Marks:** not printed on the paper; answered as 10m (Short Essay length). If the sitting carries more marks, expand from Q1 sections 3, 7 and 8.
 **Sitting:** Mar 1992 (PIII 90-00).
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 342 words, about 16 minutes at 22 words a minute (Section 7 range for 10 marks: 320-400 words). Full background is in Q1.
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 377 words, about 17 minutes at 22 words a minute (Section 7 range for 10 marks: 320-400 words). Full background is in Q1.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 2. Evidence specific to asymptomatic necrotic teeth
 
-**Explanation.** Several trials in Sikri's table studied exactly this group. Mulhern et al (1982) treated asymptomatic pulpal necrosis in single-rooted teeth and found no difference in pain; Molander et al (2007), a randomised trial in asymptomatic necrotic teeth with apical periodontitis, found no difference in healing at 24 months; Penesis et al (2008) likewise found none at 12 months (Sikri, 2019) [SRC]. Trope et al (1999) found one visit equal to two visits with calcium hydroxide, and both better than two visits without a dressing (Baumann and Beer, 2010) [SRC]. The 2022 Cochrane review found no outcome difference in subgroups except more first-week pain in vital teeth (Mergoni et al, 2022) [LIT]. Against this, Siqueira and Rôças cite studies giving two visits 10-20% higher success (Siqueira and Rôças, 2022) [SRC], and Weine advised against one sitting when an apical radiolucency is present (Weine, 2004) [SRC].
+**Explanation.** Several trials in Sikri's table studied exactly this group. Mulhern et al (1982) treated asymptomatic pulpal necrosis in single-rooted teeth and found no difference in pain; Molander et al (2007), a randomised trial in asymptomatic necrotic teeth with apical periodontitis, found no difference in healing at 24 months; Penesis et al (2008) likewise found none at 12 months (Sikri, 2019) [SRC]. Trope et al (1999) found one visit equal to two visits with calcium hydroxide, and both better than two visits without a dressing (Baumann and Beer, 2010) [SRC]. The 2022 Cochrane review found no subgroup differences except more first-week pain after one visit in vital teeth and with mechanical instrumentation; no necrotic-subgroup difference was reported (Mergoni et al, 2022) [LIT]. Against this, Siqueira and Rôças cite studies giving two visits 10-20% higher success (Siqueira and Rôças, 2022) [SRC], and Weine advised against one sitting when an apical radiolucency is present (Weine, 2004) [SRC].
 
 #### ✎ Exam core
 **Evidence for single visit.**
@@ -33,11 +33,11 @@
 | Trope et al (1999) | Apical periodontitis | One visit = two visits with Ca(OH)2; two visits without dressing worst |
 | Molander et al (2007) | Asymptomatic necrotic with apical periodontitis | No difference in healing (24 months) |
 | Penesis et al (2008) | Necrotic with apical periodontitis | No difference (12 months) |
-| Cochrane 2022 | Subgroups incl. necrotic | Excess first-week pain only in vital teeth |
+| Cochrane 2022 | Subgroups incl. necrotic | Excess first-week pain only in vital teeth and with mechanical instrumentation; none reported for necrotic teeth |
 
 *(Sikri, 2019; Baumann and Beer, 2010; Mergoni et al, 2022)*
 
-**Evidence against.** Some studies give two visits with calcium hydroxide 10-20% higher success (Siqueira and Rôças, 2022). Weine accepted one sitting only when no apical radiolucency was present (Weine, 2004).
+**Evidence against.** Some studies give two visits with calcium hydroxide 10-20% higher success (Siqueira and Rôças, 2022). Weine selects one-sitting cases to exclude preoperative apical periodontitis, and requires no radiolucency and no tenderness to percussion (Weine, 2004). Grossman lists a periradicular lesion as unfavourable (Gopikrishna, 2021).
 
 ---
 
@@ -46,7 +46,7 @@
 **Explanation.** If a pulpless tooth is to be finished in one visit, disinfection must do the work the dressing would otherwise do. Siqueira and Rôças give the sequence: crown-down preparation with copious hypochlorite, smear-layer removal, then a supplementary step (activated hypochlorite or a final chlorhexidine rinse) (Siqueira and Rôças, 2022) [SRC]. The exits are those of *Endodontology*: a wet canal is dressed and reappointed (Baumann and Beer, 2010) [SRC].
 
 #### ✎ Exam core
-**Favourable conditions:** no symptoms; no sinus tract or a draining one that dries; small or no lesion; simple, patent anatomy; experienced operator; enough time (Gopikrishna, 2021; Sikri, 2019).
+**Favourable conditions:** no symptoms; no periradicular lesion; simple, patent anatomy; experienced operator; enough time (Gopikrishna, 2021). A sinus tract is not a bar (Sikri, 2019), and trials show similar healing even with lesions (Molander, Penesis, in Sikri, 2019).
 
 **Protocol emphasis.**
 1. Rubber dam; crown-down preparation with abundant 2.5% hypochlorite (Siqueira and Rôças, 2022).
@@ -85,9 +85,11 @@
 
 **Textbook contradictions recorded, not resolved.** Weine (no single sitting with a radiolucency) and Siqueira and Rôças (10-20% better with two visits) versus Molander/Penesis/Trope and Cochrane (no difference).
 
-**Unverified.** Primary trials cited as reported in Sikri and *Endodontology*. Cochrane 2022 read as abstract only; its necrotic subgroup figures are not given in the abstract (only that no other subgroup difference was found). "Favourable conditions" bullet partly synthesised from Grossman's box (Q1) [Likely].
+**Unverified.** Primary trials cited as reported in Sikri and *Endodontology*. Cochrane 2022 read as abstract only; its necrotic subgroup figures are not given in the abstract (only that no other subgroup difference was found). 
 
-**Exam core word count:** 342 words, about 16 minutes at 22 words a minute; Section 7 range 320-400 words.
+**Applied after review (2026-10-22).** Cochrane subgroup wording corrected (excess first-week pain in vital teeth AND with mechanical instrumentation; none reported for necrotic teeth), matching Q1; "small or no lesion" removed from the favourable conditions, since Grossman lists only absence of a periradicular lesion, with the trial evidence on lesions stated separately; Weine's condition widened to his general rule (exclude preoperative apical periodontitis) plus Grossman's unfavourable lesion criterion.
+
+**Exam core word count:** 377 words, about 17 minutes at 22 words a minute; Section 7 range 320-400 words.
 
 ---
 
@@ -111,6 +113,10 @@
 - Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.364: "Decision-Making Criteria for Single-Visit Endodontics"
 - Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.364: "Staphylococcus species following 19 days of obturation"
 - Mergoni et al, 2022, PubMed abstract PMID 36512807: "higher in the single-visit groups for vital teeth"
+- Mergoni et al, 2022, PubMed abstract PMID 36512807: "and when instrumentation was mechanical (RR 1.80"
+- Gopikrishna, 2021, 16_Chapter_16_Obturation_of_the_Radicular_Space.md, PDF p.364: "Absence of periradicular"
+- Sikri, 2019, 21_21_Single_Visit_Endodontics.md, PDF p.391: "Teeth having sinus tract."
+- Weine, 2004, 16_CHAPTER_16_Endodontic_Timetables.md, PDF p.1699: "Case selection is quite important to rule out teeth"
 
 ## REFERENCES (alphabetical)
 - Baumann MA, Beer R, editors. Endodontology. 2nd ed (English translation of the 2nd German edition, 2008). Stuttgart: Thieme; 2010. Ch.49 Single versus multiple sitting root canal treatment.
