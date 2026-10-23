@@ -3,9 +3,10 @@
 **Marks:** 10m (Short Essay) — Mock 2025 (ABS PI)
 **Sittings absorbed:** none. The full topic is covered in Q1, the cracked tooth syndrome 100m answer, sections 4, 8 and 10; this answer stands alone for the exam.
 
-**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 364 words, about 17 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). No critical evidence synthesis at 10 marks (Section 7.1 item 9).
+**How to read this answer:** each section explains the topic first; the part headed **✎ Exam core** is what to write in the exam. Exam core: 396 words, about 18 minutes at 22 words a minute (Section 7 range 320-400 words for 10 marks). No critical evidence synthesis at 10 marks (Section 7.1 item 9).
 
 **Retrieval report.** Re-used the passages verified for Q1: Cohen's Ch.22 (Berman and Tamse, 2021), Ingle's Ch.13 (Bakland, 2019), The Guidebook to Molar Endodontics Ch.9 (Krishnan and Swain, 2025), Walton and Torabinejad Ch.28 (Walton and Torabinejad, 2002), Modern Operative Dentistry Ch.18 (Bresciani et al, 2020). No new retrieval; no live literature search.
+
 
 
 <!--LOC: c_mech, c_accum, c_90kg, w_nutcracker, m_wedging, k_steep, k_marginal, k_contact, m_flexure, i_collagen, i_norepair, w_centered, c_central, i_seo, i_pins, c_noradio, c_perp, c_proprio, i_percuss, k_repeat, k_falsepos, k_microct, k_20, c_245, k_55, w_noprobe, i_reunite, w_wedge, k_meta, m_notproven, w_noposts, w_barrel, k_11x, k_23mm, w_chase, c_127-->
@@ -24,16 +25,14 @@ Dentin's collagen resists crack initiation and growth (Bakland, 2019) [SRC], but
 
 #### ✎ Exam core
 
-**Definition.** Cracked tooth syndrome is a group of signs and symptoms (sharp pain on biting and release, cold sensitivity) caused by an incomplete fracture of enamel and dentin that starts in the crown and runs apically, usually mesiodistally, in posterior teeth.
-
-**Concept.** CTS is a fatigue fracture. Repeated occlusal loads, not one impact, propagate a partial discontinuity into a complete fracture (Berman and Tamse, 2021).
+**Concept.** CTS is a fatigue fracture: repeated occlusal loads, not one impact, propagate a crack into a complete fracture (Berman and Tamse, 2021).
 
 **Biomechanical factors**
 - **Force:** molars carry up to 90 kg, and forces are highest near the mandibular fulcrum ("nutcracker effect") (Berman and Tamse, 2021; Walton and Torabinejad, 2002).
 - **Wedging:** a plunger cusp in the opposing fossa, especially with steep cuspal inclines, opens the fissure base like a wedge (Bresciani et al, 2020; Krishnan and Swain, 2025).
 - **Marginal ridge loss and small contacts:** a crack starts at lower load, and the stress rises (Krishnan and Swain, 2025).
 - **Restorations:** cuspal flexure, stress at sharp line angles, wedging inlays and pins (Bresciani et al, 2020; Bakland, 2019).
-- **Tissue:** dentin's collagen resists crack growth, but this resistance falls with age, and the crack never heals (Bakland, 2019).
+- **Tissue:** dentin's collagen resists cracking less with age; cracks never heal (Bakland, 2019).
 
 **Progression.** Craze line, cracked cusp or cracked tooth, pulpitis, necrosis, then split tooth. Central cracks run deeper and reach the pulp (Walton and Torabinejad, 2002).
 
@@ -50,9 +49,9 @@ Most cracks show nothing on radiographs in the early stages (Berman and Tamse, 2
 **Diagnostic challenges**
 1. Radiographs are usually negative: the mesiodistal crack lies perpendicular to the beam (Berman and Tamse, 2021).
 2. Poor localisation and referred pain: pulpal pain has no PDL proprioception, and percussion is negative until the crack reaches the PDL (Bakland, 2019).
-3. Tests are unreliable: bite tests need the load aligned with the crack, and transillumination gives false positives. Against micro-CT no test was highly accurate, and 20% of teeth extracted as cracked had no dentin crack (Krishnan and Swain, 2025).
+3. Tests are unreliable: bite tests need aligned load, transillumination gives false positives, and 20% of teeth extracted as cracked had no dentin crack (Krishnan and Swain, 2025).
 4. Restorations hide cracks (seen in 23.3% before removal versus 60% after; Berman and Tamse, 2021).
-5. The extent cannot be measured: probing may be normal over a subgingival crack (Walton and Torabinejad, 2002), and 55% of cracked teeth are asymptomatic (Krishnan and Swain, 2025).
+5. The extent cannot be measured; 55% of cracked teeth are asymptomatic (Krishnan and Swain, 2025).
 
 ## 3. Restorative challenges
 
@@ -66,8 +65,26 @@ Enamel and dentin cannot be permanently reunited once fractured (Bakland, 2019) 
 1. The crack cannot be healed or removed, only bound. Chasing it with burs is "not rational" (Walton and Torabinejad, 2002; Bakland, 2019).
 2. The best form of cuspal coverage is unsettled: crowns are no better than bonded cuspal-coverage composite (Krishnan and Swain, 2025; Bresciani et al, 2020).
 3. The pulp outcome is unpredictable: about 20% of crowned teeth later need RCT (Berman and Tamse, 2021).
-4. Restorations must bind the tooth (barrel-stave effect), avoiding posts and wedging cores; after RCT, a crown is placed early because the extraction risk is 11 times higher without one (Walton and Torabinejad, 2002; Krishnan and Swain, 2025).
+4. Restorations must bind the tooth without posts; after RCT, crown early (11 times the extraction risk without; Krishnan and Swain, 2025).
 5. Cracks entering a canal: obturate apical to the crack and seal the coronal part.
+
+## HIGH-YIELD POINTS
+
+1. CTS is a fatigue fracture; molars carry up to 90 kg near the mandibular fulcrum.
+2. Wedging cusps, steep inclines, lost marginal ridges and small contacts concentrate stress.
+3. Cracks never heal; central cracks run deeper and reach the pulp.
+4. Radiographs miss mesiodistal cracks; no clinical test is accurate against micro-CT.
+5. Restoration binds the segments; cuspal coverage matters more than its form.
+
+## DIAGRAMS TO DRAW
+
+1. Plunger cusp wedging into a fossa with the crack path towards the pulp.
+
+## COMMON EXAM MISTAKES
+
+1. Describing CTS as a single-impact injury instead of fatigue.
+2. Saying the crack can be removed with burs.
+3. Assuming a crown is proven superior to bonded cuspal coverage.
 
 ## SOURCE LIST
 
