@@ -274,6 +274,11 @@
 - [Q16. Discuss the various methods of preventing, minimizing and compensating for casting shrinkage. (25 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q16_Casting_Shrinkage_Prevention_Minimising_and_Compensation_25m.md)
 - [Q17. Discuss the causes and their management of distortion of Mesio-Occluso-Distal (M.O.D.) wax pattern. (25 marks)](Dental%20Materials/Casting%20Alloys%20and%20Defects/Q17_Distortion_of_MOD_Wax_Pattern_25m.md)
 
+### Inlay Wax
+- ["Inlay casting wax." (canonical answer, upgraded to 100 marks)](Dental%20Materials/Inlay%20Wax/Q01_Inlay_Casting_Wax_100m.md)
+- ["Flow properties of inlay wax." (canonical answer)](Dental%20Materials/Inlay%20Wax/Q02_Flow_Properties_of_Inlay_Wax_10m.md)
+- ["Discuss technique for indirect wax pattern" (canonical answer, upgraded to 100 marks)](Dental%20Materials/Inlay%20Wax/Q03_Technique_for_Indirect_Wax_Pattern_100m.md)
+
 ## Endodontics
 
 ### Calcium Silicate Cements
