@@ -288,6 +288,19 @@
 - ["Flow properties of inlay wax." (canonical answer)](Dental%20Materials/Inlay%20Wax/Q02_Flow_Properties_of_Inlay_Wax_10m.md)
 - ["Discuss technique for indirect wax pattern" (canonical answer, upgraded to 100 marks)](Dental%20Materials/Inlay%20Wax/Q03_Technique_for_Indirect_Wax_Pattern_100m.md)
 
+### Luting and Cementation Materials
+- [Q1. "Luting cements." (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q01_Luting_Cements_25m.md)
+- [Q2. "Describe the importance of physical properties of dental cements in clinical practice." (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q02_Physical_Properties_of_Dental_Cements_20m.md)
+- [Q3. "Resin cements" (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q03_Resin_Cements_10m.md)
+- [Q4. "Cements for temporary restorations." (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q04_Cements_for_Temporary_Restorations_10m.md)
+- [Q5. "Cementation of gold [Inlay]." (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q05_Cementation_of_Gold_Inlay_5m.md)
+- [Q6. "Soldering and cementation." (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q06_Soldering_and_Cementation_10m.md)
+- [Q7. "Calcium hydroxide cement" (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q07_Calcium_Hydroxide_Cement_10m.md)
+- [Q8. "Super EBA." (canonical answer)](Dental%20Materials/Luting%20and%20Cementation%20Materials/Q08_Super_EBA_5m.md)
+- [P1. "Self-adhesive resin cements" (canonical answer; PREDICTED, not seen in your papers)](Dental%20Materials/Luting%20and%20Cementation%20Materials/P1_Self_Adhesive_Resin_Cements_10m_PREDICTED.md)
+- [P2. "Compare zinc phosphate, zinc polycarboxylate, glass ionomer, resin-modified glass ionomer and resin luting cements" (canonical answer; PREDICTED, not seen in your papers)](Dental%20Materials/Luting%20and%20Cementation%20Materials/P2_Comparison_of_Luting_Cements_15m_PREDICTED.md)
+- [P3. "Selection of a luting cement by restoration type: metal, metal-ceramic, glass-ceramic, zirconia, posts" (canonical answer; PREDICTED, not seen in your papers)](Dental%20Materials/Luting%20and%20Cementation%20Materials/P3_Luting_Cement_Selection_by_Restoration_Type_10m_PREDICTED.md)
+
 ## Endodontics
 
 ### Calcium Silicate Cements
