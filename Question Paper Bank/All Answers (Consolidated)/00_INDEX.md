@@ -465,6 +465,32 @@
 - ["Relevance of single visit endodontics." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q06_Relevance_of_Single_Visit_Endodontics_10m.md)
 - ["Discuss the possibilities of single visit endodontic therapy in asymptomatic pulpless teeth." (canonical answer)](Endodontics/Single%20vs%20Multi-Visit%20Endodontics/Q07_Single_Visit_Therapy_in_Asymptomatic_Pulpless_Teeth_10m.md)
 
+### Access Cavity Preparation
+- ["Discuss the objectives and principles of all access cavity preparation" (canonical answer)](Endodontics/Access%20Cavity%20Preparation/C1_Objectives_and_Principles_of_Access_Cavity_Preparation_25m.md)
+- ["Endodontic Triad." (canonical answer)](Endodontics/Access%20Cavity%20Preparation/C2_Endodontic_Triad_and_Importance_of_Access_10m.md)
+- ["Morphology of access cavities and its importance." (canonical answer)](Endodontics/Access%20Cavity%20Preparation/C3_Morphology_of_Access_Cavities_and_Molar_Guidelines_10m.md)
+- ["Minimally invasive endodontic access cavities." (canonical answer)](Endodontics/Access%20Cavity%20Preparation/C4_Minimally_Invasive_Endodontic_Access_Cavities_25m.md)
+- ["Discuss in detail about Guided Endodontics." (canonical answer)](Endodontics/Access%20Cavity%20Preparation/C5_Guided_Endodontics_50m.md)
+- ["Access cavity preparation in calcified canals and pulp canal obliteration." (PREDICTED canonical answer)](Endodontics/Access%20Cavity%20Preparation/P1_Access_in_Calcified_Canals_10m_PREDICTED.md)
+- ["Access through crowns and existing restorations." (PREDICTED canonical answer)](Endodontics/Access%20Cavity%20Preparation/P2_Access_Through_Crowns_and_Existing_Restorations_10m_PREDICTED.md)
+- ["Locating canal orifices: landmarks, laws and aids." (PREDICTED canonical answer)](Endodontics/Access%20Cavity%20Preparation/P3_Locating_Canal_Orifices_Landmarks_Laws_and_Aids_10m_PREDICTED.md)
+
+### Instruments and Instrumentation
+- ["Re-treatment files." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I10_Retreatment_Files_10m.md)
+- ["Discuss the factors influencing the separation of nickel-titanium rotary instruments." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I11_Factors_Influencing_Separation_of_NiTi_Rotary_Instruments_20m.md)
+- ["Rotary endodontics." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I1_Rotary_Endodontics_100m.md)
+- ["Role of automation in endodontics." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I2_Role_of_Automation_in_Endodontics_75m.md)
+- ["Endodontic instruments - trace its journey till present." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I3_Endodontic_Instruments_Journey_Till_Present_50m.md)
+- ["Advancements in NiTi metallurgy for rotary endodontic instruments." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I4_Advancements_in_NiTi_Metallurgy_for_Rotary_Instruments_50m.md)
+- ["Merits and demerits of rotary and Reciprocating files in Endodontics" (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I5_Rotary_and_Reciprocating_Files_Merits_and_Demerits_25m.md)
+- ["Describe the various design features of root canal cleaning and shaping instruments and discuss their relative efficacy." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I6_Design_Features_of_Root_Canal_Instruments_and_Relative_Efficacy_25m.md)
+- ["Standardization and variations of root canal instruments" (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I7_Classification_and_Standardization_of_Root_Canal_Instruments_10m.md)
+- ["Utility of ultra sonics and sonics in endodontics." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I8_Ultrasonics_and_Sonics_in_Endodontics_25m.md)
+- ["Self-adjusting files — Merits and demerits." (canonical answer)](Endodontics/Instruments%20and%20Instrumentation/I9_Self_Adjusting_Files_Merits_and_Demerits_10m.md)
+- ["Sterilization, reuse and single use of endodontic rotary files." (PREDICTED canonical answer)](Endodontics/Instruments%20and%20Instrumentation/P1_Sterilization_Reuse_and_Single_Use_of_Rotary_Files_10m_PREDICTED.md)
+- ["Cyclic fatigue and torsional resistance of NiTi files: mechanisms and testing." (PREDICTED canonical answer)](Endodontics/Instruments%20and%20Instrumentation/P2_Cyclic_Fatigue_and_Torsional_Resistance_of_NiTi_Files_10m_PREDICTED.md)
+- ["Conforming and thermally activated files: TRUShape, TruNatomy and XP-endo." (PREDICTED canonical answer)](Endodontics/Instruments%20and%20Instrumentation/P3_XP_endo_TRUShape_TruNatomy_and_Thermally_Activated_Files_10m_PREDICTED.md)
+
 ## Recent Advances
 
 ### Ceramics
