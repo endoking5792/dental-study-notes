@@ -160,6 +160,22 @@
 - [Q6. "Recent advances in field isolation" (canonical answer)](Conservative%20Dentistry/Isolation%20and%20Moisture%20Control/Q06_Recent_Advances_in_Field_Isolation_25m.md)
 - [Q7. "Discuss methods of exclusion of saliva during operative procedures" (canonical answer)](Conservative%20Dentistry/Isolation%20and%20Moisture%20Control/Q07_Methods_of_Exclusion_of_Saliva_10m.md)
 
+### Non-Carious Tooth Defects
+- [Q1. "Non – Carious lesions and their management." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q01_Non_Carious_Lesions_and_Their_Management_50m.md)
+- [Q2. "Erosion and its management." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q02_Erosion_and_its_Management_75m.md)
+- [Q3. "Management of cervical lesions." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q03_Management_of_Cervical_Lesions_75m.md)
+- [Q4. "Pathogenesis and clinical features of non-carious cervical lesions (NCCL)." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q04_NCCL_Pathogenesis_Clinical_Features_10m.md)
+- [Q5. "What are Noncarious disfigurement of teeth? Critically evaluate the different materials and techniques used in restoring cervical abrasion." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q05_Disfigurement_and_Restoring_Cervical_Abrasion_25m.md)
+- [Q6. "Restorative options for a class V restoration." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q06_Restorative_Options_Class_V_10m.md)
+- [Q7. "Describe causes, incidence and management of abfraction." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q07_Abfraction_10m.md)
+- [Q8. "Abrasion and Abfraction." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q08_Abrasion_and_Abfraction_5m.md)
+- [Q9. "Attrition and its management." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q09_Attrition_Management_10m.md)
+- [Q10. "Management of wasting disease of the teeth." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q10_Wasting_Disease_Management_25m.md)
+- [Q11. "Discuss etiology and management of white spot lesions." (canonical answer)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/Q11_White_Spot_Lesions_25m.md)
+- [P1. "Tooth wear indices: Smith and Knight TWI and the BEWE" (canonical answer; PREDICTED, not seen in your papers)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/P1_Tooth_Wear_Indices_TWI_and_BEWE_10m_PREDICTED.md)
+- [P2. "The Dahl concept and management of localised anterior tooth wear" (canonical answer; PREDICTED, not seen in your papers)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/P2_Dahl_Concept_Localised_Anterior_Wear_10m_PREDICTED.md)
+- [P3. "Role of saliva and the acquired pellicle in dental erosion" (canonical answer; PREDICTED, not seen in your papers)](Conservative%20Dentistry/Non-Carious%20Tooth%20Defects/P3_Saliva_and_Pellicle_in_Erosion_10m_PREDICTED.md)
+
 ## Dental Materials
 
 ### Amalgam
@@ -503,3 +519,7 @@
 
 ### Smear Layer
 - ["Smear layer and sixth generation bonding systems."](Recent%20Advances/Smear%20Layer/Q10_Smear_Layer_and_Sixth_Generation_Bonding_Systems_25m.md)
+
+### Non-Carious Tooth Defects
+- [Q2. "Erosion and its management." (canonical answer)](Recent%20Advances/Non-Carious%20Tooth%20Defects/Q02_Erosion_and_its_Management_75m.md)
+- [Q3. "Management of cervical lesions." (canonical answer)](Recent%20Advances/Non-Carious%20Tooth%20Defects/Q03_Management_of_Cervical_Lesions_75m.md)
